@@ -1,0 +1,327 @@
+--- METADATA ---
+Document ID: ada_standards_2026_section_5
+Source File: dc26s005.pdf
+Title: ADA Standards of Care in Diabetes 2026 - Section 5
+Page: 7
+----------------
+
+=== RAW TEXT ===
+diabetesjournals.org/care 
+Facilitating Positive Health Behaviors and Well-being 
+S95 
+AID systems may reduce the need for 
+precise carbohydrate counting and al-
+low for personalized nutrition approaches 
+(92,93). 
+Meal planning approaches should be 
+customized to the individual, including 
+their numeracy and food literacy level 
+(88). Health numeracy refers to under-
+standing and using numbers and numeri-
+cal concepts in relation to health and 
+self-management. Food literacy gener-
+ally describes proﬁciency in food-related 
+knowledge and skills that ultimately af-
+fect health, although speciﬁc deﬁnitions 
+vary across initiatives (94,95). 
+Nutrition Therapy Goals for All 
+People With Diabetes 
+1. To promote and support healthful 
+eating patterns, emphasizing a vari-
+ety of nutrient-dense foods in appro-
+priate portion sizes, contributing to 
+improved overall health, and to: 
+• achieve and maintain body weight 
+goals 
+• attain individualized glycemic, blood 
+pressure, and lipid goals 
+• delay or prevent the complications 
+of diabetes 
+2. To address individual nutrition needs 
+based on personal and cultural prefer-
+ences, health literacy and numeracy, 
+access to healthful foods, willingness 
+and ability to make behavioral changes, 
+and existing barriers to change 
+3. To maintain the pleasure of eating by 
+providing nonjudgmental messages 
+about food choices while also reducing 
+or limiting certain foods only when in-
+dicated by scientiﬁc evidence 
+4. To provide an individual with diabetes 
+the practical tools for developing healthy 
+eating patterns rather than focusing 
+on individual macronutrients, micro-
+nutrients, or single foods 
+Carbohydrates 
+Studies examining the optimal amount of 
+carbohydrate intake for people with dia-
+betes are inconclusive, although monitor-
+ing carbohydrate intake is a key strategy 
+in reaching glucose goals in people with 
+type 1 and type 2 diabetes (96,97). 
+The amount of carbohydrate intake for 
+people with type 2 diabetes has been a 
+focus of research for many years. System-
+atic reviews and meta-analyses of RCTs 
+report carbohydrate-restricted eating pat-
+terns, particularly those considered very 
+low carbohydrate (<26% total energy), 
+were effective in reducing A1C in the short 
+term (<6 months), w ith l ess d ifference i n  
+eating patterns beyond 1 year (80,98,99). 
+However, in a 12-week RCT among adults 
+with prediabetes and type 2 diabetes, a 
+well-formulated ketogenic eating pattern 
+(20–50 g total carbohydrate/day and keep-
+ing protein to ∼1.5 g/kg ideal body weight/ 
+day, with the remainder of energy from 
+fat) did not signiﬁcantly improve A1C and 
+increased LDL cholesterol compared with 
+a low-carbohydrate Mediterranean eating 
+pattern (99). Additionally, a systematic re-
+view and meta-analysis of six RCTs at least 
+12 months in duration and including a 
+total of 524 participants with type 2 di-
+abetes reported that a low-carbohydrate 
+eating pattern was beneﬁcial for lipids but 
+not glycemic management (standardized 
+mean difference −0.11, 95% CI −0.33 to 
+0.11, P = 0.32) (100). 
+Reduction in body weight and the wide 
+range of deﬁnitions for low-carbohydrate 
+eating plans are important challenges in 
+interpreting carbohydrate-restricted re-
+search studies (101–103). As studies on 
+low-carbohydrate eating plans generally in-
+dicate challenges with long-term sustain-
+ability (104), it is important to reassess and 
+individualize meal plan guidance regularly 
+for those interested in this approach. 
+Health care professionals should main-
+tain consistent medical oversight of indi-
+viduals following very-low-carbohydrate 
+eating plans and recognize that insulin and 
+other diabetes medications may need to 
+be adjusted to prevent hypoglycemia, and 
+blood pressure will need to be monitored. 
+In addition, very-low-carbohydrate eating 
+plans are not currently recommended 
+for individuals who are pregnant or lactat-
+ing, children, people who have kidney 
+disease, or people with or at risk for dis-
+ordered eating (46). 
+Very-low-carbohydrate eating plans 
+should be avoided in those taking 
+sodium–glucose cotransporter 2 (SGLT2) 
+inhibitors because of the potential risk of 
+ketoacidosis (105,106). Numerous case 
+reports have now been published illus-
+trating that diabetic ketoacidosis (DKA) 
+can occur in people with type 1 and type 2 
+diabetes using SGLT2 inhibitors in combi-
+nation with very-low-carbohydrate or 
+ketogenic eating patterns. Addition-
+ally, excessive alcohol intake should be 
+avoided when taking SGLT2 inhibitors 
+(105). Maintaining adequate hydration is 
+also very important. 
+Regardless of carbohydrate quantity in 
+the meal plan, the focus should be on 
+high-quality, minimally processed, nutrient-
+dense, high-ﬁber carbohydrate sources. Fi-
+ber modulates gut microbiota composition 
+and increases gut microbial diversity. Al-
+though there is still much to be elucidated 
+about the gut microbiome and chronic 
+disease, higher-ﬁber eating patterns are 
+advantageous (107). Both children and 
+adults with diabetes are encouraged to 
+minimize intake of reﬁned carbohydrates 
+with added sugars, fat, and sodium and 
+instead focus on carbohydrates from veg-
+etables, legumes, fruits, dairy (milk and 
+yogurt) or fortiﬁed nondairy alternatives, 
+and whole grains. People with diabetes 
+and those at risk for diabetes are encour-
+aged to consume a minimum of 14 g of 
+ﬁber/1,000 kcal, with at least half of grain 
+consumption being whole, intact grains, 
+according to the Dietary Guidelines for 
+Americans, 2020–2025 (72). Regular in-
+take of sufﬁcient ﬁber is associated with 
+lower all-cause mortality in people with 
+diabetes, and prospective cohort studies 
+have found ﬁber intake is inversely associ-
+ated with risk for type 2 diabetes (108, 
+109). Consumption of sugar-sweetened 
+beverages and processed food products 
+with large amounts of reﬁned grains and 
+added sugars is strongly discouraged (72), 
+as these can displace healthier, more nu-
+trient-dense foods and increase inﬂam-
+mation (110). 
+The literature on GI and glycemic load 
+(GL) in individuals with diabetes is complex, 
+often with varying deﬁnitions of low- and 
+high-GI foods (111–113). The GI ranks car-
+bohydrate foods on their postprandial gly-
+cemic response, and GL considers both the 
+GI of foods and the amount of carbohy-
+drate eaten. Studies report mixed effects 
+of GI and GL on fasting glucose levels and 
+A1C, with one systematic review ﬁnding no 
+signiﬁcant effect on A1C (112) while others 
+demonstrated A1C reductions of 0.15% 
+(111) to 0.5% (114,115). More recently, 
+however, a meta-analysis of large cohorts 
+(≥100,000 participants) reported that when 
+people had larger intakes of high-GI foods, 
+there was increased incidence of type 2 
+diabetes (risk ratio 1.27 [95% CI 1.21–1.34]; 
+P < 0.0001), total cardiovascular disease 
+(CVD) (1.15 [1.11–1.19]; P < 0.0001), dia-
+betes-related cancer (1.05 [1.02–1.08]; 
+P = 0.0010), and all-cause mortality (1.08 
+[1.05–1.12]; P < 0.0001) (113). It is impor-
+tant to note that low GI or low GL is synon-
+ymous with higher-ﬁber eating patterns. 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S89/​848861/​dc26s005.​pdf by guest on 16 August 2026
+
+
+=== CLEANED TEXT ===
+AID systems may reduce the need for
+precise carbohydrate counting and allow for personalized nutrition approaches
+(92,93).
+Meal planning approaches should be
+customized to the individual, including
+their numeracy and food literacy level
+(88). Health numeracy refers to understanding and using numbers and numerical concepts in relation to health and
+self-management. Food literacy generally describes proficiency in food-related
+knowledge and skills that ultimately affect health, although specific definitions
+vary across initiatives (94,95).
+Nutrition Therapy Goals for All
+People With Diabetes
+1. To promote and support healthful
+eating patterns, emphasizing a variety of nutrient-dense foods in appropriate portion sizes, contributing to
+improved overall health, and to:
+* achieve and maintain body weight
+goals
+* attain individualized glycemic, blood
+pressure, and lipid goals
+* delay or prevent the complications
+of diabetes
+2. To address individual nutrition needs
+based on personal and cultural preferences, health literacy and numeracy,
+access to healthful foods, willingness
+and ability to make behavioral changes,
+and existing barriers to change
+3. To maintain the pleasure of eating by
+providing nonjudgmental messages
+about food choices while also reducing
+or limiting certain foods only when indicated by scientific evidence
+4. To provide an individual with diabetes
+the practical tools for developing healthy
+eating patterns rather than focusing
+on individual macronutrients, micronutrients, or single foods
+Carbohydrates
+Studies examining the optimal amount of
+carbohydrate intake for people with diabetes are inconclusive, although monitoring carbohydrate intake is a key strategy
+in reaching glucose goals in people with
+type 1 and type 2 diabetes (96,97).
+The amount of carbohydrate intake for
+people with type 2 diabetes has been a
+focus of research for many years. Systematic reviews and meta-analyses of RCTs
+report carbohydrate-restricted eating patterns, particularly those considered very
+low carbohydrate (<26% total energy),
+were effective in reducing A1C in the short
+term (<6 months), w ith l ess d ifference i n
+eating patterns beyond 1 year (80,98,99).
+However, in a 12-week RCT among adults
+with prediabetes and type 2 diabetes, a
+well-formulated ketogenic eating pattern
+(20-50 g total carbohydrate/day and keeping protein to ∼1.5 g/kg ideal body weight/
+day, with the remainder of energy from
+fat) did not significantly improve A1C and
+increased LDL cholesterol compared with
+a low-carbohydrate Mediterranean eating
+pattern (99). Additionally, a systematic review and meta-analysis of six RCTs at least
+12 months in duration and including a
+total of 524 participants with type 2 diabetes reported that a low-carbohydrate
+eating pattern was beneficial for lipids but
+not glycemic management (standardized
+mean difference −0.11, 95% CI −0.33 to
+0.11, P = 0.32) (100).
+Reduction in body weight and the wide
+range of definitions for low-carbohydrate
+eating plans are important challenges in
+interpreting carbohydrate-restricted research studies (101-103). As studies on
+low-carbohydrate eating plans generally indicate challenges with long-term sustainability (104), it is important to reassess and
+individualize meal plan guidance regularly
+for those interested in this approach.
+Health care professionals should maintain consistent medical oversight of individuals following very-low-carbohydrate
+eating plans and recognize that insulin and
+other diabetes medications may need to
+be adjusted to prevent hypoglycemia, and
+blood pressure will need to be monitored.
+In addition, very-low-carbohydrate eating
+plans are not currently recommended
+for individuals who are pregnant or lactating, children, people who have kidney
+disease, or people with or at risk for disordered eating (46).
+Very-low-carbohydrate eating plans
+should be avoided in those taking
+sodium-glucose cotransporter 2 (SGLT2)
+inhibitors because of the potential risk of
+ketoacidosis (105,106). Numerous case
+reports have now been published illustrating that diabetic ketoacidosis (DKA)
+can occur in people with type 1 and type 2
+diabetes using SGLT2 inhibitors in combination with very-low-carbohydrate or
+ketogenic eating patterns. Additionally, excessive alcohol intake should be
+avoided when taking SGLT2 inhibitors
+(105). Maintaining adequate hydration is
+also very important.
+Regardless of carbohydrate quantity in
+the meal plan, the focus should be on
+high-quality, minimally processed, nutrientdense, high-fiber carbohydrate sources. Fiber modulates gut microbiota composition
+and increases gut microbial diversity. Although there is still much to be elucidated
+about the gut microbiome and chronic
+disease, higher-fiber eating patterns are
+advantageous (107). Both children and
+adults with diabetes are encouraged to
+minimize intake of refined carbohydrates
+with added sugars, fat, and sodium and
+instead focus on carbohydrates from vegetables, legumes, fruits, dairy (milk and
+yogurt) or fortified nondairy alternatives,
+and whole grains. People with diabetes
+and those at risk for diabetes are encouraged to consume a minimum of 14 g of
+fiber/1,000 kcal, with at least half of grain
+consumption being whole, intact grains,
+according to the Dietary Guidelines for
+Americans, 2020-2025 (72). Regular intake of sufficient fiber is associated with
+lower all-cause mortality in people with
+diabetes, and prospective cohort studies
+have found fiber intake is inversely associated with risk for type 2 diabetes (108,
+109). Consumption of sugar-sweetened
+beverages and processed food products
+with large amounts of refined grains and
+added sugars is strongly discouraged (72),
+as these can displace healthier, more nutrient-dense foods and increase inflammation (110).
+The literature on GI and glycemic load
+(GL) in individuals with diabetes is complex,
+often with varying definitions of low- and
+high-GI foods (111-113). The GI ranks carbohydrate foods on their postprandial glycemic response, and GL considers both the
+GI of foods and the amount of carbohydrate eaten. Studies report mixed effects
+of GI and GL on fasting glucose levels and
+A1C, with one systematic review finding no
+significant effect on A1C (112) while others
+demonstrated A1C reductions of 0.15%
+(111) to 0.5% (114,115). More recently,
+however, a meta-analysis of large cohorts
+(≥100,000 participants) reported that when
+people had larger intakes of high-GI foods,
+there was increased incidence of type 2
+diabetes (risk ratio 1.27 [95% CI 1.21-1.34];
+P < 0.0001), total cardiovascular disease
+(CVD) (1.15 [1.11-1.19]; P < 0.0001), diabetes-related cancer (1.05 [1.02-1.08];
+P = 0.0010), and all-cause mortality (1.08
+[1.05-1.12]; P < 0.0001) (113). It is important to note that low GI or low GL is synonymous with higher-fiber eating patterns.

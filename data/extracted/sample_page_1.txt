@@ -1,0 +1,142 @@
+--- METADATA ---
+Document ID: ada_standards_2026_section_5
+Source File: dc26s005.pdf
+Title: ADA Standards of Care in Diabetes 2026 - Section 5
+Page: 1
+----------------
+
+=== RAW TEXT ===
+Diabetes Care Volume 49, Supplement 1, January 2026
+S89 
+5. FACILITATING POSITIVE HEALTH BEHAVIORS
+5. Facilitating Positive Health
+Behaviors and Well-being to
+Improve Health Outcomes:
+Standards of Care in
+Diabetes—2026
+Diabetes Care 2026;49(Suppl. 1):S89–S131 | https://doi.org/10.2337/dc26-S005
+American Diabetes Association
+Professional Practice Committee for
+Diabetes*
+*A complete list of members of the American 
+Diabetes Association Professional Practice Committee 
+for Diabetes can be found at https://doi.org/10 
+.2337/dc26-SINT. 
+Duality of interest information for each contributor 
+is available at https://doi.org/10.2337/dc26-SDIS. 
+Suggested citation: American Diabetes Association 
+Professional Practice Committee for Diabetes. 5. 
+Facilitating positive health behaviors and well-
+being to improve health outcomes: Standards of 
+Care in Diabetes—2026. Diabetes Care 2026;49 
+(Suppl. 1):S89–S131 
+© 2025 by the American Diabetes Association. 
+Readers may use this work for educational, 
+noncommercial purposes if properly cited and 
+unaltered. The version of record may be linked 
+at https://diabetesjournals.org/care, but ADA 
+permission is required to post this work on any 
+third-party site or platform. This publication and its 
+contents may not be reproduced, distributed, or 
+used for text or data mining, machine learning, 
+or similar technologies without prior written 
+permission. Requests to reuse, adapt, or distribute 
+this work may be sent to permissions@diabetes
+.org. More information is available at https://
+diabetesjournals.org/journals/pages/license.
+The American Diabetes Association (ADA) “Standards of Care in Diabetes” includes the 
+ADA’s current clinical practice recommendations and is intended to provide the compo-
+nents of diabetes care, general treatment goals and guidelines, and tools to evaluate 
+quality of care. Members of the ADA Professional Practice Committee for Diabetes, an 
+interprofessional expert committee, are responsible for updating the Standards of Care 
+annually, or more frequently as warranted. For a detailed description of ADA standards, 
+statements, and reports, as well as the evidence-grading system for ADA’s clinical prac-
+tice recommendations and a full list of Professional Practice Committee members, 
+please refer to Introduction and Methodology. Readers who wish to comment on the 
+Standards of Care are invited to do so at professional.diabetes.org/SOC. 
+Building positive health behaviors and maintaining psychological well-being are foun-
+dational for achieving diabetes management goals and maximizing quality of life (1,2). 
+Essential to achieving these goals are diabetes self-management education and sup-
+port (DSMES), medical nutrition therapy (MNT), routine physical activity, adequate
+quality sleep, support for cessation of tobacco products and vaping, health behavior
+counseling, and psychosocial care. Following an initial comprehensive health
+evaluation (see section 4, “Comprehensive Medical Evaluation and Assessment
+of Comorbidities”), health care professionals should engage in person-centered col-
+laborative care with people with diabetes (3–7). Person-centered collaborative care
+is guided by shared decision-making in treatment plan selection; facilitating access to 
+medical, behavioral, psychosocial, educational, and technological resources and sup-
+port; and shared monitoring of agreed-upon diabetes care plans and behavioral goals 
+(8,9). Routine care evaluations should include assessments of medical and behavioral 
+health outcomes, particularly during periods of changes in health and well-being.
+DIABETES SELF-MANAGEMENT EDUCATION AND SUPPORT 
+Recommendations 
+5.1 Advise all people with diabetes to participate in developmentally and cul-
+turally appropriate diabetes self-management education and support (DSMES)
+to facilitate informed decision-making, self-care behaviors, problem-solving, and
+active collaboration with the health care team. A
+5.2 Provide DSMES at diagnosis, annually and/or when not meeting treatment
+goals, when complicating factors develop (e.g., medical, functional, and psychoso-
+cial), and when transitions in life and care occur. E
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S89/​848861/​dc26s005.​pdf by guest on 16 August 2026
+
+
+=== CLEANED TEXT ===
+5. FACILITATING POSITIVE HEALTH BEHAVIORS
+5. Facilitating Positive Health
+Behaviors and Well-being to
+Improve Health Outcomes:
+Standards of Care in
+Diabetes--2026
+Diabetes Care 2026;49(Suppl. 1):S89-S131 | https://doi.org/10.2337/dc26-S005
+American Diabetes Association
+Professional Practice Committee for
+Diabetes*
+*A complete list of members of the American
+Diabetes Association Professional Practice Committee
+for Diabetes can be found at https://doi.org/10
+.2337/dc26-SINT.
+Duality of interest information for each contributor
+is available at https://doi.org/10.2337/dc26-SDIS.
+Suggested citation: American Diabetes Association
+Professional Practice Committee for Diabetes. 5.
+Facilitating positive health behaviors and wellbeing to improve health outcomes: Standards of
+Care in Diabetes--2026. Diabetes Care 2026;49
+(Suppl. 1):S89-S131
+© 2025 by the American Diabetes Association.
+Readers may use this work for educational,
+noncommercial purposes if properly cited and
+unaltered. The version of record may be linked
+permission is required to post this work on any
+third-party site or platform. This publication and its
+contents may not be reproduced, distributed, or
+used for text or data mining, machine learning,
+or similar technologies without prior written
+permission. Requests to reuse, adapt, or distribute
+this work may be sent to permissions@diabetes
+.org. More information is available at https://
+diabetesjournals.org/journals/pages/license.
+The American Diabetes Association (ADA) "Standards of Care in Diabetes" includes the
+ADA's current clinical practice recommendations and is intended to provide the components of diabetes care, general treatment goals and guidelines, and tools to evaluate
+quality of care. Members of the ADA Professional Practice Committee for Diabetes, an
+interprofessional expert committee, are responsible for updating the Standards of Care
+annually, or more frequently as warranted. For a detailed description of ADA standards,
+statements, and reports, as well as the evidence-grading system for ADA's clinical practice recommendations and a full list of Professional Practice Committee members,
+please refer to Introduction and Methodology. Readers who wish to comment on the
+Standards of Care are invited to do so at professional.diabetes.org/SOC.
+Building positive health behaviors and maintaining psychological well-being are foundational for achieving diabetes management goals and maximizing quality of life (1,2).
+Essential to achieving these goals are diabetes self-management education and support (DSMES), medical nutrition therapy (MNT), routine physical activity, adequate
+quality sleep, support for cessation of tobacco products and vaping, health behavior
+counseling, and psychosocial care. Following an initial comprehensive health
+evaluation (see section 4, "Comprehensive Medical Evaluation and Assessment
+of Comorbidities"), health care professionals should engage in person-centered collaborative care with people with diabetes (3-7). Person-centered collaborative care
+is guided by shared decision-making in treatment plan selection; facilitating access to
+medical, behavioral, psychosocial, educational, and technological resources and support; and shared monitoring of agreed-upon diabetes care plans and behavioral goals
+(8,9). Routine care evaluations should include assessments of medical and behavioral
+health outcomes, particularly during periods of changes in health and well-being.
+DIABETES SELF-MANAGEMENT EDUCATION AND SUPPORT
+Recommendations
+5.1 Advise all people with diabetes to participate in developmentally and culturally appropriate diabetes self-management education and support (DSMES)
+to facilitate informed decision-making, self-care behaviors, problem-solving, and
+active collaboration with the health care team. A
+5.2 Provide DSMES at diagnosis, annually and/or when not meeting treatment
+goals, when complicating factors develop (e.g., medical, functional, and psychosocial), and when transitions in life and care occur. E

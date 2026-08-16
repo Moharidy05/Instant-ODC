@@ -1,0 +1,213 @@
+--- METADATA ---
+Document ID: ada_standards_2026_section_5
+Source File: dc26s005.pdf
+Title: ADA Standards of Care in Diabetes 2026 - Section 5
+Page: 6
+----------------
+
+=== RAW TEXT ===
+S94 
+Facilitating Positive Health Behaviors and Well-being 
+Diabetes Care Volume 49, Supplement 1, January 2026 
+people with diabetes make healthy food 
+choices that meet their individualized needs 
+and improve overall health. Ultimately, 
+ongoing diabetes and nutrition education 
+paired with appropriate support to im-
+plement and sustain health behaviors are 
+recommended (78). 
+Table 5.2-Nutrition behaviors to encourage 
+• Vegetables—especially nonstarchy vegetables that are dark green, red, and orange in color; fresh, frozen, or low-sodium canned are all 
+acceptable vegetable options. 
+• Legumes—dried beans, peas, and lentils. 
+• Fruits—especially whole fruit—fresh, frozen, or canned in own juice (or no added sugar) are all acceptable fruit options. 
+• Foods with at least 3 g of ﬁber per serving are generally considered higher ﬁber choices. Whole-grain foods—where culturally appropri-
+ate, whole-grain versions of commonly consumed foods, such as 100% whole-wheat breads or pastas and brown rice. When not culturally 
+appropriate, focus more on portion control. 
+• Water should be the primary beverage of choice. 
+• For individuals who do not prefer plain water, no-calorie alternatives are the next best choice. Options include adding lemon, lime, ber-
+ries, or cucumber slices to water; sparkling no-calorie water or ﬂavored no-calorie waters; no-calorie carbonated beverages. 
+• Plant-based proteins can include legumes (e.g., soybeans, pinto beans, black beans, garbanzo beans, dried peas, and lentils), nuts, and seeds. 
+• Meats and poultry should be from fresh, frozen, or low-sodium canned and in lean forms (e.g., chicken breast and ground turkey). 
+• Heart-healthy wild-caught fatty ﬁsh such as salmon, tuna, sardines, and mackerel. Fresh, frozen, or low-sodium canned are all acceptable 
+options. 
+• Use herbs (e.g., basil, fennel, mint, parsley, rosemary, and thyme) and spices (e.g., cinnamon, garam masala, ginger, pepper, and tur-
+meric) to season foods instead of salt or salt-containing preparations. 
+• Incorporate onions, garlic, celery, carrots, and other vegetables as a base for preparing various homemade foods. 
+• Cook with vegetable oil (e.g., avocado, canola, and olive) in place of fats high in saturated fat (e.g., butter, coconut oil, lard, and 
+shortening). 
+• Plan out meals for the week. Grocery shop using a list. Cook on a day off so there are ready-to-eat and ready-to-reheat homemade 
+meals waiting in the fridge or freezer. 
+• Include family or roommates in meal preparation; share the responsibilities of grocery shopping and cooking and use time off for meal 
+preparation in advance when possible. 
+Research conﬁrms a variety of eating pat-
+terns are acceptable for diabetes manage-
+ment (46,74,82,83). Evidence-based eating 
+patterns most frequently recommended 
+include Mediterranean, DASH, low-fat, car-
+bohydrate-restricted, vegetarian, and vegan 
+eating patterns. Until evidence around ben-
+eﬁts of speciﬁc eating patterns is strength-
+ened, health care professionals should focus 
+on the common core characteristics among 
+healthful patterns: inclusion of nonstarchy 
+vegetables, whole fruits, legumes, whole 
+grains, nuts, seeds, and low-fat dairy prod-
+ucts or nondairy replacements and mini-
+mizing consumption of red meat, sugar-
+sweetened beverages, sweets, reﬁned 
+grains, and processed and ultraprocessed 
+foods (84,85). The recent Dietary Ap-
+proaches to Stop Hypertension for Diabe-
+tes (DASH4D) RCT further supports this 
+guidance (86). In their randomized cross-
+over feeding study conducted from 2021 
+to 2024, adults with type 2 diabetes and 
+hypertension improved time in range 
+(mean difference 5.2%; P < 0.001) and 
+blood pressure. The intervention eating 
+pattern was moderate in carbohydrates 
+(45% of total calories), rich in fruits, veg-
+etables, whole grains, lean proteins, and 
+low-fat dairy, and low in saturated fat, 
+sugar-sweetened beverages, and sodium. 
+Referral to and ongoing support from 
+an RDN is essential to assess the overall 
+nutrition status of the person with diabe-
+tes. RDNs work collaboratively with peo-
+ple to create a personalized meal plan 
+aligned with the overall lifestyle treatment 
+plan, including physical activity, work and 
+life schedules, and medication use. Using 
+shared decision-making to execute the 
+plan is also often part of the nutrition 
+care process. 
+Eating/Meal Plan Approaches and Methods 
+Few head-to-head studies have compared 
+different eating approaches. The diabetes 
+plate method (87) is a commonly used 
+visual approach for providing basic meal 
+planning guidance for individuals with 
+type 1 and type 2 diabetes. One RCT found 
+that both the diabetes plate method and 
+carbohydrate counting were effective in 
+helping achieve improved A1C (88). The 
+diabetes plate method uses a simple 
+graphic (featuring a 9-in plate) to portion 
+foods (one-half of the plate for non-
+starchy vegetables, one-quarter of the 
+plate for protein, and one-quarter of the 
+plate for carbohydrates). 
+Carbohydrate counting is a more ad-
+vanced skill that helps plan for and track 
+how much carbohydrate is consumed at 
+meals and snacks. In a systematic review 
+and meta-analysis of carbohydrate count-
+ing versus other forms of meal planning 
+advice (e.g., standard education, low gly-
+cemic index [GI], and ﬁxed carbohydrate 
+quantities), no signiﬁcant differences were 
+seen in A1C levels compared with standard 
+education (89). In another RCT, a simpli-
+ﬁed carbohydrate counting tool based on 
+individual glycemic response was noninfe-
+rior to conventional carbohydrate count-
+ing in 85 adults with type 1 diabetes (90). 
+In a randomized crossover trial, carbohy-
+drate counting and qualitative meal size 
+(i.e., low, medium, and high carbohydrate) 
+were compared. Time in range was 74% 
+for carbohydrate counting and 70.5% for 
+the quantitative meal size estimates. Non-
+inferiority was not conﬁrmed for the qual-
+itative method (91). Newer technologies 
+(e.g., smart phone apps and CGM) and 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S89/​848861/​dc26s005.​pdf by guest on 16 August 2026
+
+
+=== CLEANED TEXT ===
+people with diabetes make healthy food
+choices that meet their individualized needs
+and improve overall health. Ultimately,
+ongoing diabetes and nutrition education
+paired with appropriate support to implement and sustain health behaviors are
+recommended (78).
+Table 5.2-Nutrition behaviors to encourage
+* Vegetables--especially nonstarchy vegetables that are dark green, red, and orange in color; fresh, frozen, or low-sodium canned are all
+acceptable vegetable options.
+* Legumes--dried beans, peas, and lentils.
+* Fruits--especially whole fruit--fresh, frozen, or canned in own juice (or no added sugar) are all acceptable fruit options.
+* Foods with at least 3 g of fiber per serving are generally considered higher fiber choices. Whole-grain foods--where culturally appropriate, whole-grain versions of commonly consumed foods, such as 100% whole-wheat breads or pastas and brown rice. When not culturally
+appropriate, focus more on portion control.
+* Water should be the primary beverage of choice.
+* For individuals who do not prefer plain water, no-calorie alternatives are the next best choice. Options include adding lemon, lime, berries, or cucumber slices to water; sparkling no-calorie water or flavored no-calorie waters; no-calorie carbonated beverages.
+* Plant-based proteins can include legumes (e.g., soybeans, pinto beans, black beans, garbanzo beans, dried peas, and lentils), nuts, and seeds.
+* Meats and poultry should be from fresh, frozen, or low-sodium canned and in lean forms (e.g., chicken breast and ground turkey).
+* Heart-healthy wild-caught fatty fish such as salmon, tuna, sardines, and mackerel. Fresh, frozen, or low-sodium canned are all acceptable
+options.
+* Use herbs (e.g., basil, fennel, mint, parsley, rosemary, and thyme) and spices (e.g., cinnamon, garam masala, ginger, pepper, and turmeric) to season foods instead of salt or salt-containing preparations.
+* Incorporate onions, garlic, celery, carrots, and other vegetables as a base for preparing various homemade foods.
+* Cook with vegetable oil (e.g., avocado, canola, and olive) in place of fats high in saturated fat (e.g., butter, coconut oil, lard, and
+shortening).
+* Plan out meals for the week. Grocery shop using a list. Cook on a day off so there are ready-to-eat and ready-to-reheat homemade
+meals waiting in the fridge or freezer.
+* Include family or roommates in meal preparation; share the responsibilities of grocery shopping and cooking and use time off for meal
+preparation in advance when possible.
+Research confirms a variety of eating patterns are acceptable for diabetes management (46,74,82,83). Evidence-based eating
+patterns most frequently recommended
+include Mediterranean, DASH, low-fat, carbohydrate-restricted, vegetarian, and vegan
+eating patterns. Until evidence around benefits of specific eating patterns is strengthened, health care professionals should focus
+on the common core characteristics among
+healthful patterns: inclusion of nonstarchy
+vegetables, whole fruits, legumes, whole
+grains, nuts, seeds, and low-fat dairy products or nondairy replacements and minimizing consumption of red meat, sugarsweetened beverages, sweets, refined
+grains, and processed and ultraprocessed
+foods (84,85). The recent Dietary Approaches to Stop Hypertension for Diabetes (DASH4D) RCT further supports this
+guidance (86). In their randomized crossover feeding study conducted from 2021
+to 2024, adults with type 2 diabetes and
+hypertension improved time in range
+(mean difference 5.2%; P < 0.001) and
+blood pressure. The intervention eating
+pattern was moderate in carbohydrates
+(45% of total calories), rich in fruits, vegetables, whole grains, lean proteins, and
+low-fat dairy, and low in saturated fat,
+sugar-sweetened beverages, and sodium.
+Referral to and ongoing support from
+an RDN is essential to assess the overall
+nutrition status of the person with diabetes. RDNs work collaboratively with people to create a personalized meal plan
+aligned with the overall lifestyle treatment
+plan, including physical activity, work and
+life schedules, and medication use. Using
+shared decision-making to execute the
+plan is also often part of the nutrition
+care process.
+Eating/Meal Plan Approaches and Methods
+Few head-to-head studies have compared
+different eating approaches. The diabetes
+plate method (87) is a commonly used
+visual approach for providing basic meal
+planning guidance for individuals with
+type 1 and type 2 diabetes. One RCT found
+that both the diabetes plate method and
+carbohydrate counting were effective in
+helping achieve improved A1C (88). The
+diabetes plate method uses a simple
+graphic (featuring a 9-in plate) to portion
+foods (one-half of the plate for nonstarchy vegetables, one-quarter of the
+plate for protein, and one-quarter of the
+plate for carbohydrates).
+Carbohydrate counting is a more advanced skill that helps plan for and track
+how much carbohydrate is consumed at
+meals and snacks. In a systematic review
+and meta-analysis of carbohydrate counting versus other forms of meal planning
+advice (e.g., standard education, low glycemic index [GI], and fixed carbohydrate
+quantities), no significant differences were
+seen in A1C levels compared with standard
+education (89). In another RCT, a simplified carbohydrate counting tool based on
+individual glycemic response was noninferior to conventional carbohydrate counting in 85 adults with type 1 diabetes (90).
+In a randomized crossover trial, carbohydrate counting and qualitative meal size
+(i.e., low, medium, and high carbohydrate)
+were compared. Time in range was 74%
+for carbohydrate counting and 70.5% for
+the quantitative meal size estimates. Noninferiority was not confirmed for the qualitative method (91). Newer technologies
+(e.g., smart phone apps and CGM) and
