@@ -1,0 +1,26 @@
+layers:
+  diabetes:
+    active: true
+    clinical_topic: diabetes_food_safety
+    required_documents: [ada_standards_2026_section_5]
+    description: Base diabetes food safety and nutrition layer.
+  diabetes_ckd:
+    active: false
+    clinical_topic: diabetes_food_safety_ckd
+    required_documents: [ckd_nutrition_guideline]
+    description: Diabetes plus kidney disease layer. Requires indexed CKD nutrition guideline.
+  diabetes_cvd:
+    active: false
+    clinical_topic: diabetes_food_safety_cvd
+    required_documents: [cardiovascular_nutrition_guideline]
+    description: Diabetes plus cardiovascular disease layer. Requires indexed cardiovascular guideline.
+  diabetes_pregnancy:
+    active: false
+    clinical_topic: diabetes_food_safety_pregnancy
+    required_documents: [pregnancy_diabetes_nutrition_guideline]
+    description: Diabetes in pregnancy layer. Requires indexed pregnancy guideline.
+  diabetes_hypertension:
+    active: false
+    clinical_topic: diabetes_food_safety_hypertension
+    required_documents: [hypertension_nutrition_guideline]
+    description: Diabetes plus hypertension layer. Requires indexed hypertension guideline.
