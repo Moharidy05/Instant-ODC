@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&display=swap');
+@import 'tailwindcss';
+
+@theme {
+  --color-navy: #071e3d;
+  --color-navy-text: #10233f;
+  --color-teal: #22c7b8;
+  --color-teal-600: #14a99b;
+  --color-cyan-soft: #e9faf8;
+  --color-grey-light: #f5f7fa;
+  --color-amber: #f59e0b;
+  --color-safe: #16a34a;
+  --color-limit: #dc2626;
+
+  --font-display: 'Manrope', system-ui, sans-serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+  --font-arabic: 'Cairo', system-ui, sans-serif;
+}
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--color-navy-text);
+  background-color: #ffffff;
+  -webkit-font-smoothing: antialiased;
+}
+
+[dir='rtl'] {
+  font-family: var(--font-arabic);
+}
+
+::selection {
+  background-color: rgba(34, 199, 184, 0.28);
+  color: #071e3d;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+*:hover {
+  scrollbar-color: rgba(7, 30, 61, 0.25) transparent;
+}
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: transparent;
+  border-radius: 999px;
+  border: 3px solid transparent;
+  background-clip: content-box;
+}
+*:hover::-webkit-scrollbar-thumb {
+  background-color: rgba(7, 30, 61, 0.25);
+}
