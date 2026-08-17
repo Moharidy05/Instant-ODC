@@ -1,0 +1,18 @@
+refuse:
+  - pattern: "(insulin dosing|how much insulin|insulin should i take)"
+    reason: Query asks for insulin dosing.
+  - pattern: "(medication adjustment|adjust my medication|change my dose|change my medication)"
+    reason: Query asks for medication adjustment.
+  - pattern: "(emergency treatment|emergency|severe hypoglycemia|ketoacidosis treatment)"
+    reason: Query asks for emergency treatment.
+  - pattern: "(full meal plan|meal plan).*(exact grams|grams|calories)"
+    reason: Query asks for a full meal plan with exact quantities.
+  - pattern: "(diagnose me|personal diagnosis|do i have diabetes)"
+    reason: Query asks for personal diagnosis.
+needs_caution:
+  - pattern: "(\\d+\\s*grams|exact amount|specific amount)"
+    reason: Query asks for exact quantities that this navigator does not prescribe.
+  - pattern: "(sglt2|keto|ketogenic|very low carbohydrate)"
+    reason: Query involves a dietary pattern or medication context requiring cautious guideline-grounded response.
+  - pattern: "(my condition|my diagnosis|i have)"
+    reason: Query mentions personal health context.
