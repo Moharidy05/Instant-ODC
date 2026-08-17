@@ -3,7 +3,7 @@
 ## Basic Statistics
 - **Total Pages Extracted:** 43
 - **Average Characters per Page (Cleaned):** 7084.95
-- **Total Raw Characters:** 342825
+- **Total Raw Characters:** 342632
 - **Total Clean Characters:** 304653
 - **Empty Pages:** 0
 

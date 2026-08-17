@@ -7,7 +7,6 @@ from typing import Any
 
 try:
     from dotenv import load_dotenv
-
     load_dotenv()
 except Exception:
     pass
@@ -34,27 +33,85 @@ def _float(name: str, default: float) -> float:
         return default
 
 
+def _dedupe(values: list[str]) -> list[str]:
+    seen: set[str] = set()
+    out: list[str] = []
+    for value in values:
+        value = (value or "").strip()
+        if value and value not in seen:
+            seen.add(value)
+            out.append(value)
+    return out
+
+
+def _collect_numbered_env(base_name: str, max_keys: int = 60, include_plain: bool = True) -> list[str]:
+    """Collect NAME, NAME_0, NAME_1 ... without logging their values."""
+    values: list[str] = []
+    if include_plain:
+        values.append(os.getenv(base_name, ""))
+    for i in range(max_keys):
+        values.append(os.getenv(f"{base_name}_{i}", ""))
+    return _dedupe(values)
+
+
+def _split_legacy_gemini_keys() -> tuple[list[str], list[str]]:
+    """Fallback: split old GEMINI_API_KEY* keys into embedding/generation pools."""
+    legacy = _collect_numbered_env("GEMINI_API_KEY", max_keys=60, include_plain=True)
+    if not legacy:
+        return [], []
+    if len(legacy) == 1:
+        # Last-resort fallback only: one key can do both operations.
+        return legacy, legacy
+    mid = max(1, len(legacy) // 2)
+    return legacy[:mid], legacy[mid:]
+
+
+def get_gemini_embedding_keys() -> list[str]:
+    explicit = _collect_numbered_env("GEMINI_EMBEDDING_API_KEY", max_keys=60, include_plain=True)
+    if explicit:
+        return explicit
+    embedding_keys, _ = _split_legacy_gemini_keys()
+    return embedding_keys
+
+
+def get_gemini_generation_keys() -> list[str]:
+    explicit = _collect_numbered_env("GEMINI_GENERATION_API_KEY", max_keys=60, include_plain=True)
+    if explicit:
+        return explicit
+    _, generation_keys = _split_legacy_gemini_keys()
+    return generation_keys
+
+
 SUPABASE_URL = os.getenv("SUPABASE_URL", "")
 SUPABASE_ANON_KEY = os.getenv("SUPABASE_ANON_KEY", "")
 SUPABASE_SERVICE_ROLE_KEY = os.getenv("SUPABASE_SERVICE_ROLE_KEY", "")
 
-GEMINI_API_KEYS = [
-    os.getenv("GEMINI_API_KEY", ""),
-    os.getenv("GEMINI_API_KEY_1", ""),
-    os.getenv("GEMINI_API_KEY_2", ""),
-    os.getenv("GEMINI_API_KEY_3", ""),
-]
-GEMINI_API_KEYS = [key for key in GEMINI_API_KEYS if key]
+LLM_PROVIDER = os.getenv("LLM_PROVIDER", "gemini").strip().lower()
+EMBEDDING_PROVIDER = os.getenv("EMBEDDING_PROVIDER", "gemini").strip().lower()
 
-LLM_PROVIDER = os.getenv("LLM_PROVIDER", "gemini")
-EMBEDDING_PROVIDER = os.getenv("EMBEDDING_PROVIDER", "gemini")
+# Explicit pools used by the fallback router.
+GEMINI_EMBEDDING_API_KEYS = get_gemini_embedding_keys()
+GEMINI_GENERATION_API_KEYS = get_gemini_generation_keys()
+
+# Backward-compatible name used by old checks/UI.
+GEMINI_API_KEYS = _dedupe(GEMINI_EMBEDDING_API_KEYS + GEMINI_GENERATION_API_KEYS)
+GEMINI_API_KEY = GEMINI_API_KEYS[0] if GEMINI_API_KEYS else ""
+
 GEMINI_GENERATION_MODELS = _csv("GEMINI_GENERATION_MODELS", "gemini-2.0-flash,gemini-1.5-flash")
 GEMINI_EMBEDDING_MODELS = _csv("GEMINI_EMBEDDING_MODELS", "gemini-embedding-001")
 GEMINI_GENERATION_MODEL = GEMINI_GENERATION_MODELS[0]
 GEMINI_EMBEDDING_MODEL = GEMINI_EMBEDDING_MODELS[0]
-GEMINI_API_KEY = GEMINI_API_KEYS[0] if GEMINI_API_KEYS else ""
 
-EMBEDDING_DIM = _int("EMBEDDING_DIM", 1536)
+LOCAL_EMBEDDING_MODEL = os.getenv("LOCAL_EMBEDDING_MODEL", "BAAI/bge-small-en-v1.5")
+LOCAL_EMBEDDING_FALLBACK_MODEL = os.getenv(
+    "LOCAL_EMBEDDING_FALLBACK_MODEL", "sentence-transformers/all-MiniLM-L6-v2"
+)
+
+EMBEDDING_DIM = _int("EMBEDDING_DIM", 1536 if EMBEDDING_PROVIDER == "gemini" else 384)
+EMBEDDING_BATCH_SIZE = _int("EMBEDDING_BATCH_SIZE", 10 if EMBEDDING_PROVIDER == "gemini" else 32)
+EMBEDDING_SLEEP_SECONDS = _float("EMBEDDING_SLEEP_SECONDS", 2.0 if EMBEDDING_PROVIDER == "gemini" else 0.5)
+GEMINI_MAX_RETRIES_PER_KEY = _int("GEMINI_MAX_RETRIES_PER_KEY", 1)
+
 PDF_PATH = os.getenv("PDF_PATH", "data/raw/dc26s005.pdf")
 PROJECT_TOPIC = os.getenv("PROJECT_TOPIC", "diabetes_food_safety")
 DEFAULT_DISEASE_LAYER = os.getenv("DEFAULT_DISEASE_LAYER", "diabetes")
@@ -72,12 +129,7 @@ def project_path(*parts: str) -> Path:
 
 
 def parse_simple_yaml(path: str | Path) -> dict[str, Any]:
-    """Small YAML reader for this repo's simple config files.
-
-    PyYAML is intentionally not required. If PyYAML is installed it is used;
-    otherwise this handles key/value, simple nesting, lists, ints, floats,
-    booleans, and quoted/unquoted strings used by our config files.
-    """
+    """Small YAML reader for this repo's simple config files."""
     try:
         import yaml  # type: ignore
 
@@ -146,7 +198,7 @@ def load_retrieval_config() -> dict[str, Any]:
 def load_fallback_config() -> dict[str, Any]:
     defaults = {
         "provider": "gemini",
-        "retry_attempts": 2,
+        "retry_attempts": GEMINI_MAX_RETRIES_PER_KEY,
         "retry_backoff_seconds": 0.75,
         "generation_temperature": 0.2,
         "max_output_tokens": 2048,

@@ -1,0 +1,10 @@
+{
+  "total_source_chunks": 464,
+  "already_indexed_at_start": 542,
+  "target_missing_this_run": 259,
+  "processed_this_run": 259,
+  "inserted_this_run": 259,
+  "failed_this_run": 0,
+  "embedding_provider": "gemini",
+  "embedding_dim": 1536
+}

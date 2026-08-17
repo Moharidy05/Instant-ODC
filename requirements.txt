@@ -13,8 +13,13 @@ python-dotenv>=1.0.0
 # Database client
 supabase>=2.5.0
 
-# Google GenAI SDK (Gemini embeddings + generation)
+# Google GenAI SDK (Gemini generation)
 google-genai>=1.0.0
+
+# Local embeddings
+sentence-transformers>=2.7.0
+torch>=2.0.0
+transformers>=4.40.0
 
 # Data manipulation
 pandas>=2.2.0

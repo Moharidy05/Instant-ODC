@@ -39,6 +39,27 @@ sql/004_add_retrieval_logs.sql
 sql/005_add_food_guidance_tables.sql
 ```
 
+### Dev Reset (after changing embedding dimension)
+
+For local development after changing embedding dimension:
+
+```text
+sql/000_reset_dev_tables.sql   (DEV ONLY — drops all tables)
+sql/001_enable_pgvector.sql
+sql/002_create_tables.sql
+sql/003_match_chunks_function.sql
+sql/004_add_retrieval_logs.sql
+sql/005_add_food_guidance_tables.sql
+```
+
+Then re-index: `python3 -m src.ingestion.index_supabase`
+
+## Preflight
+
+```bash
+python3 -m src.ai.preflight
+```
+
 ## Pipeline
 
 ```bash
