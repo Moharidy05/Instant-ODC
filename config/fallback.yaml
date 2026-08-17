@@ -1,0 +1,6 @@
+provider: gemini
+retry_attempts: 2
+retry_backoff_seconds: 0.75
+generation_temperature: 0.2
+max_output_tokens: 2048
+log_file: data/evaluation/ai_fallback_logs.jsonl

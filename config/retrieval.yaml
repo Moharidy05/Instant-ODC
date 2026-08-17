@@ -1,0 +1,5 @@
+chunk_target_min: 700
+chunk_target_max: 1200
+overlap_chars: 150
+candidate_k: 20
+top_k_options: [3, 5, 8, 10]
