@@ -56,10 +56,106 @@ Run the demo:
 streamlit run app.py
 ```
 
+## FastAPI Backend
+
+The backend is separate from the Streamlit demo and lives under `backend/app`.
+It is intentionally only an API layer: RAG orchestration, retrieval, Gemini fallback, disease layers, safety rules, answer generation, citation validation, food lists, and substitutions remain in `src/`.
+
+Run locally:
+
+```bash
+uvicorn backend.app.main:app --reload --port 8000
+```
+
+OpenAPI docs:
+
+```text
+http://localhost:8000/docs
+```
+
+Health check:
+
+```bash
+curl http://localhost:8000/health
+```
+
+List disease layers:
+
+```bash
+curl http://localhost:8000/layers
+```
+
+Ask a grounded food-safety question:
+
+```bash
+curl -X POST http://localhost:8000/ask \
+  -H "Content-Type: application/json" \
+  -d '{
+    "question": "Are legumes encouraged for diabetes?",
+    "disease_layer": "diabetes",
+    "language": "en",
+    "top_k": 5,
+    "show_chunks": true
+  }'
+```
+
+Search evidence without generation:
+
+```bash
+curl -X POST http://localhost:8000/evidence/search \
+  -H "Content-Type: application/json" \
+  -d '{
+    "query": "sugar-sweetened beverages",
+    "disease_layer": "diabetes",
+    "top_k": 10
+  }'
+```
+
+Get food guidance lists:
+
+```bash
+curl "http://localhost:8000/foods/guidance-list?disease_layer=diabetes"
+```
+
+Get evidence-tied substitutions:
+
+```bash
+curl -X POST http://localhost:8000/foods/substitutions \
+  -H "Content-Type: application/json" \
+  -d '{
+    "food": "orange juice",
+    "disease_layer": "diabetes",
+    "language": "en"
+  }'
+```
+
+Run backend evaluation:
+
+```bash
+curl -X POST http://localhost:8000/evaluation/run \
+  -H "Content-Type: application/json" \
+  -d '{"limit": 10, "disease_layer": "diabetes"}'
+```
+
+Backend safety notes:
+
+- `/health` reports readiness booleans only; it never returns secret values.
+- API retrieval uses anon-key Supabase access when configured.
+- Supabase service-role access remains restricted to ingestion/admin scripts.
+- If Supabase or Gemini are not configured, local lexical retrieval and deterministic answer fallback keep the demo/test path usable.
+- Local frontend CORS origins are configurable with `BACKEND_CORS_ORIGINS`.
+
+Backend tests:
+
+```bash
+pytest tests/test_backend.py
+```
+
 ## Validation
 
 ```bash
 python3 -m py_compile $(find src -name "*.py")
+python3 -m py_compile $(find backend -name "*.py")
 python3 -c "from src.retrieval.retrieve import retrieve_chunks; from src.answering.answer import generate_answer; print('imports ok')"
 ```
 
