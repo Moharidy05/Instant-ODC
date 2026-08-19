@@ -1,0 +1,27 @@
+======================================================================
+MEDICAL PDF EXTRACTION REPORT
+======================================================================
+PDF: G:\Projects\Instant-ODC\data\raw\dci260082.pdf
+Pages: 1
+
+Successful: 1
+Review: 0
+Needs re-extraction: 0
+Empty pages (terminal): 0
+Native extraction: 1
+Qwen extraction: 0
+Recovered by retry: 0
+Success rate: 100.00%
+Processing time: 0.56s
+
+RE-EXTRACTION QUEUE
+----------------------------------------------------------------------
+No pages require re-extraction.
+
+REVIEW QUEUE
+----------------------------------------------------------------------
+No pages require review.
+
+PAGE DETAILS
+----------------------------------------------------------------------
+Page 1: success | method=native | attempts=1 | chars=3543 | time=0.03s

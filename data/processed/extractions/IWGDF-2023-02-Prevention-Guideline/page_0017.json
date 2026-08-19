@@ -1,0 +1,23 @@
+{
+  "page_number": 17,
+  "title": null,
+  "sections": [
+    "The International Working Group on the Diabetic Foot",
+    "IWGDF Prevention Guideline",
+    "IWGDF",
+    "Guidelines",
+    "Moderate)"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Psychological interventions: We are unable to make a specific recommendation about the use of psychological interventions for the prevention of diabetes-related foot ulceration in at risk people, due to a very low evidence base at this time. We believe this is an important avenue for future research and clinical guidance due to the success of psychological interventions in other health-related areas, using evidence-based approaches such as motivational interviewing, cognitive behavioural therapy (CBT) and health behaviour change strategies. 3C. Instructions about foot self-management Clinical question: In a person with diabetes at risk of foot ulceration should instructions about foot self￾management, including home foot temperature monitoring, be given? Recommendation 7: Consider coaching a person with diabetes who is at moderate or high risk of foot ulceration (IWGDF risk 2-3) to self-monitor foot skin temperatures once per day to identify any early signs of foot inflammation and help prevent a first or recurrent plantar foot ulcer. If the temperature difference between corresponding regions of the left and right foot is above a temperature threshold of 2.2 °C (or 4.0 °F) on two consecutive days, coach the person to reduce ambulatory activity and consult an adequately trained healthcare professional for further diagnosis and treatment. (Conditional;"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rationale: Foot self-management differs from foot self-care as it involves more advanced interventions that are specifically designed for ulcer prevention, such as home-monitoring tools and telemedicine approaches. Self-management can include many interventions, but we found no evidence to support the use of any specific intervention, with the exception of home monitoring of foot skin temperature (9). We found evidence in our meta-analysis that home monitoring of plantar foot skin temperature at minimum once per day with an easy to use infrared thermometer, combined with subsequent preventative action when elevated temperatures were noted for two consecutive days, is statistically more effective than standard treatment for preventing foot ulcers in high-risk people with diabetes (IWGDF risk 2-3), with a relative risk of 0.51 (95%CI: 0.31-0.84) in favour of the intervention (9). These preventative actions include: reduction of ambulatory activity, consultation with an adequately trained healthcare professional to discuss the findings, and further preventative treatment as per the healthcare professional’s assessment. For this recommendation to be effective a person needs to have ready access to and the ability to use an appropriate thermometer and be in communication with an adequately trained healthcare professional. Professionals may value at-home foot temperature monitoring as an easy to use relatively affordable method (in comparison to therapeutic footwear or surgery) that may have high clinical value and helps empower people in their care of their own feet. However, people with diabetes may have difficulty using temperature monitoring because of necessity to measure daily, requirement to target locations on the foot, the risk of false alarms, the requirement for surrounding infrastructure, and costs (41). For both professionals and people with diabetes, the value of skin temperature measurement may be compromised because of the risk of missing an ulcer that develops without the skin heating up before ulceration (42). In addition, practicalities of scaling up the usage of foot temperature monitoring on a global scale raises questions about the implementation of this intervention in different settings worldwide, and therefore there is an uncertainty about the widespread global feasibility of such devices."
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

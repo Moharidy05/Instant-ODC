@@ -1,0 +1,51 @@
+{
+  "3948459d8aa1081ea3dae2f6e8a86b226880c07ea7d15f71d6b6bdba47d160a9": {
+    "disease_layer": "cardiovascular",
+    "confidence": 1.0,
+    "rationale": "Layer assigned from the configured authoritative document mapping.",
+    "method": "authoritative_mapping",
+    "prompt_version": "layer_v2"
+  },
+  "f101447e194c8d7e108fbd39e31daa9b2804753043c5cfb82c0eaace48519a83": {
+    "disease_layer": "diabetes",
+    "confidence": 1.0,
+    "rationale": "The document is Section 5 of the American Diabetes Association's 'Standards of Care in Diabetes—2026', focusing on facilitating positive health behaviors, diabetes self-management education and support (DSMES), and general diabetes management.",
+    "method": "llm_classification",
+    "prompt_version": "layer_v2"
+  },
+  "b1ab0d66ee1074e28b312f74c1329f477e552425ff3bcc5ce1ab644748448ad8": {
+    "disease_layer": "diabetes",
+    "confidence": 1.0,
+    "rationale": "Layer assigned from the configured authoritative document mapping.",
+    "method": "authoritative_mapping",
+    "prompt_version": "layer_v2"
+  },
+  "e83268acbc2d9b6181547ff08e4d594014025093f1005711199c3ad8df7231a8": {
+    "disease_layer": "neuropathy_and_foot",
+    "confidence": 1.0,
+    "rationale": "Layer assigned from the configured authoritative document mapping.",
+    "method": "authoritative_mapping",
+    "prompt_version": "layer_v2"
+  },
+  "239a69772d9b4b20c2b1897a96a802151629d15d5bf3adf3d171a2ed9dc1c3a7": {
+    "disease_layer": "neuropathy_and_foot",
+    "confidence": 1.0,
+    "rationale": "Layer assigned from the configured authoritative document mapping.",
+    "method": "authoritative_mapping",
+    "prompt_version": "layer_v2"
+  },
+  "51844f23d5a86e02bf1d84ca78ec311cbb62280e3d0c0221657470bad354172b": {
+    "disease_layer": "neuropathy_and_foot",
+    "confidence": 1.0,
+    "rationale": "Layer assigned from the configured authoritative document mapping.",
+    "method": "authoritative_mapping",
+    "prompt_version": "layer_v2"
+  },
+  "d2889a8b699ea103129c9f8f8df56c53557993741702e3140e3bd37fb96eb1fb": {
+    "disease_layer": "ckd",
+    "confidence": 1.0,
+    "rationale": "Layer assigned from the configured authoritative document mapping.",
+    "method": "authoritative_mapping",
+    "prompt_version": "layer_v2"
+  }
+}

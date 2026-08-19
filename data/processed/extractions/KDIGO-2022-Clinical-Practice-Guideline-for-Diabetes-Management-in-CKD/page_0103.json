@@ -1,0 +1,20 @@
+{
+  "page_number": 103,
+  "title": null,
+  "sections": [
+    "Identification Screening Included",
+    "S102 Kidney International (2022) 102 (Suppl 5S), S1–S127"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "the effects of treatment, such as HbA1c, etc., the mean dif￾ference (MD) with 95% CI was used. Data synthesis. Data were pooled using the Mantel– Haenszel random-effects model for dichotomous outcomes and the inverse variance random-effects model for contin￾uous outcomes. The random-effects model was chosen because it provides a conservative estimate of effect in the presence of known and unknown heterogeneity.463 The generic inverse variance random-effects analysis was used for time-to-event data. Assessment of heterogeneity. Heterogeneity was assessed by visual inspection of forest plots of standardized mean effect sizes and of risk ratios, and c2 tests. A P < 0.05 was used to denote statistical heterogeneity, with an I2 calculated to measure the proportion of total variation in the estimates of treatment effect that was due to heterogeneity beyond chance.463 We used conventions of interpretation as defined by Higgins et al., 2003.467 Assessment of publication bias. We made every attempt to minimize publication bias by including unpublished studies (e.g., by searching online trial registries and conference ab￾stracts). To assess publication bias, we used funnel plots of the log odds ratio (effect vs. standard error of the effect size) when a sufficient number of studies were available (i.e., more than 10 studies).463 Other reasons for the asymmetry of funnel plots were considered. Subgroup analysis and investigation of hetero￾geneity. Subgroup analysis was undertaken to explore whether clinical differences between the studies may have systematically influenced the differences that were observed in the critical and important outcomes. However, subgroup analyses are hypothesis-forming, rather than hypothesis-testing, and should be interpreted with caution. The following subgroups were considered: type of diabetes, severity of CKD, dialysis modality, age group (pediatric or older adults), and type of intervention— for example, short-acting versus long-acting GLP-1 RA. The test Records identified from*: • Cochrane Kidney and Transplant Registry of studies (n = 802) • Hand-searching (n = 44) • Supplement searching (n = 6) Records removed before screening: • Duplicate records removed (n = 226) Records screened (n = 626) Records excluded† (n = 346) Reports sought for retrieval (n = 280) Reports not retrieved (n = 0) Reports assessed for eligibility (n = 280) Reports excluded: • Wrong population (n = 65) • Wrong intervention (n = 69) • Wrong duration of therapy (n = 2) • Wrong study design (n = 19) • Ongoing studies (n = 23) New studies included in review (n = 102) Identification of new studies via databases and registers"
+    },
+    {
+      "type": "paragraph",
+      "text": "Total studies included in review (n= 346 RCTs*, 31 observational studies, 50 reviews) • Chapter 1 Comprehensive care (n = 151 RCTs) • Chapter 2 Glycemic targets (n = 16 RCTs) • Chapter 3 Lifestyle (n = 94 RCTs) • Chapter 4 Antihyperglycemic therapies (n = 83 RCTs) • Chapter 5 Models of care (n = 11 RCTs) Studies included in previous version of the guideline (n = 244 RCTs, 31 observational studies, 50 reviews) Previous studies Figure 36 | Search yield and study flow diagram. *A number of randomized controlled trials (RCTs) overlap across chapters in the guidelines. † Screening for RCTs only. methods for guideline development www.kidney-international.org"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

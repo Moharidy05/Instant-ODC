@@ -1,0 +1,154 @@
+{
+    "page_number": 9,
+    "title": "Cardiovascular Disease and Risk Management",
+    "sections": [
+        {
+            "type": "section",
+            "title": "Ongoing Therapy and Monitoring With Lipid Panel",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "text": "Recommendations\n10.16 In adults with prediabetes or diabetes not taking statins or other lipid-lowering therapy, it is reasonable to obtain a lipid profile at the time of diagnosis, at an initial medical evaluation, annually thereafter, or more frequently if indicated. E\n10.17 Obtain a lipid profile at initiation of statins or other lipid-lowering therapy, 4–12 weeks after initiation or a change in dose, and annually thereafter, as it may help to monitor the response to therapy and inform medication taking. A\n"
+                },
+                {
+                    "type": "paragraph",
+                    "text": "In adults with diabetes, it is reasonable to obtain a lipid profile (total cholesterol, LDL cholesterol, HDL cholesterol, and triglycerides) at the time of diagnosis, at the initial medical evaluation, and at least every 5 years thereafter in individuals <40 years of age. In younger people with longer duration of disease (such as those with youth-onset type 1 diabetes), more frequent lipid profiles may be reasonable. A lipid panel should also be obtained immediately before initiating statin therapy. Once an individual is taking a statin, LDL cholesterol levels should be assessed 4–12 weeks after initiation of statin therapy, after any change in dose, and annually (e.g., to monitor for medication taking and efficacy). Monitoring lipid profiles after initiation of statin therapy and during therapy increases dose titration and statin adherence. If LDL cholesterol levels are not responding in spite of medication taking, clinical judgment is recommended to determine the need for and timing of lipid panels. In individual patients, the highly variable LDL cholesterol-lowering response seen with statins is poorly understood (91). Clinicians should attempt to find a dose or alternative statin that is tolerable if side effects occur. There is evidence for benefit from even extremely low, less than daily statin doses (92)."
+    }
+    ],
+    "tables": [],
+    "figures": []
+}  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

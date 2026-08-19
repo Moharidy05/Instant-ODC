@@ -1,0 +1,28 @@
+{
+    "page_number": 12,
+    "title": "Cardiovascular Disease and Risk Management",
+    "sections": [
+        {
+            "type": "section",
+            "heading": "Inclisiran for Subjects With ASCVD or ASCVD-Risk Equivalents and Elevated Low-density Lipoprotein Cholesterol (ORION-11) trials (123), individuals with established cardiovascular disease or ASCVD risk equivalent were randomized to receive inclisiran or placebo. Inclisiran allows less frequent administration compared with monoclonal antibodies and was administered on day 1, on day 90, and every 6 months in these trials. In the ORION-10 trial, 47.5% of individuals in the inclisiran group and 42.4% in the placebo group had diabetes; in the ORION-11 trial, 36.5% of individuals in the inclisiran group and 33.7% in the placebo group had diabetes. The coprimary endpoint of placebo-corrected percent change in LDL cholesterol level from baseline to day 510 was 52.3% in the ORION-10 trial and 49.9% in the ORION-11 trial. In an exploratory analysis, the prespecified cardiovascular end point, defined as a cardiovascular basket of nonadjudicated terms, including those classified within cardiac death, and any signs or symptoms of cardiac arrest, nonfatal MI, or stroke, occurred in 7.4% of the inclisiran group and 10.2% of the placebo group in the ORION-10 trial and in 7.8% of the inclisiran group and 10.3% of the placebo group in the ORION-11 trial. A cardiovascular outcome trial using inclisiran in people with established cardiovascular disease is currently ongoing (124).",
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   

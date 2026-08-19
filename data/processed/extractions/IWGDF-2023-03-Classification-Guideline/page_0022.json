@@ -1,0 +1,20 @@
+{
+  "page_number": 22,
+  "title": null,
+  "sections": [
+    "The International Working Group on the Diabetic Foot",
+    "IWGDF Classification Guideline",
+    "IWGDF",
+    "Guidelines",
+    "FURTHER CONSIDERATIONS / FUTURE RESEARCH / KEY",
+    "CONTROVERSIES"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This document represents the update of our 2019 recommendations on the classification of foot ulcers in people with diabetes (5). Rather than just including new evidence published since that time, in this round we have conducted a systematic as opposed to a critical review and we have used the full GRADE approach (39) for the evidence analysis and development of the recommendations. This led to a change in the certainty of evidence in several scenarios. In fact, for all recommendations the certainty of evidence was graded as low. Another change was the proposal of first line and second line systems to be used for communication among professionals and for the management of infected foot ulcers, which we believe will lead to a more tailored use of these systems in the different contexts across the world. With this process we have developed six recommendations as well as including one from the “Peripheral Artery Disease” working group which is embedded in our document (11). In our systematic review (4) we retrieved 149 articles that assessed 28 different systems used to characterize foot ulcers in people with diabetes. However, the current available evidence remains limited due to a lack of articles directly comparing existing systems, with small sample sizes being common; most studies being graded at high risk of bias, frequently reporting only association measures (without multivariable adjustment); and focusing largely on healing or amputation. All of these aspects should be considered before conducting the much-needed future research on this topic to support the use of existing systems, instead of creating new ones that tend to be merely derivative. Due to the limitations in the available evidence, we were only able to recommend the use of six (21%) out of the 28 systems found (DIAFORA, IDSA/IWGDF, SINBAD, UTWCS, Wagner and WIfI). Moreover, when choosing the ones more indicated for specific scenarios, DIAFORA, UTWCS and Wagner were not selected to be applied for clinical use or audits. The systems varied considerably in the number (ranging from 3 to more than 30) and type of variables included. Some require blood samples and biomarkers analysis, others specific equipment, while others only use readily available data. The population for its intended use also varied greatly, from infected diabetes-related foot ulcers to chronic wounds of any type. Some had a bi-dimensional structure, other require the use of an app to improve feasibility, others presented an easy to calculate score, and others are a linear grading system. All of this has an impact on complexity, detail, acceptability and feasibility. Some of the choices made by the group may be debatable, but were transparent, carefully discussed and agreed within this group, and the IWGDF editorial board. Questions will inevitably arise as there is much less information about the process to develop recommendations in the diagnostic and prognostic field than in areas that are about therapeutics or other interventions. One of the debatable decisions is the use of the Summary of Judgments devised for diagnostic clinical questions when we were actually evaluating prognostic clinical questions. However, we believe that we should focus on the use of these systems to change clinical management and not just on their ability to predict the clinical course of any individual. This leads to the acknowledgement that several of the items"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

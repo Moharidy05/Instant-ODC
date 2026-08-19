@@ -1,0 +1,16 @@
+{
+  "page_number": 24,
+  "title": "Cardiovascular Disease and Risk Management",
+  "sections": [
+    "{\"type\": \"section\", \"title\": \"Screening for Asymptomatic Peripheral Artery Disease in People With Diabetes\"}",
+    "{\"type\": \"section\", \"title\": \"Lifestyle and Pharmacologic Interventions\"}"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The risk for PAD in people with diabetes is higher than that in people without diabetes (222–224). In the PAD Awareness, Risk, and Treatment: New Resources for Survival (PARTNERS) program, 30% of people aged 50–69 years with a history of cigarette smoking or diabetes, or aged ≥70 years regardless of risk factors, had PAD (225). Similarly, in other screening studies, 26% of people with diabetes have been shown to have PAD (226), and diabetes increased the odds of having PAD by 85% (227). Notably, classical symptoms of claudication are uncommon, and almost half of people with newly diagnosed PAD were asymptomatic (225). Conversely, up to two-thirds of people with asymptomatic PAD have been shown to have comorbid diabetes (228). Risk factors associated with an increased risk for PAD in people with diabetes include age, smoking, hypertension, dyslipidemia, worse glycemic control, longer duration of diabetes, neuropathy, and retinopathy as well as a prior history of cardiovascular disease (229,230). In addition, the presence of microvascular disease is associated with adverse outcomes in people with PAD, including an increased risk for future limb amputation (231,232). Screening for asymptomatic PAD may lead to early detection and treatment strategies to reduce the risk for progression of PAD and limb preservation. In addition, secondary prevention of PAD has been shown to reduce adverse cardiovascular and limb outcomes. While a positive screening test for PAD in an asymptomatic population has been associated with increased cardiovascular event rates (233,234), prospective, randomized studies addressing whether screening for PAD in people with diabetes improves long-term limb outcomes and cardiovascular event rates are limited. In the randomized controlled Viborg Vascular (VIVA) trial, 50,156 participants were randomized to combined vascular screening for abdominal aortic aneurysm, PAD, and hypertension or to no screening. Vascular screening was associated with increased pharmacologic therapy (antiplatelet, lipid-lowering, and antihypertensive therapy), reduced in-hospital time for PAD and CAD, and reduced mortality (235). Therefore, the committee recommends screening for asymptomatic PAD using ankle-brachial index in people with diabetes at high risk for PAD, including any of the following: age ≥50 years, diabetes with duration ≥10 years, comorbid microvascular disease, clinical evidence of foot complications, or any end-organ damage from diabetes. Therefore, the committee recommends screening people with diabetes and high risk for PAD, including age ≥50 years, diabetes with duration ≥10 years, microvascular disease, clinical evidence of foot complications, or any end-organ damage from diabetes."
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

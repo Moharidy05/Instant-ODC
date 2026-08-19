@@ -1,0 +1,18 @@
+{
+  "page_number": 23,
+  "title": null,
+  "sections": [
+    "The International Working Group on the Diabetic Foot",
+    "IWGDF Classification Guideline",
+    "IWGDF",
+    "Guidelines"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "related to the assessment of the impact of implementing these systems in clinical practice had insufficient supporting evidence and were consequently graded mainly on expert opinion. As expected, several members of the group had potential conflict of interest concerning some of the identified systems. By looking for experts in the field, it would be predictable that several of the members had any role in developing, validating, or discussing the existing classification systems. In such cases, those members that were authors or co-authors of an article developing a specific system were not able to score or grade any of the items in the risk of bias, summary of judgments, direction, or strength of recommendation in which such potential conflict of interest may have played a role. The group decided to not perform a meta-analysis, because we considered that the expected heterogeneity on the definition of outcomes, follow-up and clinical setting was too high to enable generation of a meaningful meta-analysis. One of the scenarios for which we assign high priority for development is the potential for a classification to be used in the prognosis of clinical outcome in an individual. For this specific application we believe that a high level of detail would be required and that machine learning techniques (included in decision support systems) may be key. As an example, we have the models developed by Xie et al. (40), although their use may reduce equity, and further validation studies are required. Alternatively, there may be an option for refinement of existing systems. Also, SINBAD has not yet been assessed to improve stratification by including patient-related morbid factors such as the presence of end-stage renal failure or history of past amputation, and it is envisaged that such future determinations, potentially also combined with systemic validated biomarkers, may, at least at a group level, add clinical utility to such wound classification system alone in predicting foot ulcer outcomes. As in the 2019 IWGDF classification guidelines, we continue to surmise that there may never be a single preferred foot ulcer classification system for people with diabetes, since the specification of any classification will depend heavily on its purpose and clinical setting. Furthermore, we stress the importance of assessing the impact of including the use of a system in clinical practice, such as that seen by the use of the SINBAD system within the UK-based NDFA, which has consistently found that faster referral to a specialist foot care service is associated with fewer severe ulcers and better 12 weeks outcomes (38). Consequently, being able to classify the severity of an ulcer easily and adequately and to communicate it quickly and in a standardized manner to the specialist foot care service is expected to have a positive impact on clinical outcomes."
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

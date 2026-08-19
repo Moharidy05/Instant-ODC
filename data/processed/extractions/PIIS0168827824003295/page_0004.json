@@ -1,0 +1,36 @@
+{
+  "page_number": 4,
+  "title": null,
+  "sections": [
+    "Condition Clinical/lab/histological findings Diagnostic criteria",
+    "Corticosteroids",
+    "Tamoxifen",
+    "Amiodarone",
+    "Irinotecan",
+    "Methotrexate",
+    "Lomitapide",
+    "Valproate",
+    "(WES)",
+    "Clinical Practice Guidelines"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "MetALD population. A proposal for the simplified diagnostic work-up of a case of SLD is outlined in Fig. 1. Other causes of SLD (Table 4) should be considered when the most common risk factors have been excluded (Fig. 1). Familial aggregation of SLD supports a genetic disease, particularly for early-onset SLD.9 Individuals with steatosis but without cardiometabolic risk factors and no known cause may have “possible MASLD”– requiring further tests of insulin-resistance – or cryptogenic SLD.2 The identification of liver steatosis should prompt an assessment for the presence of liver fibrosis through non-invasive tests (see below). Table 3. Cardiometabolic risk factors in the definition of MASLD.2 Metabolic risk factor Adult criteria Overweight or Obesity Body mass index >−25 kg/m2 (>−23 kg/m2 in people of Asian ethnicity) Waist circumference >−94 cm in men and >−80 cm in women (Europeans) >−90 cm in men and >−80 cm in women (South Asians and Chinese) >−85 cm in men and >−90 cm in women (Japanese) Dysglycaemia or type 2 diabetes Prediabetes: HbA1c 39-47 mmol/mol (5.7-6.4%) or fasting plasma glucose 5.6-6.9 mmol/L (100-125 mg/dl) or 2-h plasma glucose during OGTT 7.8-11 mmol/L (140-199 mg/dl) or Type 2 diabetes: HbA1c >−48 mmol/mol (>−6.5%) or fasting plasma glucose >−7.0 mmol/L (>−126 mg/dl) or 2-h plasma glucose during OGTT >−11.1 mmol/L (>−200 mg/dl) or Treatment for type 2 diabetes Plasma triglycerides >−1.7 mmol/L (>−150 mg/dl) or lipid-lowering treatment HDL-cholesterol <−1.0 mmol/L (<−39 mg/dl) in men and <−1.3 mmol/L (<−50 mg/dl) in women or lipid-lowering treatment Blood pressure >−130/85 mmHg or treatment for hypertension HbA1c, glycated haemoglobin; HDL, high-density lipoprotein; OGTT, oral glucose tolerance test. Table 4. SLD due to aetiologies other than MASLD, MetALD or ALD."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hepatitis C virus-associated steatotic liver (genotype 3) Low triglycerides, HCV genotype 3 HCV antibody with reflex testing HCV RNA and HCV genotype Drug-induced liver disease (DILI) Mostly microvescicular SLD Investigate for drug intake:"
+    },
+    {
+      "type": "paragraph",
+      "text": "5-Fluorouracil Liver biopsy for confirmation Hypobetalipoproteinaemia Low triglycerides and cholesterol, fat malab￾sorption, vitamin A deficiency ApoB level, genetic testing (APOB, MTTP, PCSK-9, tar￾geted panel sequencing) Lipodystrophy Accumulation of fat in the visceral area and in the muscle (generically inherited or induced by HAART therapy) CT scan or MRI, targeted panel sequencing for congenital lipodystrophies, MRI LAL deficiency (Wolman disease, choles￾teryl ester storage disease-CESD) Elevated LDL-C and triglycerides, low HDL-C, hypersplenism, advanced fibrosis in young age, predominately microvesicular steatosis Enzyme assay, genetic testing (LIPA) Pregnancy associated HELLP syndrome Acute onset Elevated liver enzymes and low platelets, haemolysis, SLD at abdominal ultrasound Wilson disease Younger age, neuropsychiatric symptoms, low ceruloplasmin 24-h urine copper excretion; quantitative copper on liver biopsy, genetic testing (ATP7B) Nutrient deficiency/malnutrition Parenteral nutrition, bypass surgeries, bariatric surgery, anorexia Nutrient levels Celiac disease Diarrhoea, iron deficiency, vitamins deficiency Tissue transglutaminase IgA, duodenal biopsy Endocrine diseases Hypothyroidism, PCOS, growth hormone (GH) deficiency, panhypopituitarism (primary or secondary) TSH, fT4, fT3, endocrine testing Other inherited metabolic conditions Early age and severe onset, absence of trig￾gering factors, systemic involvement, positive history of advanced disease in first degree relatives Targeted panel sequencing, whole exome sequencing"
+    },
+    {
+      "type": "paragraph",
+      "text": "ALD, alcohol-related liver disease; ApoB, apolipoprotein B; fT3, free triiodothyronine; fT4, free thyroxine; HCV, hepatitis C virus; HAART, highly active antiretroviral therapy; HELLP, haemolysis, elevated liver enzymes and low platelets; LAL, lysosomal acid lipase; MASLD, metabolic dysfunction-associated steatotic liver disease; PCOS, polycystic ovary syndrome; SLD, steatotic liver disease; TSH, thyroid-stimulating hormone. Journal of Hepatology, September 2024. vol. 81 j 492–542 495"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

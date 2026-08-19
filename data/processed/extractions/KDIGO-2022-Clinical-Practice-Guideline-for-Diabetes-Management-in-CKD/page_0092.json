@@ -1,0 +1,106 @@
+{
+  "page_number": 92,
+  "title": null,
+  "sections": [
+    "Rationale",
+    "SBP Number of",
+    "(95% Cl)",
+    "Weight",
+    "Overall (I-squared = 0.0%, P = 0.445) –4.02 (–6.39, –1.65) 100.00",
+    "DBP Number of",
+    "(95% Cl)",
+    "Weight",
+    "Overall (I-squared = 13.1%, P = 0.327) –2.94 (–4.88, -0.99) 100.00",
+    "(95% Cl)",
+    "Weight",
+    "Overall (I-squared = 50.7%, P = 0.108) –0.40 (–3.15, 2.35) 100.00",
+    "HbA1c Number of",
+    "(95% Cl)",
+    "Weight",
+    "Overall (I-squared = 86.9%, P = 0.000) –0.37 (–0.85, 0.10) 100.00",
+    "(95% Cl)",
+    "Weight",
+    "Overall (I-squared = 0.0%, P = 0.991) 0.54 (0.37, 0.70) 100.00",
+    "HRQOL Number of",
+    "(95% Cl)",
+    "Weight",
+    "Overall (I-squared = 0.0%, P = 0.897) –0.06 (–0.27, 0.15) 100.00",
+    "Kidney International (2022) 102 (Suppl 5S), S1–S127 S91"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "cost-savings, cost-effectiveness, reduced cost, or positive in￾vestment returns.424 Considerations for implementation. Healthcare organiza￾tions need to have a trained workforce to deliver self￾management programs for people with diabetes and CKD. There is very little evidence on specific self-management programs for people with different severities of CKD and in people of different ethnic minority groups. Healthcare orga￾nizations need to be aware of these limitations and consider developing and evaluating programs that are tailored to their local populations. Several definitions have been proposed to define self-management education programs. The ADA de￾fines diabetes self-management education as the ongoing process of facilitating knowledge, skills, and abilities necessary for diabetes self-care, incorporating a person-centered approach, and shared decision-making.309 NICE defines self-management education as an evidence-based structured curriculum defining specific aims and objectives delivered by trained educators.403 NICE also recommends that the pro￾grams be quality-assured and audited against consistent criteria by independent assessors.425,426 NICE recommends that a multidisciplinary team that includes at least 1 trained or accredited healthcare practitioner, such as a diabetes specialist nurse or registered dietitian, deliver the program, either one￾on-one or in groups that may be combined with support via telephone or web-based platforms. NICE recommends that self-management education be offered to people with diabetes at diagnosis, with ongoing maintenance sessions.426"
+    },
+    {
+      "type": "paragraph",
+      "text": "In the judgment of the Work Group, diabetes self-management education programs should be individualized and tailored to the changing biomedical and psychosocial needs of the person with T1D or T2D. Diabetes self-management education can be provided in a number of formats, such as one-on-one educa￾tion, group-based sessions, or via telemedicine, and can be delivered by different members of healthcare teams. Practice Point 5.1.1: Healthcare systems should consider implementing a structured self-management program for patients with diabetes and CKD, taking into consideration local context, cultures, and availability of resources. Diabetes self-management education programs should be individualized and tailored to the changing biomedical and psychosocial needs of the person with diabetes. Globally, there are major gaps in the implementation of self-management"
+    },
+    {
+      "type": "paragraph",
+      "text": "studies ES"
+    },
+    {
+      "type": "paragraph",
+      "text": "(%) Provider education 1 –8.90 (–17.63, –0.17) 7.36 Patient education 3 –1.16 (–6.02, 3.71) 23.71 Provider reminders 2 –4.89 (–9.67, –0.10) 24.51 All interventions 5 –4.26 (–7.81, –0.70) 44.41"
+    },
+    {
+      "type": "paragraph",
+      "text": "Favors intervention Favors control –18 0 4 a"
+    },
+    {
+      "type": "paragraph",
+      "text": "studies ES"
+    },
+    {
+      "type": "paragraph",
+      "text": "(%) Provider education 1 –7.50 (–13.01, –1.99) 11.71 Patient education 3 –1.63 (–4.49, 1.22) 37.22 Provider reminders 2 –3.00 (–6.68, 0.68) 24.34 All interventions 4 –2.70 (–6.19, 0.78) 26.74"
+    },
+    {
+      "type": "paragraph",
+      "text": "Favors intervention Favors control –14 0 2 b eGFR Number of studies ES"
+    },
+    {
+      "type": "paragraph",
+      "text": "(%) Provider education 1 3.50 (–0.65, 7.65) 23.27 Patient education 2 –2.13 (–5.43, 1.18) 28.89 Provider reminders 2 –2.60 (–6.08, 0.88) 27.63 All interventions 3 0.59 (–4.12, 5.29) 20.21"
+    },
+    {
+      "type": "paragraph",
+      "text": "Favors intervention Favors control –7 0 8 c"
+    },
+    {
+      "type": "paragraph",
+      "text": "studies ES"
+    },
+    {
+      "type": "paragraph",
+      "text": "(%) Provider education 1 –0.28 (–0.75, 0.19) 23.32 Patient education 4 –0.85 (–0.97, –0.73) 29.64 Provider reminders 1 0.30 (–0.25, 0.85) 21.51 All interventions 6 –0.46 (–0.83, –0.09) 25.53"
+    },
+    {
+      "type": "paragraph",
+      "text": "Favors intervention Favors control –1 0 1 d SM activity Number of studies ES"
+    },
+    {
+      "type": "paragraph",
+      "text": "(%) Provider education 1 0.50 (–0.04, 1.04) 9.68 Patient education 3 0.54 (0.29, 0.79) 45.16 All interventions 3 0.54 (0.29, 0.79) 45.16"
+    },
+    {
+      "type": "paragraph",
+      "text": "Favors intervention Favors control –0.5 0 1.5 e"
+    },
+    {
+      "type": "paragraph",
+      "text": "studies ES"
+    },
+    {
+      "type": "paragraph",
+      "text": "(%) Provider education 2 –0.03 (–0.36, 0.31) 38.96 Patient education 2 –0.15 (–0.59, 0.30) 22.08 All interventions 3 –0.03 (–0.36, 0.31) 38.96"
+    },
+    {
+      "type": "paragraph",
+      "text": "Favors intervention Favors control –0.6 0 0.4 f Figure 31 | Meta-analysis showing the effect of different intervention components on (a) systolic blood pressure (SBP), (b) diastolic blood pressure (DBP), (c) estimated glomerular filtration rate (eGFR), (d) glycated hemoglobin (HbA1c; %), (e) self-management (SM) activity, and (f) health-related quality of life (HRQOL). CI, confidence interval; ES, effect size. Reproduced from Zimbudzi E, Lo C, Misso ML, et al. Effectiveness of self-management support interventions for people with comorbid diabetes and chronic kidney disease: a systematic review and meta-analysis. Syst Rev. 2018;7:84.412 Copyright ª The Authors, http://creativecommons.org/licenses/by/4.0/. www.kidney-international.org chapter 5"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

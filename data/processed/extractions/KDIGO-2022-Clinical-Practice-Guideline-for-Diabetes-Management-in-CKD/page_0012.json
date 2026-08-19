@@ -1,0 +1,38 @@
+{
+  "page_number": 12,
+  "title": null,
+  "sections": [
+    "ERT Evidence Review Team",
+    "FDA Food and Drug Administration",
+    "Development and Evaluation",
+    "NHANES National Health and Nutrition Examination",
+    "Survey",
+    "UKPDS United Kingdom Prospective Diabetes Study Group",
+    "US United States",
+    "Kidney International (2022) 102 (Suppl 5S), S1–S127 S11"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Abbreviations and acronyms ACEi angiotensin-converting enzyme inhibitor(s) ACR albumin–creatinine ratio AKI acute kidney injury ARB angiotensin II receptor blocker ASCVD atherosclerotic cardiovascular disease BMI body mass index CGM continuous glucose monitoring CI confidence interval CKD chronic kidney disease CrCl creatinine clearance CVD cardiovascular disease DPP-4 dipeptidyl peptidase-4 eGFR estimated glomerular filtration rate"
+    },
+    {
+      "type": "paragraph",
+      "text": "GFR glomerular filtration rate GI gastrointestinal GLP-1 RA glucagon-like peptide-1 receptor agonist(s) GMI glucose management index GRADE Grading of Recommendations Assessment,"
+    },
+    {
+      "type": "paragraph",
+      "text": "HbA1c glycated hemoglobin HR hazard ratio KDIGO Kidney Disease: Improving Global Outcomes MACE major adverse cardiovascular events MET metabolic equivalent MRA mineralocorticoid receptor antagonist(s)"
+    },
+    {
+      "type": "paragraph",
+      "text": "OR odds ratio RAS(i) renin–angiotensin system (inhibition/inhibitors) RCT randomized controlled trial RR relative risk SCr serum creatinine SGLT2i sodium–glucose cotransporter-2 inhibitor(s) SMBG self-monitoring of blood glucose T1D type 1 diabetes T2D type 2 diabetes"
+    },
+    {
+      "type": "paragraph",
+      "text": "www.kidney-international.org abbreviations and acronyms"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

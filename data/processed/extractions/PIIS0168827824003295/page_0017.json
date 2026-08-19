@@ -1,0 +1,47 @@
+{
+  "page_number": 17,
+  "title": null,
+  "sections": [
+    "Individuals with FIB-4 >3.25 244",
+    "Derivation cohort, C-index =",
+    "Validation cohort, C-index =",
+    "MASLD",
+    "Overall, C-index = 0.85",
+    "Cirrhosis, C-index = 0.61",
+    "Overall, C-index = 0.887 536",
+    "F3-F4, C-index = 0.754",
+    "C-index = 0.69"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The approach to HCC monitoring in adults with MASH￾related cirrhosis involves a combination of risk stratification and individualised decision-making. According to current EASL guidelines,246,247 risk-based surveillance divides individuals with cirrhosis into three groups: the high-risk group must un￾dergo surveillance, and more costly screening tools than ultrasound are justified; the low-risk group may not need sur￾veillance at all; and the remaining intermediate-risk group should be offered surveillance. The main problem is how to perform an effective risk stratification for HCC risk in persons with MASLD and cirrhosis. Cirrhosis in MASLD is under-recognised compared to other aetiologies,248 with less than one in four individuals with cirrhosis undergoing HCC surveillance.249 These failures need to be addressed in future clinical and research efforts, as out￾lined in the previous section. EASL recommends semi-annual abdominal ultrasound as the primary strategy for HCC surveillance.246 However, individuals with MASLD have increased odds of persistent poor visualisation with a pooled sensitivity of 45% for ultrasound alone and increased risk of false positive or indeterminate results.250,251 Table 8. Factors associated with a higher risk of HCC occurrence in MASLD. Factor(s) Ref. Presence and duration of T2D, obesity or both 57,531 Older age 532,533 Concurrent alcohol intake and/or smoking 532,533"
+    },
+    {
+      "type": "paragraph",
+      "text": "Individuals with LSM >10 kPa and increasing change in LSM over time 185 Table 9. Proposed tools for HCC risk stratification in MASLD-related cirrhosis. NITs Formula/model variables/data Study cohorts Performance Ref. HCC risk score Age + sex + platelet count + albumin + AST/ OALT available at: www.hccrisk.com 7,068 individuals with MASLD￾related cirrhosis (407 incident HCC) Mean FU: 3.7 years"
+    },
+    {
+      "type": "paragraph",
+      "text": "0.749"
+    },
+    {
+      "type": "paragraph",
+      "text": "0.718 534 aMAP (0.06 × age (years) + 0.89 × sex (M = 1; F = 0) + 0.48 × [(log10 bilirubin (lmol/L) × 0.66 + albu￾min (g/L) × −0.085] – 0.01 × platelets (×103 / mm3 ) + 7.4)/14.77 × 100 Overall individuals, n = 17,374 NVH validation cohort, n = 720 Total: 1,389 individuals with"
+    },
+    {
+      "type": "paragraph",
+      "text": "Median FU: 4.61 years F3-F4, n = 243 (17.5%) NHV cohort: 535"
+    },
+    {
+      "type": "paragraph",
+      "text": "GALAD -10.08 + 0.09 × age (years) + 1.67 × gender (M = 1, F = 0) + 2.34 × log10 AFP (ng/ml) + 0.04 × AFP-L3 (%) + 1.33 × log10DCP (ng/ml) 389 individuals with MASH (28 incident HCC) Median FU: 167 months Cirrhosis, n = 77 (19.6%) Higher GALAD score in in￾dividuals who developed HCC vs. individuals HCC-free as early as 1.5 years before HCC diagnosis 537 HEDS study Risk factor associated to HCC development in individuals with cirrhosis: Male gender (OR = 2.47; 95% CI 1.54–4.07; p <0.001) Years with cirrhosis (OR = 1.06; 95% CI 1.02–1.1; p= 0.004), Family h/o of liver cancer (OR = 2.69; 95% CI 1.11–5.86; p= 0.02) Age (OR = 1.17; 95% CI 1.03–1.33; p= 0.02) Obesity (OR = 1.7; 95% CI, 1.08–2.73; p= 0.02) AST (OR = 1.54; 95% CI 0.97–2.42; p= 0.06) AFP (OR = 1.32; 95% CI 0.97–1.77; p= 0.07) Albumin (OR = 0.7; 95% CI 0.46–1.07; p= 0.10) Total: 1,325 individuals with cirrhosis (95 incident HCC) Median FU: 2.2 years MASLD, n = 327 (24.9%); 19 incident HCC Performance of the multivar￾iate set of risk factors: C-in￾dex = 0.73 538 THRI Age + etiology + gender + platelets Age: <45 years = 0 points; 45–60 years, 50 points; >60 years, 100 points Etiology: autoimmune/HCV SVR, 0 points; other, 36 points; MASLD, 54 points; HCV/HBV, 97 points Gender: Female = 0 points; Male = 80 points Platelets: >200 = 0 points; 140–200 = 20 points; 80–130 = 70 points; <80 = 89 points Total: 0–366 points Derivation cohort: 2,079 in￾dividuals with cirrhosis MASLD, n = 111 (5.3%) Total: 2,491 individuals with cirrhosis MASLD, n = 1,182 (48%) 10-year HCC incidence: low￾risk (<120) = 3%; medium￾risk120–240 = 10% high-risk (>240) = 32%"
+    },
+    {
+      "type": "paragraph",
+      "text": "539 540 LiverRisk score Linear regression model using age (years), blood glucose, cholesterol, AST, ALT, GGT and platelets Available at: https://www.liverriskscore.com Derivation cohort: 14,726 par￾ticipants without known liver disease from the general pop￾ulation undergoing transient elastography for assessment of liver fibrosis. Two external validation co￾horts: 4,370 and 3,999 individuals 8-year risk of HCC in the high￾risk group = 4.4% 8-year risk of HCC develop￾ment in the two lower risk groups <−0.1% 143 AFP, alpha-fetoprotein; DCP, Des-c-carboxy prothrombin; FU, follow-up; NHV, non-viral hepatitis; NIT, non-invasive test; OR, odds ratio. 508 Journal of Hepatology, September 2024. vol. 81 j 492–542"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

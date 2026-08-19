@@ -1,0 +1,28 @@
+{
+  "page_number": 6,
+  "title": null,
+  "sections": [
+    "The International Working Group on the Diabetic Foot",
+    "IWGDF Classification Guideline",
+    "IWGDF",
+    "Guidelines",
+    "WHAT’S NEW",
+    "METHODS"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "assessment of a person with infection; (d) the assessment of a person with peripheral artery disease; and (e) clinical audit of outcomes across units and populations. The intended use of a classification or scoring system will influence its content. A system designed to assess the risk or prognosis for an individual with diabetes and an ulcer on their foot will necessarily require a certain level of detail. In contrast, a system seeking to compare outcomes between populations will need to minimise data input by busy clinicians and should have a less burdensome requirement for data collection and processing, if it is to be usable in clinical practice. While classifications used for communication among healthcare professionals should ideally be simple to memorise and use. This guideline aims to provide recommendations on the use of classifications of established foot ulcers in people with diabetes for the various purposes on behalf of the International Working Group of the Diabetic Foot (IWGDF)."
+    },
+    {
+      "type": "paragraph",
+      "text": "We have made several changes to the recommendations included in this updated 2023 diabetes-related foot ulcer classification guideline when compared to the previous 2019 guideline (5). The main changes are the following: • Used a systematic review instead of a critical review to support our recommendations; • Used a more thorough GRADE methodology approach by grading effect sizes, grading certainty (quality) of evidence with ‘very low’ as an option, developing summary of findings tables and developing summary of judgement tables; • Added new important outcomes, including hospitalization, health-related quality of life, diabetes￾related foot ulcer and amputation free survival, and costs; • Added the use of alternative options for communication between healthcare professionals and management of for complex cases (such as in the presence of infection or peripheral arterial disease) acknowledging the differences in access to equipment and detail needed according to the settings."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this guideline we have followed the key steps of the GRADE evidence-to-decision framework, including: i) establishing a diverse expert panel to develop the guideline, ii) defining key clinical questions and important outcomes in the PI/ECO-format (Patient-Intervention/Exposure-Comparison-Outcome), iii) performing systematic reviews and rigorous appraisals of all available evidence that address the questions, iv) assessing key summary of judgements items for each question, v) developing recommendations and their rationale based on these summary of judgements, and vi) consulting external stakeholders on each step (6, 7). The methodology for this guideline is summarised below; we refer those seeking a more detailed description on the methods for developing and writing these guidelines to the ‘IWGDF Guidelines development and methodology’ document (8)."
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

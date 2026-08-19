@@ -1,0 +1,23 @@
+{
+  "page_number": 20,
+  "title": null,
+  "sections": [
+    "The International Working Group on the Diabetic Foot",
+    "IWGDF Classification Guideline",
+    "IWGDF",
+    "Guidelines",
+    "FOR CLASSIFYING A PERSON WITH AN ULCER AND PERIPHERAL ARTERY DISEASE"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "favors its use in comparison to UTWCS. In our opinion, the remaining classifications do not provide enough information to allow an accurate characterization of an infected foot ulcer. We would like to emphasise that this recommendation is intended to classify the severity of infection in people with diabetes and an ulcer of the foot only, and not the severity of any lower limb infection overall. In addition, our focus was to base our recommendation on the available evidence of the accuracy of the systems to predict clinical outcomes and health resource use and not to direct health care professionals to clinical management decisions. We draw attention to this, as these differences may create disparities between our recommendations and the strength of these recommendations in comparison to the ones from the infection group (37)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Clinical question: In a person with diabetes, peripheral artery disease and a foot ulcer, which classification system(s) is/ are the best to predict clinical and health resources outcomes? Recommendation 4: In a person with diabetes, peripheral artery disease and a foot ulcer, consider using the WIfI system as a means to stratify healing likelihood and amputation risk (Conditional; Low) Rationale: Given that 1) there is a specific group to create recommendations on how to diagnose and treat peripheral artery disease in people with diabetes, 2) the importance of aligning the recommendations between groups within the IWGDF, and 3) the similarity of the population used (although the peripheral artery disease group included people with gangrene of the foot whereas our populations was restricted to ulcers of the foot alone) and the most important outcomes selected (prediction of healing and amputation), we have shared the results of our systematic review with the peripheral artery disease group and agreed that this group should make the recommendation on which system to use in this specific clinical context. The peripheral artery disease working group has recommended the use of the WIfI classification to estimate the likelihood of healing and amputation (11). The choice of this system aligns with the classification working group’s selection for the other purposes for which recommendations were made (see recommendation 2 and Table 3). The peripheral artery disease working group applies this recommendation to both people with a foot ulcer or gangrene, focusing on tissue loss. By supporting the use of this system for both types of population we consider that it will also facilitate its implementation as, in people with diabetes and peripheral artery disease, gangrene without an open ulcer is often seen. The peripheral artery disease working group also reinforces the importance of taking a relevant history for peripheral artery disease and examining the foot pulses, but also that pedal Doppler waveforms in combination with ankle brachial index (ABI) and toe brachial index (TBI) measurements are preferable as methods to diagnose peripheral artery disease in people with diabetes and with foot ulcers. For a population with suspected peripheral artery disease, we endorse the peripheral artery disease group’s statements of the importance of access to these diagnostic procedures but highlight the need for the"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

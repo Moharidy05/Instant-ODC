@@ -1,0 +1,64 @@
+{
+  "page_number": 26,
+  "title": null,
+  "sections": [
+    "Metformin",
+    "MASLD/",
+    "(F0-F3)",
+    "MASLD/",
+    "MASH-targeted",
+    "Metformin*",
+    "Insulin",
+    "Dyslipidaemia",
+    "Statins",
+    "Obesity",
+    "GLP1RA",
+    "Bariatric",
+    "GLP1RA",
+    "Clinical Practice Guidelines"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "with a reduction in liver-related outcomes409,410 although the only available pilot trial of semaglutide in individuals with cirrhosis did not demonstrate a histological improvement.411 Sodium-glucose co-transporter-2 inhibitors SGLT2 inhibitors are approved for T2D, with some (empagli￾flozin, dapagliflozin) also approved for chronic kidney disease and heart failure because of their beneficial effect on cardio￾vascular and renal outcomes.412 They induce renal glucosuria, weight loss, blood pressure reduction, and protection from major cardiovascular outcomes, including heart failure. The weight loss is due to renal energy loss and reduction in fat mass, with reductions in both visceral and abdominal subcu￾taneous adipose tissue.413 Controlled clinical trials with liver histological endpoints are currently not available. Trials in people with T2D (not all with MASLD and some excluding high ALT values) have shown a moderate reduction in liver lipid content with empagliflozin,414,415 dapagliflozin416 and licogli￾flozin.417 Reductions in ALT were shown with empagliflozin414 and licogliflozin.417 Peroxisome proliferator-activated receptor agonists In several RCTs, pioglitazone, a thiazolidinedione which mainly activates peroxisome proliferator-activated receptor (PPAR)c, has been shown to improve histological features of steatohe￾patitis,372,418–420 without a clear effect on fibrosis regression even after prolonged (3-year) therapy.419 However, no large, international, phase III trial has been conducted and pioglita￾zone has been withdrawn from the market in several European countries. The drug has beneficial effects on insulin sensitivity, glycaemic control, serum lipids and prevention of cardiovas￾cular events in individuals with T2D421,422 but the side effect profile (weight gain, pedal oedema, haemodilution, bone loss in post-menopausal women and a debate around the risk of bladder cancer) has limited its development for MASH.423 Pioglitazone R-enantiomers lacking PPARc activity but retain￾ing non-genomic effects through inhibition of the mitochondrial pyruvate carrier have shown preliminary biochemical and anti￾fibrotic responses with improved side effect profiles.424 A phase IIb trial showed a dose-dependent histological improvement of steatohepatitis and fibrosis with the pan-PPAR agonist lanifibranor,425 though side effects were reminiscent of PPARc agonists, namely a 2.5% increase in weight, pedal oedema and mild anaemia. A large registrational, phase III trial is ongoing. Saroglitazar, a dual PPARa/c agonist has been shown to improve insulin resistance, liver steatosis and liver enzymes426 and is approved in India for the treatment of T2D and MASH.427 Trials with liver histological endpoints are ongoing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Small and uncontrolled initial trials of metformin have shown an ALT reduction and an insulin-sensitising effect,428,429 but were not followed by sufficiently large and well-conducted RCTs. Currently, there is no evidence that metformin alone can improve histology in MASH. As far as clinical outcomes, there is some indication from observational and case-control studies that, in people with T2D and MASLD-related advanced fibrosis or cirrhosis, metformin may improve transplant-free survival (but not the risk of hepatic decompensation), and reduce the risk of primary liver and extrahepatic cancer.430,431 Thus, met￾formin should not be discontinued in those individuals with cirrhosis (unless discontinuation is required due to hepatic decompensation or renal failure), as this could increase mortality.432 Fig. 4 summarises our recommended choice of pharmaco￾logical treatment options in individuals with MASH, depending on comorbidities and stage of disease."
+    },
+    {
+      "type": "paragraph",
+      "text": "MASH without cirrhosis"
+    },
+    {
+      "type": "paragraph",
+      "text": "MASH with compensated cirrhosis (F4)"
+    },
+    {
+      "type": "paragraph",
+      "text": "If locally approved: resmetirom in F2/F3 fibrosis Check indication for liver transplantation in case of decompensation or HCC Preferred pharmacological options for treating comorbidities T2D SGLT2 inhibitors (e.g. empagliflozin, dapagliflozin)"
+    },
+    {
+      "type": "paragraph",
+      "text": "(in case of decompensated cirrhosis)"
+    },
+    {
+      "type": "paragraph",
+      "text": "*if glomerular filtration rate >30 ml/min"
+    },
+    {
+      "type": "paragraph",
+      "text": "(e.g. semaglutide, liraglutide, dulaglutide) and coagonists (e.g. tirzepatide)"
+    },
+    {
+      "type": "paragraph",
+      "text": "interventions (special caution in case of compensated cirrhosis)"
+    },
+    {
+      "type": "paragraph",
+      "text": "(e.g. semaglutide, liraglutide) and coagonists (e.g. tirzepatide) Fig. 4. Treatment recommendations beyond lifestyle modification in MASLD/MASH. The recommended choice of pharmacological treatment options in in￾dividuals with MASLD/MASH is dependent on comorbidities and stage of disease. GLP1RA, glucagon-like peptide 1 receptor agonist; HCC, hepatocellular carcinoma; MASH, metabolic dysfunction-associated steatohepatitis; MASLD, metabolic dysfunction-associated steatotic liver disease; SGLT2, sodium-glucose cotransporter 2; T2D, type 2 diabetes. Journal of Hepatology, September 2024. vol. 81 j 492–542 517"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

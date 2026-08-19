@@ -1,0 +1,61 @@
+{
+  "page_number": 32,
+  "title": null,
+  "sections": [
+    "Metformin",
+    "SGLT2i",
+    "Nonsteroidal MRA† if",
+    "Dihydropyridine CCB",
+    "Antiplatelet",
+    "Lifestyle",
+    "First-line",
+    "Additional",
+    "Steroidal MRA if",
+    "Regular",
+    "Kidney International (2022) 102 (Suppl 5S), S1–S127 S31"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "transplant, and patients treated with hemodialysis or perito￾neal dialysis. CKD is defined as persistently elevated urine albumin excretion ($30 mg/g [$3 mg/mmol]), persistently reduced eGFR (eGFR <60 ml/min per 1.73 m2 ), or both, for more than 3 months, in accordance with current KDIGO guidelines. Practice Point 1.1.1: Patients with diabetes and chronic kidney disease (CKD) should be treated with a compre￾hensive strategy to reduce risks of kidney disease progres￾sion and cardiovascular disease (Figures 1 and 2). As kidney function deteriorates and reaches lower GFR, changes to types and doses of medications often need to be adjusted. In addition, management of anemia, bone and mineral disorders, fluid and electrolyte disturbances, and eventually dialysis and transplantation become increasingly dominant. As other KDIGO guidelines cover these latter topics, they are not addressed in the current guideline. However, to the extent possible, guidance is provided in relation to the selected topics, particularly diabetes monitoring, glycemia management, and RAS blockade, as well as lifestyle factors for all CKD severities. Research recommendations Additional trials to prevent CKD progression and CVD are needed. These studies would address how best to combine lifestyle factors and the multiple new therapies (such as SGLT2i and MRA) compared to standard of care Studies are needed to examine how best to initiate, combine, and titrate the different treatment options that are part of the comprehensive care. The benefit of new therapies and multifactorial interven￾tion should be tested in broader populations with CKD and diabetes including T1D, dialysis, and kidney transplant treated patients. Studies should be initiated to evaluate the concept of pre￾cision medicine in diabetes and CKD. Should all patients receive the same management/treatment approach to comprehensive care, or should it be tailored based on the individual CKD/diabetes type and risk profile? H Smoking cessation ealthy diet Physical activity Weight management"
+    },
+    {
+      "type": "paragraph",
+      "text": "(if eGFR ≥30)"
+    },
+    {
+      "type": "paragraph",
+      "text": "(Initiate eGFR ≥20; continue until dialysis or transplant) RAS inhibitor at maximum tolerated dose (if HTN*) Moderate- or high-intensity statin GLP-1 RA if needed to achieve individualized glycemic target"
+    },
+    {
+      "type": "paragraph",
+      "text": "ACR ≥30 mg/g [≥3 mg/mmol] and normal potassium"
+    },
+    {
+      "type": "paragraph",
+      "text": "and/or diuretic* if needed to achieve individualized BP target"
+    },
+    {
+      "type": "paragraph",
+      "text": "agent for clinical ASCVD"
+    },
+    {
+      "type": "paragraph",
+      "text": "drug therapy"
+    },
+    {
+      "type": "paragraph",
+      "text": "risk-based therapy Other glucose-lowering drugs if needed to achieve individualized glycemic target"
+    },
+    {
+      "type": "paragraph",
+      "text": "needed for resistant hypertension if eGFR ≥45 Ezetimibe, PCSK9i, or icosapent ethyl if indicated based on ASCVD risk and lipids"
+    },
+    {
+      "type": "paragraph",
+      "text": "risk factor reassessment (every 3–6 months) T2D only All patients (T1D and T2D) Regular reassessment of glycemia, albuminuria, BP, CVD risk, and lipids Figure 2 | Holistic approach for improving outcomes in patients with diabetes and chronic kidney disease. *Angiotensin-converting ezyme inhibitor (ACEi) or angiotensin II receptor blocker (ARB) should be first-line therapy for hypertension (HTN) when albuminuria is present, otherwise dihydropyridine calcium channel blocker (CCB) or diuretic can also be considered; all 3 classes are often needed to attain blood pressure (BP) targets. † Finerenone is currently the only nonsteroidal mineralocorticoid receptor antagonist (MRA) with proven clinical kidney and cardiovascular benefits. Icons presented indicate the following benefits: blood pressure cuff ¼ blood pressure–lowering; glucometer ¼ glucose-lowering; heart ¼ heart protection; kidney ¼ kidney protection; scale, weight management; ACR, albumin-creatinine ratio; ASCVD, atherosclerotic cardiovascular disease; CVD, cardiovascular disease; eGFR, estimated glomerular filtration rate; GLP-1 RA, glucagon-like peptide￾1 receptor agonist; PCSK9i, proprotein convertase subtilisin/kexin type 9 inhibitor; RAS, renin-angiotensin system; SGLT2i, sodium-glucose cotransporter-2 inhibitor; T1D, type 1 diabetes; T2D, type 2 diabetes. www.kidney-international.org chapter 1"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

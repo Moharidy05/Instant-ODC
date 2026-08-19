@@ -1,0 +1,36 @@
+{
+  "page_number": 10,
+  "title": null,
+  "sections": [
+    "/L).136",
+    "XPT system, Atellica IM Analyzer and Atellica CI Analyzer. In a",
+    "FIB-4*",
+    "Re-assess FIB-4",
+    "FIB-4",
+    "Clinical Practice Guidelines"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "used in a primary care setting when specifically validated for this purpose. It has been shown that a combination of values from blood tests and anthropometric data enables a better prediction of fibrosis than single liver enzyme values (ALT and/or AST). The following scores have been described in the literature and were tested in several studies for their predictive power for fibrosis: FIB-4 (Fibrosis-4 index) = age x AST/(platelet count x O(ALT)) (age in years, ALT and AST in U/L, and platelet count in 109"
+    },
+    {
+      "type": "paragraph",
+      "text": "APRI (AST to platelet ratio index) = (AST/Top Normal AST) x (100/platelet count).137 NFS (NAFLD fibrosis score) = -1.675 + 0.037 × age + 0.094 × BMI + 1.13 × impaired fasting glucose (yes = 1, no = 0) + 0.99 × AST/ALT - 0.013 × platelet count - 0.66 × albumin (age in years; BMI in kg/m2 ; AST and ALT in (U/L); platelet count in 109 /L and albumin in g/dl).138 FIB-4 is the most widely established and available tool. However, its ability to detect fibrosis is limited in the interme￾diate range (1.3-2.67), in the elderly and in individuals with T2D.139 FIB-4 as a single test may therefore result in a high number of false positives, especially in lower prevalence pop￾ulations. Notably, in individuals older than 65 years, a different lower FIB-4 cut-off of 2.0 applies. Both FIB-4 and the NFS have moderate accuracy for predicting fibrosis stages >−F3 with AUROCs of about 0.77 and 0.75 for FIB-4 and NFS, respec￾tively.140 Furthermore, both FIB-4 and the NFS perform poorly in individuals younger than 35 years.141 Recently, machine￾learning techniques have been applied to develop optimised scores from multi-parametric inputs. Derived scores (such as FIB-6) cannot be defined in closed formulae but may have improved diagnostic value.142 Several scores, including the LiverRisk, SAFE and MAF-5 score are currently being developed for the population-based setting.143–145 Future studies will need to address how these scores perform regarding accuracy, in sequential testing and regarding cost-effectiveness. Tests based on components of collagen formation can provide additional evidence of fibrosis: The ELFTM (enhanced liver fibrosis) test produces a single score based on quantitative measurements of three serum markers of extracellular collagen metabolism.146 ELF = 2.278 + 0.851 × In(hyaluronic acid [HA]) + 0.751 × In(amino-terminal propeptide of type III procollagen [PIIINP]) + 0.394 × In(tissue inhibitor of met￾alloproteinase 1 [TIMP-1]) as measured on the ADVIA Centaur XP/"
+    },
+    {
+      "type": "paragraph",
+      "text": "meta-analysis of 63 studies, ELF showed a relatively high per￾formance in detecting significant fibrosis, advanced fibrosis or cirrhosis (AUROCs 0.811, 0.812 and 0.810, respectively).147 ADAPT – including age, presence of diabetes, PRO-C3, and platelet count – has recently shown relatively high performance in identifying MASLD with advanced fibrosis in the tertiary hepatology care setting,148 and in ruling out advanced fibrosis in low-risk populations.149 Type 2 diabetes or obesity + ≥1 cardiometabolic risk factor(s) or persistently elevated liver enzymes"
+    },
+    {
+      "type": "paragraph",
+      "text": "every 1-3 years 1.3-2.67 Intensified management of comorbidities** re-assess FIB-4 at ≤1 year * FIB-4 thresholds valid for age ≤65 years (for age >65 years: lower FIB-4 cut-off is 2.0) ** e.g. lifestyle intervention, treatment of comorbidities (e.g. GLP1RA), bariatric procedures *** e.g. MRE, SWE, ELF, with adapted thresholds and are options, depending on medical history, clinical context and local resources >2.67 Hepatology referral • Diagnostic work-up and management plan for liver-related outcomes • Intensified management of comorbidities (in a multidisciplinary team) FIB-4 <1.3"
+    },
+    {
+      "type": "paragraph",
+      "text": "≥1.3 <1.3 VCTE or alternative test*** <8.0 kPa ≥8.0 kPa A B A B Fig. 2. Proposed strategy for non-invasive assessment of the risk for advanced fibrosis and liver-related outcomes in individuals with metabolic risk factors or signs of SLD. Individuals with (A) T2D or (B) abdominal obesity and >−1 additional cardiometabolic risk factor(s) or (C) persistently elevated liver enzymes should undergo a multi-step diagnostic process, as indicated in the figure, to identify individuals with MASLD and advanced fibrosis. The algorithm can also be applied in case of incident finding of steatosis. This strategy is intended to identify individuals at risk of developing liver-related outcomes. ELF, enhanced liver fibrosis; FIB-4, fibrosis-4 index; GLP1RA, glucagon-like peptide-1 receptor agonist; MRE, magnetic resonance elastography; SLD, steatotic liver disease; SWE, shear wave elastography; VCTE, vibration-controlled transient elastography. Journal of Hepatology, September 2024. vol. 81 j 492–542 501"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

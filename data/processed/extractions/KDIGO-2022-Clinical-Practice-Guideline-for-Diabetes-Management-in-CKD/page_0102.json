@@ -1,0 +1,40 @@
+{
+  "page_number": 102,
+  "title": null,
+  "sections": [
+    "conducted. The Cochrane Kidney and Transplant Registry of",
+    "2020 Clinical Practice Guideline for Diabetes Management in",
+    "SoF tables Tables S24–S25, S92, S93",
+    "Study design RCT",
+    "SoF tables Supplementary Tables S26–S28 and S94",
+    "Kidney International (2022) 102 (Suppl 5S), S1–S127 S101"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "studies is a database of RCTs in kidney disease that is main￾tained by information specialists. The database is populated by monthly searches of the Cochrane Central Register of Controlled Trials, weekly searches of MEDLINE OVID, yearly searches of Embase OVID, hand-searching of major kidney and transplant conference proceedings, searches of trial reg￾istries, including clinicaltrials.gov, and the International Clinical Trials Register search portal. For review topics that matched existing Cochrane Kidney and Transplant systematic reviews, an updated search of the Cochrane Kidney and Transplant Registry of studies was"
+    },
+    {
+      "type": "paragraph",
+      "text": "studies was also searched for RCTs not associated with existing Cochrane systematic review. The search strategies are provided in Appendix A: Supplementary Table S1. The titles and abstracts resulting from the searches were screened by a member of the ERT and confirmed indepen￾dently by another member of the ERT; if necessary, the full text was assessed, to determine which studies satisfied the inclusion criteria. Disagreement about inclusion was resolved by discussion with a third member of the ERT. The 2020 guideline search identified 5667 citations. The updated 2022 search identified 1078 citations that were screened. Of these, 102 RCTs were included in the updated evidence review. In total, 346 RCTs, 31 observational studies, and 50 systematic reviews have been included in the evidence review (Figure 36). Data extraction. Data extraction was performed indepen￾dently by a member of the ERT and confirmed by a second member of the ERT. Unclear data were clarified by contacting the author of the study report, and any relevant data obtained in this manner were included. Any differences among members of the ERT regarding how to perform extraction were resolved through discussion. A third reviewer was included if consensus could not be achieved. Critical appraisal of studies. As the guideline update evi￾dence review only included RCTs, the Cochrane Risk of Bias tool465 was used to assess individual study limitations based on the following items: Was there adequate sequence generation (selection bias)? Was allocation adequately concealed (selection bias)? Was knowledge of the allocated interventions adequately prevented during the study (detection bias)? B Participants and personnel (performance bias) B Outcome assessors (detection bias) Were incomplete outcome data adequately addressed (attrition bias)? Are reports of the study free of suggestion of selective outcome reporting (reporting bias)? Was the study apparently free of other problems that could put it at risk of bias? Including an assessment of the studies sponsors involvement in study design, conduct, and reporting.466 All critical appraisal was conducted independently by 2 members of the ERT, with disagreements regarding the risk of bias adjudications resolved by consultation with a third review author. Evidence synthesis and meta-analysis. The evidence syn￾thesis and meta-analysis methods undertaken for the KDIGO"
+    },
+    {
+      "type": "paragraph",
+      "text": "CKD guideline were followed for the 2022 guideline update. Measures of treatment effect. Dichotomous outcome (all￾cause mortality, cardiovascular mortality, kidney failure, car￾diovascular events [MACE and individual events—myocardial infarction, stroke, heart failure], doubling of serum creati￾nine, moderately increased albuminuria to severely increased albuminuria progression, hypoglycemia requiring third-party assistance, etc.) results were expressed as RR with 95% CI. For time-to-event data (MACE), HR with 95% CI was reported; when continuous scales of measurement were used to assess Table 2 | (Continued) Clinical questions and systematic review topics in the PICOM format Guideline chapter 5 Approaches to management of patients with diabetes and CKD Cochrane systematic reviews Li et al. Education programmes for people with diabetic kidney disease. Cochrane Database Syst Rev. 2011;6:CD007374.408"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clinical question What are the most effective healthcare delivery programs to improve clinically relevant outcomes and reduce clinically relevant harms in patients with diabetes and CKD? Population Adults with CKD (G1–G5, G5D) and diabetes (T1D and T2D) Intervention Health service delivery programs/models of care Comparator Standard of care Outcomes Critical and important outcomes listed in Table 1 Additional outcomes: fatigue and quality of life"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cochrane systematic reviews None relevant"
+    },
+    {
+      "type": "paragraph",
+      "text": "ACEi, angiotensin-converting enzyme inhibitor(s); AKI, acute kidney injury; ARB, angiotensin II receptor blocker; BMI, body mass index; CGM, continuous glucose monitoring; CKD, chronic kidney disease; DASH, Dietary Approaches to Stop Hypertension; DPP-4, dipeptidyl peptidase-4; eGFR, estimated glomerular filtration rate; G, glomerular filtration rate category (suffix D denotes dialysis and suffix T denotes transplant recipient); G1T, CKD G1 after transplantation; G5D, CKD G5 treated by dialysis; G5T, CKD G5 after transplantation; GLP-1 RA, glucagon-like peptide-1 receptor agonist; HbA1c, glycated hemoglobin; PICOM, Population, Intervention, Comparator, Outcome, Methods; RAS, renin–angiotensin system; RCT, randomized controlled trial; SCr, serum creatinine; SGLT2i, sodium–glucose cotransporter-2 inhibitor; SMBG, self-monitoring of blood glucose; SoF, Summary of findings; T1D, type 1 diabetes; T2D, type 2 diabetes. www.kidney-international.org methods for guideline development"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

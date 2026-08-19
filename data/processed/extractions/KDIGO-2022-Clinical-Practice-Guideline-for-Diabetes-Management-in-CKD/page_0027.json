@@ -1,0 +1,26 @@
+{
+  "page_number": 27,
+  "title": null,
+  "sections": [
+    "4.1. Metformin",
+    "Monitor vitamin B12",
+    "Continue",
+    "S26 Kidney International (2022) 102 (Suppl 5S), S1–S127"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Recommendation 4.1.1: We recommend treating patients with T2D, CKD, and an eGFR ‡30 ml/min per 1.73 m2 with metformin (1B). Practice Point 4.1.1: Treat kidney transplant recipients with T2D and an eGFR ‡30 ml/min per 1.73 m2 with metformin according to recommendations for patients with T2D and CKD. Practice Point 4.1.2: Monitor eGFR in patients treated with metformin. Increase the frequency of monitoring when the eGFR is <60 ml/min per 1.73 m2 (Figure 27). Practice Point 4.1.3: Adjust the dose of metformin when the eGFR is <45 ml/min per 1.73 m2 , and for some patients when the eGFR is 45–59 ml/min per 1.73 m2 (Figure 27). Practice Point 4.1.4: Monitor patients for vitamin B12 deficiency when they are treated with metformin for more than 4 years. 4.2. Glucagon-like peptide-1 receptor agonists (GLP-1 RA) Recommendation 4.2.1: In patients with T2D and CKD who have not achieved individualized glycemic targets despite use of metformin and SGLT2i treatment, or who are unable to use those medications, we recommend a long-acting GLP-1 RA (1B). Practice Point 4.2.1: The choice of GLP-1 RA should prioritize agents with documented cardiovascular benefits. Dose initiation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Monitor kidney function Subsequent dose adjustment eGFR < 30 Stop metformin; do not initiate metformin eGFR ≥ 60 eGFR 45–59 eGFR 30–44 eGFR ≥ 60 eGFR 45–59 eGFR 30–44"
+    },
+    {
+      "type": "paragraph",
+      "text": "same dose Continue same dose. Consider dose reduction in certain conditions (see text) Halve the dose Yes No Immediate release: • Initial 500 mg or 850 mg once daily • Titrate upwards by 500 mg/d or 850 mg/d every 7 days until maximum dose OR Extended release: • Initial 500 mg daily • Titrate upwards by 500 mg/d every 7 days until maximum dose Initiate at half the dose and titrate upwards to half of maximum recommended dose At least annually At least every 3–6 months Figure 27 | Suggested approach in dosing metformin based on the level of kidney function. eGFR, estimated glomerular filtration rate (in ml/min per 1.73 m2 ); GI, gastrointestinal. summary of recommendation sta tements and practice points www.kidney-international.org"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

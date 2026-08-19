@@ -1,0 +1,18 @@
+{
+  "page_number": 15,
+  "title": null,
+  "sections": [
+    "The International Working Group on the Diabetic Foot",
+    "IWGDF Classification Guideline",
+    "IWGDF",
+    "Guidelines"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "gangrene (17), but no external validation or reliability assessment was conducted (4) and therefore we could not recommend it for this purpose. The UTWCS system was used in 30 articles (most at high risk of bias, using stage or grade separately and reported mostly association measures), while the WIfI system was used in 13 (with five being conducted in the same institution and with a larger population including previously reported participants plus additional participants) (4). For both systems the certainty of evidence was considered to be low. The WIfI system uses a combination of scores for wound (based on depth of ulcer or extent of gangrene), ischaemia (based on ankle pressure, toe pressure or TcPO2), and foot infection (based on IDSA/IWGDF criteria), detailed in Table 3, to provide a 1-year risk for amputation and 1-year benefit for revascularisation, both stratified as very low, low, moderate, or high (18). This has benefit over perfusion pressures alone by including associated wound and infection criteria to provide a more holistic wound overview in revascularisation decision-making. UTWCS (19) and WIfI (18) both require equipment and clinical expertise to conduct the ankle-brachial index (ABI) as a minimum, which reduces equity and feasibility. In addition, false positives may lead to more anxiety, and thus we do not support the use of such tests without proper training. On the other hand, those individuals with previous signs and symptoms may already have a recent ABI test result or may be followed in settings in which vascular examination is possible and feasible. Neither UTWCS nor WIfI included loss of protective sensation (for which it is important to recommend offloading) as a variable. In comparison with the WIfI system, the UTWCS system has less detail and classifies DFUs using a bidimensional 4 × 4 matrix, according to depth (Grades 0, 1, 2, and 3) and presence of infection (Stage B), ischaemia (Stage C), or both (Stage D) (19). The original publication (19) described a combination of clinical signs and symptoms, plus one or more non-invasive criteria (transcutaneous oxygen measurements, ABI, or toe systolic pressure) to assess perfusion. In addition, size (area) is not included in this classification. For these reasons, when resources exist in addition to an appropriate level of expertise and it is considered feasible, we recommend healthcare professional to also consider the use of the WIfI system for communication about the characteristics of an ulcer (see Table 3), focusing on the description of the grade of each composing variable."
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

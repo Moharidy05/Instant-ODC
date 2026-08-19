@@ -1,0 +1,13 @@
+{
+    "page_number": 32,
+    "title": "Cardiovascular Disease and Risk Management",
+    "sections": [
+        {
+            "type": "section",
+            "heading": "Clinical Approach",
+            "text": "As has been carefully outlined in Fig. 9.3 in Section 9, \"Pharmacologic Approaches to Glycemic Treatment,\" people with type 2 diabetes with or at high risk for ASCVD, heart failure, or CKD should be treated with a cardioprotective SGLT2 inhibitor and/or GLP-1 receptor agonist as part of the comprehensive approach to cardiovascular and kidney risk reduction. Importantly, these agents should be included in the plan of care irrespective of the need for additional glucose lowering and irrespective of metformin use. Such an approach has also been described in the ADA-endorsed American College of Cardiology \"2020 Expert Consensus Decision Pathway on Novel Therapies for Cardiovascular Risk Reduction in Patients With Type 2 Diabetes\" (309). Figure 10.3, reproduced from that decision pathway, outlines the approach to risk reduction with SGLT2 inhibitor or GLP-1 receptor agonist therapy in conjunction with other traditional, guideline-based preventive medical therapies for blood pressure, lipids, and glycemia and antplatelet therapy.\n\nAdoption of these agents should be reasonably straightforward in people with established cardiovascular or kidney disease who are later diagnosed with diabetes, as the cardioprotective agents can be used from the outset of diabetes management. On the other hand, incorporation of SGLT2 inhibitor or GLP-1 receptor agonist therapy in the care of individuals with more long-standing diabetes may be more challenging, particularly if individuals are using an already complex glucose-lowering plan. In such individuals, SGLT2 inhibitor or GLP-1 receptor agonist therapy may need to replace some or all of their existing medications to minimize risks of hypoglycemia and adverse side effects and potentially to minimize medication costs. Close collaboration between primary and specialty care professionals can help to facilitate these transitions in clinical care and, in turn, improve outcomes for high-risk people with type 2 diabetes."
+   	}
+    ],
+    "tables": [],
+    "figures": []
+}

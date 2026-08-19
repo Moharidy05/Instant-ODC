@@ -1,0 +1,13 @@
+{
+    "page_number": 13,
+    "title": "Cardiovascular Disease and Risk Management",
+    "sections": [
+        {
+            "type": "paragraph",
+            "text": "received two injections of inclisiran or placebo. Both groups were followed for 1 year to assess the durability of the initial (30–45%, dose-dependent) lowering of LDL cholesterol. Almost all individuals treated with inclisiran maintained their LDL cholesterol levels at 180 days; however, the levels returned to within 20% change from the baseline for 17–52% individuals, and response depended on both the number and strength of the inclisiran dose(s) received (132). A proportion of these individuals continued into the open-label Extension Trial of Inclisiran in Participants With Cardiovascular Disease and High Cholesterol (ORION-3), in which they returned to inclisiran 300 mg given every 6 months and were compared with individuals given placebo in ORION-1 and those who were given evolocumab 140 mg every 2 weeks for 1 year and then transitioned to inclisiran. The change in LDL cholesterol levels was compared with the baseline, which was defined as the baseline for the ORION-1 trial for those initially treated with inclisiran (as they were inclisiran naive at that point) or the start of the ORION-3 trial for those previously treated with placebo. It is important to note that of the ORION-3 participants, only 23% had diabetes and 33% were not taking statin therapy. Both arms maintained an LDL cholesterol reduction of ~45% through the end of year 4 (133). The significant response was seen across the groups during the ORION-1 trial and in the ORION-3 extension, and it may be expected that those with statin intolerance experienced a response similar to the response of those on statin therapy; however, evaluation of response based on background lipid-lowering therapy was not described."
+
+    	}
+    ],
+    "tables": [],
+    "figures": []
+}

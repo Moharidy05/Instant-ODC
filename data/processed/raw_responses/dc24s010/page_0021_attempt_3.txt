@@ -1,0 +1,257 @@
+{
+    "page_number": 21,
+    "title": "Table 10.3B—Continued",
+    "sections": [],
+    "blocks": [
+        {
+            "type": "paragraph",
+            "text": "physicians and cardiovascular specialist services. Participants in the intervention group received more renin-angiotensin/ aldosterone system-based therapy. The primary end point of left ventricular dysfunction and heart failure was significantly reduced in the intervention group (odds ratio 0.55 [95% CI 0.37–0.82]; P = 0.003). The risk for left ventricular systolic dysfunction, diastolic dysfunction, or heart failure was significantly reduced in the BNP-guided intervention group. Approximately 18% of people in the control and intervention groups had a diagnosis of diabetes. Finally, in the original Intensified Multifactorial Intervention in Patients With Type 2 Diabetes and Microalbuminuria (Steno-2) trial, 160 individuals with type 2 diabetes and microalbuminuria were enrolled, and the trial examined the effect of multifactorial treatment on cardiovascular outcomes (219). When stratified in a later analysis by NT-proBNP levels, plasma NT-proBNP levels above the median were associated with increased risk of cardiovascular disease, and a decrease in plasma NT-proBNP of 10 pg/mL for the first 2 years of intervention was associated with a 1% relative risk reduction in the primary cardiovascular end point (220). Based on this collective evidence, the committee recommends considering screening asymptomatic adults with diabetes for the development of cardiac structural or functional abnormalities (stage B heart failure) by measurement of natriuretic peptides, including BNP or NT-proBNP levels. The biomarker threshold for abnormal values is a BNP level ≥50 pg/mL and NT-proBNP ≥125 pg/mL. Abnormal levels of natriuretic peptide will need to be evaluated in the context of each individual, using clinical judgment, and in the absence of any possible competing diagnoses, particularly recognizing conditions that may lead to increased levels of natriuretic peptide, including renal insufficiency, pulmonary disease including pulmonary hypertension and chronic obstructive lung disease, obstructive sleep apnea, ischemic and hemorrhagic stroke, and anemia. Conversely, natriuretic peptide levels may be decreased in the population with obesity, which impairs sensitivity of testing. Risk stratification for incident heart failure (stage A) and identification of people with asymptomatic cardiac abnormalities (stage B) may prevent progression to"
+    }
+    ],
+    "tables": [
+        {
+            "content": [
+                {
+                    "type": "table",
+                    "content": [
+                        {
+                            "type": "row",
+                            "content": [
+                                {
+                                    "type": "cell",
+                                    "content": "Key secondary outcomes"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "row",
+                            "content": [
+                                {
+                                    "type": "cell",
+                                    "content": "ELIXA (260)"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "LEADER (255)"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "SUSTAIN-6 (256)*"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "EXCEL (261)"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "REWIND (259)"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "row",
+                            "content": [
+                                {
+                                    "type": "cell",
+                                    "content": "Expanded MACE"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "0.88 (0.81–0.96)"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "0.74 (0.62–0.89)"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "0.98 (0.65–1.48)"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "0.88 (0.76–1.02)"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "row",
+                            "content": [
+                                {
+                                    "type": "cell",
+                                    "content": "Cardiovascular deaths"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "0.98 (0.78–1.22)"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "0.78 (0.66–0.93)"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "0.98 (0.75–1.00)"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "0.91 (0.78–1.06)"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "row",
+                            "content": [
+                                {
+                                    "type": "cell",
+                                    "content": "MI$"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "1.03 (0.87–1.22)"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "0.86 (0.73–1.00)"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "0.97 (0.85–1.10)"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "0.96 (0.79–1.15)"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "row",
+                            "content": [
+                                {
+                                    "type": "cell",
+                                    "content": "Stroke$"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "1.12 (0.79–1.58)"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "0.61 (0.38–0.99)"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "0.85 (0.70–1.03)"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "0.76 (0.61–0.95)"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "row",
+                            "content": [
+                                {
+                                    "type": "cell",
+                                    "content": "HF hospitalization$"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "0.96 (0.75–1.23)"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "0.87 (0.73–1.05)"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "0.94 (0.78–1.13)"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "0.93 (0.77–1.12)"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "row",
+                            "content": [
+                                {
+                                    "type": "cell",
+                                    "content": "Unstable angina hospitalization$"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "1.11 (0.47–2.62)"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "0.82 (0.47–1.44)"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "1.05 (0.94–1.18)"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "1.14 (0.84–1.54)"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "row",
+                            "content": [
+                                {
+                                    "type": "cell",
+                                    "content": "All-cause mortality$"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "0.85 (0.74–0.97)"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "1.05 (0.74–1.50)"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "0.86 (0.77–0.97)"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "0.85 (0.77–0.93)"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "row",
+                            "content": [
+                                {
+                                    "type": "cell",
+                                    "content": "Worsening nephropathy$"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "0.78 (0.67–0.92)"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "0.64 (0.46–0.88)"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "—"
+                                },
+                                {
+                                    "type": "cell",
+                                    "content": "—"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "figures": []
+}

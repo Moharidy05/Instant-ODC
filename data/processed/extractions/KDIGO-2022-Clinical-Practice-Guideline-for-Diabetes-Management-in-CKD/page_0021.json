@@ -1,0 +1,61 @@
+{
+  "page_number": 21,
+  "title": null,
+  "sections": [
+    "Metformin",
+    "SGLT2i",
+    "Nonsteroidal MRA† if",
+    "Dihydropyridine CCB",
+    "Antiplatelet",
+    "Lifestyle",
+    "First-line",
+    "Additional",
+    "Steroidal MRA if",
+    "Regular",
+    "S20 Kidney International (2022) 102 (Suppl 5S), S1–S127"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "1.2. Renin–angiotensin system (RAS) blockade Recommendation 1.2.1: We recommend that treatment with an angiotensin-converting enzyme inhibitor (ACEi) or an angiotensin II receptor blocker (ARB) be initiated in patients with dia￾betes, hypertension, and albuminuria, and that these medications be titrated to the highest approved dose that is tolerated (1B). Practice Point 1.2.1: For patients with diabetes, albuminuria, and normal blood pressure, treatment with an ACEi or ARB may be considered. Practice Point 1.2.2: Monitor for changes in blood pressure, serum creatinine, and serum potassium within 2–4 weeks of initiation or increase in the dose of an ACEi or ARB (Figure 4). Practice Point 1.2.3: Continue ACEi or ARB therapy unless serum creatinine rises by more than 30% within 4 weeks following initiation of treatment or an increase in dose (Figure 4). Practice Point 1.2.4: Advise contraception in women who are receiving ACEi or ARB therapy and discontinue these agents in women who are considering pregnancy or who become pregnant. Practice Point 1.2.5: Hyperkalemia associated with the use of an ACEi or ARB can often be managed by measures to reduce serum potassium levels rather than decreasing the dose or stopping the ACEi or ARB immediately (Figure 4). H Smoking cessation ealthy diet Physical activity Weight management"
+    },
+    {
+      "type": "paragraph",
+      "text": "(if eGFR ≥30)"
+    },
+    {
+      "type": "paragraph",
+      "text": "(Initiate eGFR ≥20; continue until dialysis or transplant) RAS inhibitor at maximum tolerated dose (if HTN*) Moderate- or high-intensity statin GLP-1 RA if needed to achieve individualized glycemic target"
+    },
+    {
+      "type": "paragraph",
+      "text": "ACR ≥30 mg/g [≥3 mg/mmol] and normal potassium"
+    },
+    {
+      "type": "paragraph",
+      "text": "and/or diuretic* if needed to achieve individualized BP target"
+    },
+    {
+      "type": "paragraph",
+      "text": "agent for clinical ASCVD"
+    },
+    {
+      "type": "paragraph",
+      "text": "drug therapy"
+    },
+    {
+      "type": "paragraph",
+      "text": "risk-based therapy Other glucose-lowering drugs if needed to achieve individualized glycemic target"
+    },
+    {
+      "type": "paragraph",
+      "text": "needed for resistant hypertension if eGFR ≥45 Ezetimibe, PCSK9i, or icosapent ethyl if indicated based on ASCVD risk and lipids"
+    },
+    {
+      "type": "paragraph",
+      "text": "risk factor reassessment (every 3–6 months) T2D only All patients (T1D and T2D) Regular reassessment of glycemia, albuminuria, BP, CVD risk, and lipids Figure 2 | Holistic approach for improving outcomes in patients with diabetes and chronic kidney disease. *Angiotensin-converting ezyme inhibitor (ACEi) or angiotensin II receptor blocker (ARB) should be first-line therapy for hypertension (HTN) when albuminuria is present, otherwise dihydropyridine calcium channel blocker (CCB) or diuretic can also be considered; all 3 classes are often needed to attain blood pressure (BP) targets. † Finerenone is currently the only nonsteroidal mineralocorticoid receptor antagonist (MRA) with proven clinical kidney and cardiovascular benefits. Icons presented indicate the following benefits: blood pressure cuff ¼ blood pressure–lowering; glucometer ¼ glucose-lowering; heart ¼ heart protection; kidney ¼ kidney protection; scale, weight management; ACR, albumin-creatinine ratio; ASCVD, atherosclerotic cardiovascular disease; CVD, cardiovascular disease; eGFR, estimated glomerular filtration rate; GLP-1 RA, glucagon-like peptide￾1 receptor agonist; PCSK9i, proprotein convertase subtilisin/kexin type 9 inhibitor; RAS, renin-angiotensin system; SGLT2i, sodium-glucose cotransporter-2 inhibitor; T1D, type 1 diabetes; T2D, type 2 diabetes. summary of recommendation sta tements and practice points www.kidney-international.org"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

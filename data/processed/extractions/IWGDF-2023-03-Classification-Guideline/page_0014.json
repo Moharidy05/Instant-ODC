@@ -1,0 +1,32 @@
+{
+  "page_number": 14,
+  "title": null,
+  "sections": [
+    "The International Working Group on the Diabetic Foot",
+    "IWGDF Classification Guideline",
+    "IWGDF",
+    "Guidelines",
+    "Table 2: SINBAD system",
+    "Category Definition Score",
+    "Site Forefoot",
+    "Bacterial infection None",
+    "Present",
+    "Area Ulcer Ulcer <1cm2"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Midfoot and hindfoot 0 1 Ischemia Pedal blood flow intact: at least one palpable pulse Clinical evidence of reduced pedal flow 0 1 Neuropathy Protective sensation intact Protective sensation lost 0 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "0 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ulcer ≥1 cm2 0 1 Depth Ulcer confined to skin and subcutaneous tissue Ulcer reaching muscle, tendon or deeper 0 1 Total possible score 0 – 6 The SINBAD system is simple and quick to use, requires no specialist equipment beyond clinical examination alone, and contains the necessary information to allow for triage by a specialist team. It would therefore be feasible to employ this classification system in localities where such equipment, including non-invasive measures of perfusion, are not readily available, which is the case for most geographic settings where diabetes-related foot ulcers occur. If used for the purpose of communication among healthcare professionals, it is important to use the individual clinical descriptors and not merely the total score. This scoring system has been validated in 12 studies for several foot ulcer-related clinical outcomes (including healing, amputation, hospitalisation, death, etc.) with somewhat consistent results and also substantial to good reliability (4). Therefore, we consider the description of the presence or absence of the variables included in this system to be the minimum information to be shared for an adequate communication among healthcare professionals about the characteristics of a foot ulcer. For this purpose, we consider that the use of the final score is insufficient. The classification proposed by Meggitt and modified by Wagner (16) is the oldest classification and grades wounds into pre- or post-ulcerative site (grade 0), superficial ulcer (grade 1), ulcer penetrating to tendon or joint capsule (grade 2), lesion involving deeper tissues (grade 3), forefoot gangrene (grade 4) and whole foot gangrene involving more than two thirds of the foot (grade 5). In our systematic review it was the system with the highest number of articles validating it (n=74) (4). Most of the articles, however, were considered to be at high risk of bias and some inconsistency was observed, along with a predominance of studies reporting association measures instead of accuracy measures. Also, our group considered this classification to have a poor clinical discrimination, as it does not include area, neuropathy, infection and peripheral artery disease individually. It is also rendered blunt by the major impact of gangrene in this classification. The DIAFORA score includes four foot-related and four ulcer-related variables: neuropathy, foot deformity, arteriopathy, previous foot ulcer or lower extremity amputation; and presence of multiple ulcers, infection, gangrene and/or bone involvement, respectively. This system, like Wagner, also includes"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

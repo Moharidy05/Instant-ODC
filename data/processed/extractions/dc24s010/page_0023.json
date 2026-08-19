@@ -1,0 +1,15 @@
+{
+  "page_number": 23,
+  "title": "Table 10.3C—Continued",
+  "sections": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "diabetesjournals.org/care\nCardiovascular Disease and Risk Management S201"
+    }
+  ],
+  "tables": [
+    "{\"content\": [{\"type\": \"table\", \"content\": [{\"type\": \"row\", \"content\": [{\"type\": \"cell\", \"content\": \"Primary outcomes\"}]}, {\"type\": \"row\", \"content\": [{\"type\": \"cell\", \"content\": \"Key secondary outcomes\"}]}, {\"type\": \"row\", \"content\": [{\"type\": \"cell\", \"content\": \"4-point MACE\"}]}, {\"type\": \"row\", \"content\": [{\"type\": \"cell\", \"content\": \"All-cause and CV mortality (see below)\"}]}, {\"type\": \"row\", \"content\": [{\"type\": \"cell\", \"content\": \"Cardiovascular deaths\"}]}, {\"type\": \"row\", \"content\": [{\"type\": \"cell\", \"content\": \"MI\"}]}, {\"type\": \"row\", \"content\": [{\"type\": \"cell\", \"content\": \"Stroke\"}]}, {\"type\": \"row\", \"content\": [{\"type\": \"cell\", \"content\": \"HF hospitalizations\"}]}, {\"type\": \"row\", \"content\": [{\"type\": \"cell\", \"content\": \"Unstable angina hospitalizations\"}]}, {\"type\": \"row\", \"content\": [{\"type\": \"cell\", \"content\": \"All-cause mortality†\"}]}, {\"type\": \"row\", \"content\": [{\"type\": \"cell\", \"content\": \"Worsening nephropathy†\"}]}]}]}"
+  ],
+  "figures": []
+}

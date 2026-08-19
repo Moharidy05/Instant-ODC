@@ -1,0 +1,23 @@
+{
+  "page_number": 21,
+  "title": null,
+  "sections": [
+    "The International Working Group on the Diabetic Foot",
+    "IWGDF Classification Guideline",
+    "IWGDF",
+    "Guidelines",
+    "FOR THE AUDIT OF OUTCOME(S) OF POPULATIONS"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "clinical experts to perform them reliably and accurately. This method of grading ischaemia is included in the WIfI classification along with the ulcer depth and infection characterization, a system that is considered as relatively easy to apply and accurate when performed in settings where these resources are available."
+    },
+    {
+      "type": "paragraph",
+      "text": "Clinical question: In a population of people with diabetes and foot ulcers and in which the purpose is to use for audit, which classification system(s) is/ are the best to predict clinical and health resources outcomes? Recommendation 5: Use the SINBAD system for any regional/national/international audits to allow comparisons between institutions on the outcomes of people with diabetes and foot ulcers. (Strong; Low) Rationale: The term “audit” refers to characterisation of all diabetes-related foot ulcers managed in a particular area or centre, to compare outcomes with a reference population or national standard and does not allude to the financial implications of care. Ideally, one classification system should be used internationally to allow comparisons of outcomes. In order to do this, such a classification system would need to accurately assess foot ulcer severity across the spectrum of aetiologies. Thus, healthcare systems where peripheral artery disease is a major contributor to nonhealing, and amputation can be compared with healthcare systems where infection is a major cause of amputation because of limited antibiotic availability. Further, the system should be simple to use, and require no specialist equipment, to allow the necessary clinical data to be collected routinely from all patients in all healthcare settings spanning the spectrum from low to high resource availability. From the six pre-selected systems, only SINBAD and (Meggitt-)Wagner systems were considered to be clearly feasible. The Wagner classification, as stated previously, was the most frequently reported in the articles that we found in our systematic review (4). However, it is considered as having insufficient detail when compared with SINBAD. Although none of the existing systems was designed, as far as we are aware, for audit, only the SINBAD score has actually been used for conducting a nationwide audit in the United Kingdom, within the National Diabetes Foot Care Audit (NDFA) of England and Wales. The 2021 annual report of the NDFA (38) reports the outcome of 76,310 people with diabetes with 108,450 ulcers at presentation and showed that a higher SINBAD score led to a lower chance of being alive and ulcer-free at 12 weeks and a higher chance of major amputation within 6 months. The group has determined that no other system should be suggested as an alternative option due to a lack of evidence of the remaining systems feasibility."
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

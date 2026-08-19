@@ -1,0 +1,83 @@
+{
+  "page_number": 101,
+  "title": null,
+  "sections": [
+    "Outcomes Outcomes listed in Table 1",
+    "Study design RCT",
+    "2017;CD010137.250",
+    "SoF tables Supplementary Tables S11–S13",
+    "Comparator Usual care",
+    "Study design RCT",
+    "SoF tables Supplementary Tables S21, S22",
+    "Comparator Usual diets",
+    "Study design RCT",
+    "2015:2;CD010070.460",
+    "SoF tables Supplementary Tables S16–S20 and S52–S56",
+    "Study design RCT",
+    "Syst Rev. 2018;9:CD011798.129",
+    "Database Syst Rev. 2017;2:CD009966.459",
+    "SoF tables Supplementary Tables S23 and S60–S91",
+    "Study design RCT",
+    "S100 Kidney International (2022) 102 (Suppl 5S), S1–S127"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Guideline chapter 2 Glycemic monitoring and targets in patients with diabetes and CKD Clinical question Does reducing blood glucose to a lower versus higher target improve clinically relevant outcomes and intermediate outcomes, and reduce clinically relevant harms in patients with diabetes and CKD? Population Adults with CKD (G1–G5, G5D) and diabetes (T1D and T2D) Intervention Tight glycemic control (<7% HbA1c target or fasting glucose levels <120 mg/dl [6.7 mmol/l]), <6.5% HbA1c target, or <6.0% HbA1c target) Reference standard Standard glycemic target"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cochrane systematic reviews Ruospo et al. Glucose targets for preventing diabetic kidney disease and its progression. Cochrane Database Syst Rev."
+    },
+    {
+      "type": "paragraph",
+      "text": "Guideline chapter 3 Lifestyle interventions in patients with CKD and diabetes Clinical question Does exercise/physical activity versus usual care improve clinically relevant outcomes and reduce clinically relevant harms in patients with diabetes and CKD? Population Adults with CKD (G1–G5, G5D) and diabetes (T1D and T2D) Intervention Exercise/physical activity (aerobic training, resistance training)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Outcomes Critical and important outcomes listed in Table 1 Additional outcomes: blood pressure, body mass index, body weight, fatigue, quality of life"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cochrane systematic reviews Heiwe and Jacobson. Exercise training for adults with chronic kidney disease. Cochrane Database Syst Rev. 2011;CD003236.325"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clinical question Do dietary interventions versus usual diet improve clinically relevant outcomes and reduce clinically relevant harms in patients with CKD and diabetes? Population Adults with CKD (G1–G5, G5D) and diabetes (T1D and T2D) Intervention Low-salt diets, low-potassium diets, low-phosphate diets, low-protein diets, dietary patterns (caloric-restriction diet, whole-food diets, Mediterranean diet, DASH diet, vegetarian diet)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Outcomes Critical and important outcomes listed in Table 1 Additional outcomes: blood pressure, body mass index, body weight, fatigue, quality of life"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cochrane systematic reviews McMahon et al. Altered dietary salt intake for people with chronic kidney disease. Cochrane Database Syst Rev."
+    },
+    {
+      "type": "paragraph",
+      "text": "Palmer et al. Dietary interventions for adults with chronic kidney disease. Cochrane Database Syst Rev. 2017;4:CD011998.462"
+    },
+    {
+      "type": "paragraph",
+      "text": "Guideline chapter 4 Glucose-lowering therapies in patients with T2D and CKD Clinical question In patients with T2D and CKD, what are the effects of glucose-lowering medication on clinically relevant outcomes and clinically relevant harms? Population Adults with CKD (G1–G5, G5D, G1T–G5T) and diabetes (T2D) Intervention Older therapies—metformin, sulfonylureas, or thiazolidinediones More recent therapies—alpha-glucosidase inhibitors, GLP-1 RA, DPP-4 inhibitors Comparator Standard of care/placebo Outcomes Critical and important outcomes listed in Table 1 Additional outcomes for GLP-1 RA: BMI, body weight Long-term harms: amputation, bone fractures, hypoglycemia, lactic acidosis"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cochrane systematic reviews Lo et al. Insulin and glucose-lowering agents for treating people with diabetes and chronic kidney disease. Cochrane Database"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lo et al. Glucose-lowering agents for treating pre-existing and new-onset diabetes in kidney transplant recipients. Cochrane"
+    },
+    {
+      "type": "paragraph",
+      "text": "Guideline chapter 5 Approaches to management of patients with diabetes and CKD Clinical question What are the most effective education or self-management education programs to improve clinically relevant outcomes and reduce clinically relevant harms in patients with diabetes and CKD? Population Adults with CKD (G1–G5, G5D) and diabetes (T1D and T2D) Intervention Education and self-management programs Comparator Standard of care Outcomes Critical and important outcomes listed in Table 1 Additional outcomes: fatigue and quality of life"
+    },
+    {
+      "type": "paragraph",
+      "text": "(Continued on following page) methods for guideline development www.kidney-international.org"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

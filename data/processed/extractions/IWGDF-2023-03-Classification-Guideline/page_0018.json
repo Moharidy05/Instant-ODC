@@ -1,0 +1,23 @@
+{
+  "page_number": 18,
+  "title": null,
+  "sections": [
+    "The International Working Group on the Diabetic Foot",
+    "IWGDF Classification Guideline",
+    "IWGDF",
+    "Guidelines",
+    "FOR CLASSIFYING A PERSON WITH AN INFECTED ULCER"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "be widely validated for the population in which its use is proposed, as the dominant factors for poor outcomes in foot ulcers in people with diabetes vary worldwide due to differences in the population, the local context and available resources for clinical care. This validation should include how well the classification system predicts both ulcer healing and risk of amputation. However, we found insufficient reporting of accuracy measures of the classifications and, even when they were described, they had wide confidence intervals, due to high variability, small sample sizes and low event rates (eg. for major amputation). For this purpose we considered that likelihood ratios (both positive and negative) would be the more informative accuracy measures, as they summarise (in this context) how many times it is more (or less) likely for patients to develop the clinical outcome of interest than not developing it when they are classified to be at high risk (or low risk, respectively), and are not affected by the outcomes’ prevalence (in contrast to the predictive values) (21). In the rare cases in which positive likelihood ratios were reported (4) they were below 5, while negative likelihood ratios were around 0.2-0.4, indicating only small changes in the pre- to post-test probability of the clinical outcomes of interest would occur (22). A classification or scoring system should also have good inter- and intra- observer reliability to provide consistency of prognostic outcomes and allow for monitoring of progress with any intervention. None of the systems evaluated met these criteria, and so further research may be required, to either appropriately validate an existing classification, or to develop a classification/ scoring system according to these criteria. The quality of evidence for the prediction of foot ulcer-related outcomes is weak (4) and thus the applicability of the accuracy of a classification system in predicting individual patient outcomes is poor. This has led to our current strong recommendation against the use of any system for prediction of individual patient outcomes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Clinical question: In a person with diabetes and an infected foot ulcer, which classification system(s) is/ are the best to predict clinical and health resources outcomes? Recommendation 3a: To classify a person with diabetes and an infected foot ulcer, use the IDSA/IWGDF system (2015 version) (Strong; Low) Recommendation 3b: To classify a person with diabetes and an infected foot ulcer, when resources exist in addition to an appropriate level of expertise and it is considered feasible, consider using the WIfI system. (Conditional; Low) Rationale: The IDSA/IWGDF classification consists of four grades diabetic foot infection (see Table 4). It was originally developed as part of the PEDIS classification for research purposes (23) and is used as a guideline for management, in particular to identify which patients require hospital admission. Although the components of each grade may be considered complex, and a previous study has shown only moderate reliability (4), the criteria are widely used."
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

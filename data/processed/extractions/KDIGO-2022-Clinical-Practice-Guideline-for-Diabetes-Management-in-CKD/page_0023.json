@@ -1,0 +1,36 @@
+{
+  "page_number": 23,
+  "title": null,
+  "sections": [
+    "Patient",
+    "Glycemia",
+    "Volume",
+    "Assessment Intervention Follow-up",
+    "Periprocedural/",
+    "S22 Kidney International (2022) 102 (Suppl 5S), S1–S127"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "1.4. Mineralocorticoid receptor antagonists (MRA) Recommendation 1.4.1: We suggest a nonsteroidal mineralocorticoid receptor antagonist with proven kidney or cardiovascular benefit for patients with T2D, an eGFR ‡25 ml/min per 1.73 m2 , normal serum potassium concentration, and albuminuria (‡30 mg/g [‡3 mg/mmol]) despite maximum tolerated dose of RAS inhibitor (RASi) (2A). Practice Point 1.4.1: Nonsteroidal MRA are most appropriate for patients with T2D who are at high risk of CKD pro￾gression and cardiovascular events, as demonstrated by persistent albuminuria despite other standard-of-care therapies. Practice Point 1.4.2: A nonsteroidal MRA can be added to a RASi and an SGLT2i for treatment of T2D and CKD. Practice Point 1.4.3: To mitigate risk of hyperkalemia, select patients with consistently normal serum potassium con￾centration and monitor serum potassium regularly after initiation of a nonsteroidal MRA. Practice Point 1.4.4: The choice of a nonsteroidal MRA should prioritize agents with documented kidney or cardio￾vascular benefits. Practice Point 1.4.5: A steroidal MRA should be used for treatment of heart failure, hyperaldosteronism, or refractory hypertension, but may cause hyperkalemia or a reversible decline in glomerular filtration, particu￾larly among patients with a low GFR. 1.5. Smoking cessation Recommendation 1.5.1: We recommend advising patients with diabetes and CKD who use tobacco to quit using tobacco products (1D). Practice Point 1.5.1: Physicians should counsel patients with diabetes and CKD to reduce secondhand smoke exposure."
+    },
+    {
+      "type": "paragraph",
+      "text": "selection"
+    },
+    {
+      "type": "paragraph",
+      "text": "Practical provider guide to initiating SGLT2 inhibitors in patients with type 2 diabetes and CKD"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypoglycemia risk? • Insulin or sulfonylurea • History of severe hypoglycemia • HbA1c at or below goal Volume depletion risk? • Concurrent diuretic use • Tenuous volume status • History of AKI SGLT2 inhibitor with proven benefits: • Canagliflozin 100 mg • Dapagliflozin 10 mg • Empagliflozin 10 mg Education: • Sick day protocol* • Perioperative care† • Foot care • Assess adverse effects • Review knowledge • Anticipate an acute drop in eGFR, which is generally not a reason to stop the SGLT2 inhibitor Eligible patients: • eGFR ≥20 ml/min/1.73 m2 High priority features: • ACR ≥200 mg/g [≥20 mg/mmol] • Heart failure Potential contraindications: • Genital infection risk • Diabetic ketoacidosis • Foot ulcers • Immunosuppression If high If high Education: • Hypoglycemia symptoms • Glycemia monitoring Consider insulin/sulfonylurea dose reduction Education: • Volume depletion symptoms Consider diuretic dose reduction • Ask about hypoglycemia • Reduce sulfonylurea or insulin if needed • Re-assess volume • Reduce concomitant diuretic if needed Figure 6 | Practical approach to initiating sodium-glucose cotransporter-2 inhibitors (SGLT2i) in patients with type 2 diabetes and chronic kidney disease (CKD). *Sick day protocol (for illness or excessive exercise or alcohol intake): temporarily withhold SGLT2i, keep drinking and eating (if possible), check blood glucose and blood ketone levels more often, and seek medical help early. †"
+    },
+    {
+      "type": "paragraph",
+      "text": "perioperative care: inform patients about risk of diabetic ketoacidosis; withhold SGLT2i the day of day-stay procedures and limit fasting to minimum required; withhold SGLT2i at least 2 days in advance and the day of procedures/surgery requiring 1 or more days in hospital and/or bowel preparation (which may require increasing other glucose-lowering drugs during that time), measure both blood glucose and blood ketone levels on hospital admission (proceed with procedure/surgery if the patient is clinically well and ketones are <1.0 mmol/l), and restart SGLT2i after procedure/surgery only when eating and drinking normally. Adapted from Zoungas S, de Boer IH. SGLT2 inhibitors in diabetic kidney disease. Clin J Am Soc Nephrol. 2021;16:631–633.148 Copyright ª 2021 by the American Society of Nephrology. ACR, albumin-creatinine ratio; AKI, acute kidney injury; eGFR, estimated glomerular filtration rate; HbA1c, glycated hemoglobin. summary of recommendation sta tements and practice points www.kidney-international.org"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

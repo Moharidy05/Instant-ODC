@@ -1,0 +1,26 @@
+{
+  "page_number": 17,
+  "title": null,
+  "sections": [
+    "The International Working Group on the Diabetic Foot",
+    "IWGDF Classification Guideline",
+    "IWGDF",
+    "Guidelines",
+    "Foot Infection",
+    "Grade Clinical manifestations",
+    "TcPO2: Transcutaneous Partial Oxygen Pressure; TMA: Transmetatarsal Amputation; TP: Toe Pressure",
+    "FOR PREDICTING THE OUTCOME OF AN ULCER IN A SPECIFIC INDIVIDUAL"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "0 No symptoms or signs of infection Infection present, as defined by the presence of at least 2 of the following items: ● Local swelling or induration ● Erythema > 0.5 to ≤ 2 cm around the ulcer ● Local tenderness or pain ● Local warmth ● Purulent discharge (thick, opaque to white, or sanguineous secretion) 1 Local infection involving only the skin and the subcutaneous tissue (without involvement of deeper tissues and without systemic signs as described below). Exclude other causes of an inflammatory response of the skin (e.g., trauma, gout, acute Charcot neuro-osteoarthropathy, fracture, thrombosis, venous stasis) 2 Local infection (as described above) with erythema >2 cm, or involving structures deeper than skin and subcutaneous tissues (e.g., abscess, osteomyelitis, septic arthritis, fasciitis), and No systemic inflammatory response signs (as described below) 3 Local infection (as described above) with the signs of SIRS, as manifested by two or more of the following: ● Temperature > 38ºC or < 36ºC ● Heart rate > 90 beats/min ● Respiratory rate > 20 breaths/min or PaCO2 < 32 mm Hg ● White blood cell count > 12,000 or < 4000 cu/mm or 10% immature (band) forms ABI: Ankle-Brachial Index; PaCO2: Partial Pressure of Carbon Dioxide; SIRS: Systemic Inflammatory Response Syndrome;"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clinical question: In a person with diabetes and a foot ulcer, which classification system(s) is/ are the best to assess the prognosis of an individual person with diabetes and a foot ulcer? Recommendation 2: Do not use any of the currently available classification/scoring systems to offer an individual outcome prognosis for a person with diabetes and a foot ulcer. (Strong; Low) Rationale: We can use systems in a clinical setting to stratify people by a similar probability of developing a certain event and to create more homogenous groups that should receive similar healthcare or to estimate the individual probability of a specific person with a certain number of characteristics. A good example of the latter is the Framingham Risk Score for cardiovascular disease (20). This model uses six different variables and estimates the individual’s risk at 10 years of developing or dying of cardiovascular disease. To be used as a prognostic tool, a classification system needs to be complex enough to provide individualised outcome prediction yet quick to use within a busy clinical service, ideally not requiring measurements in addition to those performed for routine clinical care. The classification also needs to"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

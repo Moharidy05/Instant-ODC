@@ -1,0 +1,25 @@
+{
+  "page_number": 22,
+  "title": null,
+  "sections": [
+    "Initiate ACEi or ARB",
+    "Normokalemia Hyperkalemia",
+    "Kidney International (2022) 102 (Suppl 5S), S1–S127 S21"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Practice Point 1.2.6: Reduce the dose or discontinue ACEi or ARB therapy in the setting of either symptomatic hypo￾tension or uncontrolled hyperkalemia despite the medical treatment outlined in Practice Point 1.2.5, or to reduce uremic symptoms while treating kidney failure (estimated glomerular filtration rate [eGFR] <15 ml/min per 1.73 m2 ). Practice Point 1.2.7: Use only one agent at a time to block the RAS. The combination of an ACEi with an ARB, or the combination of an ACEi or ARB with a direct renin inhibitor, is potentially harmful. 1.3. Sodium–glucose cotransporter-2 inhibitors (SGLT2i) Recommendation 1.3.1: We recommend treating patients with type 2 diabetes (T2D), CKD, and an eGFR ‡20 ml/ min per 1.73 m2 with an SGLT2i (1A). Practice Point 1.3.1: The recommendation for SGLT2i is for kidney and cardiovascular protection and SGLT2i have been shown to have safety and benefit in CKD patients, even for those without T2D. Thus, if patients are already being treated with other glucose-lowering agents, an SGLT2i can be added to the current treatment regimen (Figure 6). Practice Point 1.3.2: The choice of an SGLT2i should prioritize agents with documented kidney or cardiovascular benefits and take eGFR into account. Practice Point 1.3.3: It is reasonable to withhold SGLT2i during times of prolonged fasting, surgery, or critical medical illness (when patients may be at greater risk for ketosis). Practice Point 1.3.4: If a patient is at risk for hypovolemia, consider decreasing thiazide or loop diuretic dosages before commencement of SGLT2i treatment, advise patients about symptoms of volume depletion and low blood pressure, and follow up on volume status after drug initiation. Practice Point 1.3.5: A reversible decrease in the eGFR with commencement of SGLT2i treatment may occur and is generally not an indication to discontinue therapy. Practice Point 1.3.6: Once an SGLT2i is initiated, it is reasonable to continue an SGLT2i even if the eGFR falls below 20 ml/min per 1.73 m2 , unless it is not tolerated or kidney replacement therapy is initiated. Practice Point 1.3.7: SGLT2i have not been adequately studied in kidney transplant recipients, who may benefit from SGLT2i treatment, but are immunosuppressed and potentially at increased risk for infections; therefore, the recommendation to use SGLT2i does not apply to kidney transplant recipients (see Recommendation 1.3.1)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Increase dose of ACEi or ARB or continue on maximally tolerated dose Monitor serum creatinine and potassium (within 2–4 weeks after starting or changing dose) < 30% increase in creatinine > 30% increase in creatinine"
+    },
+    {
+      "type": "paragraph",
+      "text": "• Review for causes of AKI • Correct volume depletion • Reassess concomitant medications (e.g., diuretics, NSAIDs) • Consider renal artery stenosis • Review concurrent drugs • Moderate potassium intake • Consider: - diuretics - sodium bicarbonate - potassium binders Reduce dose or stop ACEi or ARB Figure 4 | Monitoring of serum creatinine and potassium during angiotensin-converting enzyme inhibitor (ACEi) or angiotensin II receptor blocker (ARB) treatment—dose adjustment and monitoring of side effects. AKI, acute kidney injury; NSAID, nonsteroidal anti-inflammatory drug. www.kidney-international.org summary of recommendation sta tements and practice points"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

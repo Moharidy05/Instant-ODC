@@ -1,0 +1,77 @@
+======================================================================
+MEDICAL PDF EXTRACTION REPORT
+======================================================================
+PDF: G:\Projects\Instant-ODC\data\raw\PIIS0168827824003295.pdf
+Pages: 51
+
+Successful: 51
+Review: 0
+Needs re-extraction: 0
+Empty pages (terminal): 0
+Native extraction: 51
+Qwen extraction: 0
+Recovered by retry: 0
+Success rate: 100.00%
+Processing time: 11.10s
+
+RE-EXTRACTION QUEUE
+----------------------------------------------------------------------
+No pages require re-extraction.
+
+REVIEW QUEUE
+----------------------------------------------------------------------
+No pages require review.
+
+PAGE DETAILS
+----------------------------------------------------------------------
+Page 1: success | method=native | attempts=1 | chars=5736 | time=0.03s
+Page 2: success | method=native | attempts=1 | chars=5600 | time=0.01s
+Page 3: success | method=native | attempts=1 | chars=6080 | time=0.02s
+Page 4: success | method=native | attempts=1 | chars=4279 | time=0.01s
+Page 5: success | method=native | attempts=1 | chars=6545 | time=0.02s
+Page 6: success | method=native | attempts=1 | chars=6294 | time=0.01s
+Page 7: success | method=native | attempts=1 | chars=6174 | time=0.01s
+Page 8: success | method=native | attempts=1 | chars=5997 | time=0.02s
+Page 9: success | method=native | attempts=1 | chars=6176 | time=0.01s
+Page 10: success | method=native | attempts=1 | chars=4781 | time=0.01s
+Page 11: success | method=native | attempts=1 | chars=6595 | time=0.01s
+Page 12: success | method=native | attempts=1 | chars=5817 | time=0.01s
+Page 13: success | method=native | attempts=1 | chars=5421 | time=0.01s
+Page 14: success | method=native | attempts=1 | chars=6257 | time=0.01s
+Page 15: success | method=native | attempts=1 | chars=5348 | time=0.01s
+Page 16: success | method=native | attempts=1 | chars=6352 | time=0.03s
+Page 17: success | method=native | attempts=1 | chars=4697 | time=0.01s
+Page 18: success | method=native | attempts=1 | chars=6158 | time=0.01s
+Page 19: success | method=native | attempts=1 | chars=5925 | time=0.01s
+Page 20: success | method=native | attempts=1 | chars=5613 | time=0.01s
+Page 21: success | method=native | attempts=1 | chars=5998 | time=0.01s
+Page 22: success | method=native | attempts=1 | chars=5806 | time=0.01s
+Page 23: success | method=native | attempts=1 | chars=6015 | time=0.01s
+Page 24: success | method=native | attempts=1 | chars=6706 | time=0.01s
+Page 25: success | method=native | attempts=1 | chars=5680 | time=0.02s
+Page 26: success | method=native | attempts=1 | chars=4988 | time=0.02s
+Page 27: success | method=native | attempts=1 | chars=5750 | time=0.03s
+Page 28: success | method=native | attempts=1 | chars=6040 | time=0.03s
+Page 29: success | method=native | attempts=1 | chars=2800 | time=0.01s
+Page 30: success | method=native | attempts=1 | chars=5699 | time=0.01s
+Page 31: success | method=native | attempts=1 | chars=6334 | time=0.01s
+Page 32: success | method=native | attempts=1 | chars=5986 | time=0.01s
+Page 33: success | method=native | attempts=1 | chars=6246 | time=0.01s
+Page 34: success | method=native | attempts=1 | chars=5616 | time=0.01s
+Page 35: success | method=native | attempts=1 | chars=6094 | time=0.02s
+Page 36: success | method=native | attempts=1 | chars=6781 | time=0.02s
+Page 37: success | method=native | attempts=1 | chars=6767 | time=0.02s
+Page 38: success | method=native | attempts=1 | chars=7068 | time=0.02s
+Page 39: success | method=native | attempts=1 | chars=8449 | time=0.02s
+Page 40: success | method=native | attempts=1 | chars=9287 | time=0.02s
+Page 41: success | method=native | attempts=1 | chars=9433 | time=0.02s
+Page 42: success | method=native | attempts=1 | chars=9625 | time=0.02s
+Page 43: success | method=native | attempts=1 | chars=9392 | time=0.02s
+Page 44: success | method=native | attempts=1 | chars=9330 | time=0.02s
+Page 45: success | method=native | attempts=1 | chars=9252 | time=0.02s
+Page 46: success | method=native | attempts=1 | chars=9776 | time=0.02s
+Page 47: success | method=native | attempts=1 | chars=9528 | time=0.02s
+Page 48: success | method=native | attempts=1 | chars=9458 | time=0.02s
+Page 49: success | method=native | attempts=1 | chars=9381 | time=0.02s
+Page 50: success | method=native | attempts=1 | chars=9763 | time=0.02s
+Page 51: success | method=native | attempts=1 | chars=5374 | time=0.01s

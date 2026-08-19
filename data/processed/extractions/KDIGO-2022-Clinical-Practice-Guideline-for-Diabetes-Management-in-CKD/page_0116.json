@@ -1,0 +1,119 @@
+{
+  "page_number": 116,
+  "title": null,
+  "sections": [
+    "Acknowledgments",
+    "Michel Jadoul and Wolfgang C. Winkelmayer, for their",
+    "Strippoli, Martin Howell, David Tunnicliffe, and the ERT",
+    "Bell, Frank C. Brosius, Javed Butler, Alice Y.Y. Cheng, Rolando",
+    "Agustin Garcia, Richard J. Glassock, Carlo Francisco",
+    "Csaba P. Kovesdy, Claude Lardinois, Edgar V. Lerma, Andrew",
+    "Carlos Geraldo Fernandez Narvaez, Adrian Oksa, Alberto",
+    "Ortiz, Carlos Pacheco, Saime Paydas, Bertram Pitt, Borja",
+    "Soraia Rocha, Nuria S. Perez Romano, Patrick Rossignol, Luis",
+    "M. Ruilope, Roland E. Schmieder, Jorge Ferradas Solar, Ana",
+    "Stankovic, Hua Su, Aida Lydia Sutranto, Navdeep Tangri, Pam",
+    "Taub, Vladimír Tesa r, James Thornton, Jose Uribe, Myles",
+    "Wolf, Erica Yama, and Carmine Zoccali",
+    "Georgi Abraham, Patricia Abreu, Lengani Adama, Baris",
+    "Rommel Bataclan, Richard M. Bergenstal, Vijay Bhavi, Jaime",
+    "Charles Cartou, Rajasekara Chakravarthi Madarasu, Richard",
+    "Phuong Dollar, Dustin Dunham, Magdy Elsharkawy, Javier",
+    "Escalada, Mota Eugen, Nancy Foss, Denis Fouque, Kevin",
+    "Fowler, Allon N. Friedman, Marie Frimodt-Møller, Alvaro",
+    "Garcia, Camilo García, Nuria Garcia-Fernandez, Henry",
+    "Vinicius Gomes de Lima, Jose Luis Górriz, Alaciel Melissa",
+    "Lai Seong Hooi, Chiu-Ching Huang, Jorge Huertas, Trung",
+    "Lerma, Lingyun Li, Randie Little, Giovanni Liviano, Loreto",
+    "Linda McCann, Peter A. McCullough, Enisa Mesic, Sergio",
+    "Mariana Murea, Masaomi Nangaku, Ruba Nashawati, Juan",
+    "Ishan Parekh, Emil Paskalev, Padmalatha Patakamuri, Saime",
+    "Amin Soliman, Hala Sonallah, Danielle Souza, Suzanne",
+    "Tchokhonelidze, Carlos Tilac, Yusuke Tsukamoto, Sri Lekha",
+    "Kidney International (2022) 102 (Suppl 5S), S1–S127 S115"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A special debt of gratitude is owed to the KDIGO Co-Chairs,"
+    },
+    {
+      "type": "paragraph",
+      "text": "invaluable oversight throughout the development of this guideline. In particular, we thank Jonathan Craig, Giovanni"
+    },
+    {
+      "type": "paragraph",
+      "text": "members for their substantial contribution to the rigorous assessment of the available evidence. We also acknowledge Cello Tonelli and Lyubov Lytvyn for their guidance on strengthening the linkage between the recommendations and the evidence base, and for striving to improve on the format to better meet KDIGO’s aspiration for a “living” guideline that is consistently kept up-to-date, and above all, useful and informative to practicing clinicians. We thank Debbie Maizels for her vital contributions to the artwork presented in this guideline. We are especially grateful to the Work Group members for their expertise throughout the entire process of literature review, data extraction, meeting participation, and the critical writing and editing of the statements and rationale, which made the publication of this guideline possible. The generous gift of their time and dedication is greatly appreciated. Finally, and on behalf of the Work Group, we gratefully acknowledge the careful assessment of the draft guideline by external re￾viewers. The Work Group considered all of the valuable comments made, and where appropriate, suggested changes were incorporated into the final publication. The following individuals provided feedback during the public review of the draft guideline: 2022: Baris Afsar, Mabel Aoun, Mustafa Arici, Mariano Arriola, George L. Bakris, Rommel Bataclan, Carlos Bejar, David S.H."
+    },
+    {
+      "type": "paragraph",
+      "text": "Claure-Del Granado, Steven G. Coca, Rona Daher, Ashraf El￾Meanawy, Alicia Elbert, Ahmed Elsayed, Magdy Elsharkawy, Murray Epstein, Jeffrey Feldman, Karina Andrade Fuentes,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gochuico, Bak Leong Goh, Claudia Fernanda Leiva Gómez, Paul Goodyer, Osam Hassan, Gunnar H. Heine, Atsuko Ike￾mori, Kikab Ixcayau, Chandra Mauli Jha, Rümeyza Turan Kazancioglu, Frenk Kern, Vuthy Keth, Michael Kleinmann,"
+    },
+    {
+      "type": "paragraph",
+      "text": "S. Levey, Francesco Locatelli, Arelis Madera, Faustine Mago￾mola, Juan Mejia-Vilet, Ramon Mendez, Thyago Proença de Moraes, Javier Morales, Eugen Mota, Dirk Müller-Wieland,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Quiroga, Harun Rashid, Jorge Rico-Fontalvo, Miguel C. Riella, Yamil Americo Huanca Rios, Nicolas Roberto Robles,"
+    },
+    {
+      "type": "paragraph",
+      "text": "2020:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Afsar, Shaza Ahmed, Raheel Ahmed, Saeideh Akhavipour, Saeed M.G. Al-Ghamdi, Laith Al-Rabadi, Ala Ali, Radica Z. Alicic, Mona N. Alrukhaimi, Pablo Amair, Samaya J. Anu￾mudu, Francisco Araujo, Mustafa Arici, Mariano Arriola, Suheir Assady, Livia Azeredo, Tarek Bahbah, Joan Barrot,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Blais, Hristinka Borisova, Jordi Bover, Karen Burchell,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chan, Alex R. Chang, David Z. Cherney, Rolando Claure￾Del Granado, Jan Claussen, Sarah Coles, Vanessa Cullen, Filippo De Stefano, Goffredo Del Rosso, Mirela Dobre,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gaviria, Mohammed Abdel Gawad, Giuseppe Giannattasio,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Palacios Guillén, Kathy Harvey, Irl B. Hirsch, Anh Hoang,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hu ynh, Kunitoshi Iseki, Chandra Mauli Jha, Nada Kanaan, Rümeyza Turan Kazancioglu, Said Khamis, Arif Khwaja, Kostadin Kostadinov, Tolga Kuzu, Claudia Leiva, Edgar V."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fernandez Lorente, Lara Lucena, Partha Pratim Mandal, Michel Marre, Alberto Martínez-Castelao, Roy O. Mathew,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mezzano, Olga Mironova, Mark E. Molitch, Amy K. Mottl,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Navarro-González, Robert G. Nelson, Joshua J. Neumiller, Khalid Omer, Vuddhidej Ophascharoensuk, Alberto Ortiz, Marlies Ostermann, Jaganathan Palanivel, Gianfranco Parati,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Paydas, Vlado Perkovic, Elizabeth Pertiwi, Alfonso Pobes, Dwarakanathan Ranganathan, Muhammad Abdur Razzak, Maria Fernanda Slon Roblero, Cibele Isaac Saad Rodrigues, Rafael Santamaria, Estefania Santos, Michael Schwenk, Nigar Sekercioglu, Deepak Sharma, Alexander Shutov, Bhupinder Singh, Habib Skhiri, Laura Solá, Maria José Soler,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Steiner, Ramon Devesa Such, Rita S. Suri, Charles R. Swa￾nepoel, Kouichi Tamura, Ekamol Tantisattamo, Irma"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tummalapalli, Markus van der Giet, Evgueniy Vazelov, www.kidney-international.org acknowledgments"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

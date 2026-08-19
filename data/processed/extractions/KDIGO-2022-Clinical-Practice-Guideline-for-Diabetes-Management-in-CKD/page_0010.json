@@ -1,0 +1,41 @@
+{
+  "page_number": 10,
+  "title": null,
+  "sections": [
+    "CURRENT CHRONIC KIDNEY DISEASE (CKD) NOMENCLATURE USED BY KDIGO",
+    "G1 ≥90",
+    "G2 60–89",
+    "G3a 45–59",
+    "G3b 30–44",
+    "G4 15–29",
+    "G5 Kidney failure <15",
+    "A2 A3",
+    "Moderately",
+    "Severely",
+    "Kidney International (2022) 102 (Suppl 5S), S1–S127 S9"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "CKD is defined as abnormalities of kidney structure or function, present for >3 months, with implications for health. CKD is classified based on Cause, GFR category (G1–G5), and Albuminuria category (A1–A3), abbreviated as CGA. Persistent albuminuria categories Description and range GFR categories (ml/min/1.73 m2 ) Description and range A1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Severely decreased Moderately to severely decreased Mildly to moderately decreased Mildly decreased Normal or high"
+    },
+    {
+      "type": "paragraph",
+      "text": "Normal to mildly increased"
+    },
+    {
+      "type": "paragraph",
+      "text": "increased"
+    },
+    {
+      "type": "paragraph",
+      "text": "increased <30 mg/g <3 mg/mmol 30–300 mg/g 3–30 mg/mmol >300 mg/g >30 mg/mmol Prognosis of CKD by GFR and albuminuria categories: KDIGO 2012 Green: low risk (if no other markers of kidney disease, no CKD); yellow: moderately increased risk; orange: high risk; red: very high risk. www.kidney-international.org CKD nomenclature"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

@@ -1,0 +1,30 @@
+{
+  "page_number": 82,
+  "title": null,
+  "sections": [
+    "(GLP-1 RA)",
+    "Monitor vitamin B12",
+    "Continue",
+    "Kidney International (2022) 102 (Suppl 5S), S1–S127 S81"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "treatment are uncommon, and it is the judgment of the Work Group that routine concurrent supplementation with vitamin B12 is unnecessary. In addition, the study demonstrated that the reduction in vitamin B12 concentration is increased with increasing duration of metformin therapy. Monitoring of vitamin B12 levels should be considered in patients who have been on long-term metformin treatment (e.g., >4 years) or in those who are at risk of low vitamin B12 levels (e.g., patients with malabsorption syndrome, or reduced dietary intake [vegans]). Research recommendations RCTs are needed to: Evaluate the safety, efficacy, and potential cardiovascular and kidney protective benefits of metformin use in patients with T2D and CKD, including those with an eGFR <30 ml/ min per 1.73 m2 or on dialysis. Evaluate the safety and efficacy of metformin in kidney transplant recipients. 4.2 Glucagon-like peptide-1 receptor agonists"
+    },
+    {
+      "type": "paragraph",
+      "text": "GLP-1 is an incretin hormone secreted from the intestine after ingestion of glucose or other nutrients. In the pancreas, it stimulates glucose-dependent release of insulin from beta cells and suppresses glucagon release from alpha cells. GLP-1 also slows gastric emptying and decreases appetite stimulation in the brain, facilitating weight loss. These incretin effects are reduced or absent in patients with diabetes. Long-acting GLP-1 RA medications, which stimulate this pathway, have been shown to substantially improve glycemic control and confer weight loss. More importantly, though, several GLP-1 RA agents have been shown to reduce MACE in patients with T2D with HbA1c >7.0%, who were at high cardiovascular risk.372–375 Additionally, these same GLP-1 RA agents have been shown to have kidney benefits by reducing albuminuria and slowing the rate of eGFR decline.372,374,375 Recommendation 4.2.1: In patients with T2D and CKD who have not achieved individualized glycemic targets despite use of metformin and SGLT2i treat￾ment, or who are unable to use those medications, we recommend a long-acting GLP-1 RA (1B). This recommendation places a high value on the cardiovascular and kidney benefits of long-acting GLP-1 RA treatment in pa￾tients with T2D and CKD, and a lower value on the costs and adverse effects associated with this class of drug. Dose initiation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Monitor kidney function Subsequent dose adjustment eGFR < 30 Stop metformin; do not initiate metformin eGFR ≥ 60 eGFR 45–59 eGFR 30–44 eGFR ≥ 60 eGFR 45–59 eGFR 30–44"
+    },
+    {
+      "type": "paragraph",
+      "text": "same dose Continue same dose. Consider dose reduction in certain conditions (see text) Halve the dose Yes No Immediate release: • Initial 500 mg or 850 mg once daily • Titrate upwards by 500 mg/d or 850 mg/d every 7 days until maximum dose OR Extended release: • Initial 500 mg daily • Titrate upwards by 500 mg/d every 7 days until maximum dose Initiate at half the dose and titrate upwards to half of maximum recommended dose At least annually At least every 3–6 months Figure 27 | Suggested approach in dosing metformin based on the level of kidney function. eGFR, estimated glomerular filtration rate (in ml/min per 1.73 m2 ); GI, gastrointestinal. www.kidney-international.org chapter 4"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

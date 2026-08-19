@@ -1,0 +1,77 @@
+{
+  "page_number": 31,
+  "title": null,
+  "sections": [
+    "Lifestyle",
+    "Additional",
+    "First-line",
+    "Blood",
+    "Statin",
+    "Glycemic",
+    "(T2D)",
+    "(HTN)",
+    "Metformin",
+    "(T2D)",
+    "Additional",
+    "Diabetes with CKD",
+    "(ASCVD)",
+    "(T2D)",
+    "GLP-1 RA",
+    "(T2D)",
+    "Exercise Smoking cessation Weight",
+    "Regular",
+    "S30 Kidney International (2022) 102 (Suppl 5S), S1–S127"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "risk of acute kidney injury due to low eGFR or concurrent use of medications that may contribute to kidney hypoperfusion, such as diuretics. If and when sequencing of treatments is required, it is critically important to ensure that all effective and indicated treatments are implemented in an expeditious manner to maximize benefits. To accomplish this, frequent contacts may be needed and multidisciplinary team care can be essential, as outlined in Section 5.2. This guideline focuses on selected topics for which evidence-based guidance can be provided; it does not cover topics like blood pressure and lipid management as these are dealt with in other KDIGO guidelines. However, management of CKD in diabetes requires multifactorial risk factor control, including targeting all of the risk factors mentioned above and also those indicated in Figures 1 and 2. Overall, the guideline is designed to apply to a broad population of patients with diabetes and CKD. T1D and T2D are both addressed, with differences in approach to man￾agement highlighted as appropriate. Pharmacologic manage￾ment of glycemia is one aspect of care that differs substantially by diabetes type; the benefits of nonsteroidal MRA have been demonstrated only in T2D with CKD. The GLP-1 RA are also recommended only in the T2D population. The benefits of SGLT2i have been demonstrated in persons with CKD with or without diabetes. SGLT2i have not been studied in outcome trials of patients with T1D; however, studies have shown some promise, but also some risk, in this population. There is a substantial difference in the evidence base; thus, this guideline includes evidence-based recommendations for pharmacologic glucose-lowering treatment in T2D and CKD. However, this guideline defers pharmacologic glucose-lowering treatment of T1D, based on insulin, to existing guidelines from diabetes organizations. Similarly, the Work Group addressed care for patients with all severities of CKD, patients with a kidney"
+    },
+    {
+      "type": "paragraph",
+      "text": "and self￾management"
+    },
+    {
+      "type": "paragraph",
+      "text": "drugs with heart and kidney protection"
+    },
+    {
+      "type": "paragraph",
+      "text": "drug therapy Lipid management"
+    },
+    {
+      "type": "paragraph",
+      "text": "pressure control"
+    },
+    {
+      "type": "paragraph",
+      "text": "control SGLT2 inhibitor"
+    },
+    {
+      "type": "paragraph",
+      "text": "RAS blockade"
+    },
+    {
+      "type": "paragraph",
+      "text": "Diet"
+    },
+    {
+      "type": "paragraph",
+      "text": "risk factor control"
+    },
+    {
+      "type": "paragraph",
+      "text": "Antiplatelet therapies"
+    },
+    {
+      "type": "paragraph",
+      "text": "ns-MRA"
+    },
+    {
+      "type": "paragraph",
+      "text": "risk factor reassessment (every 3–6 months) Figure 1 | Kidney–heart risk factor management. People with diabetes and chronic kidney disease (CKD) should be treated with a comprehensive approach to improve kidney and cardiovascular outcomes. This approach should include a foundation of lifestyle modification and self-management for all patients, upon which are layered first-line drug therapies according to clinical characteristics (in parentheses), additional drugs with proven kidney and heart protection as guided by assessments of residual risk, and additional interventions as needed to further control risk factors. Glycemic control is based on insulin for type 1 diabetes (T1D) and a combination of metformin and sodium–glucose cotransporter-2 inhibitors (SGLT2i) for type 2 diabetes (T2D). Metformin may be given when estimated glomerular filtration rate (eGFR) $30 ml/min per 1.73 m2 , and SGLT2i should be initiated when eGFR is $20 ml/min per 1.73 m2 and continued as tolerated, until dialysis or transplantation is initiated. Renin–angiotensin system (RAS) inhibition is recommended for patients with albuminuria and hypertension (HTN). A statin is recommended for all patients with T1D or T2D and CKD. Glucagon-like peptide-1 receptor agonists (GLP-1 RA) are preferred glucose￾lowering drugs for people T2D if SGLT2i and metformin are insufficient to meet glycemic targets or if they are unable to use SGLT2i or metformin. A nonsteroidal mineralocorticoid receptor antagonist (ns-MRA) can be added to first-line therapy for patients with T2D and high residual risks of kidney disease progression and cardiovascular events, as evidenced by persistent albuminuria (>30 mg/g [>3 mg/mmol]). Aspirin generally should be used lifelong for secondary prevention among those with established cardiovascular disease and may be considered for primary prevention among patients with high risk of atherosclerotic cardiovascular disease (ASCVD). chapter 1 www.kidney-international.org"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

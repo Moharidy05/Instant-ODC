@@ -1,0 +1,36 @@
+{
+  "page_number": 61,
+  "title": null,
+  "sections": [
+    "Action to Control Cardiovascular Risk in Diabetes",
+    "Table S11190,191,232,234,235,240,242–244,246,251–253) Three studies",
+    "CKD G1 Severity of CKD",
+    "< 6.5% HbA1c < 8.0%",
+    "CKD G5",
+    "Absent/minor Macrovascular complications Present/severe",
+    "Few Comorbidities Many",
+    "Long Life expectancy Short",
+    "Present Hypoglycemia awareness Impaired",
+    "S60 Kidney International (2022) 102 (Suppl 5S), S1–S127"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "long-term benefits of glycemic control with the short-term risks of hypoglycemia. The recommendation places a lower value on the simplicity of a single target that is recommended for all patients with diabetes and CKD. For patients for whom pre￾vention of complications is the key goal, a lower HbA1c target (e.g., <6.5% or <7.0%) might be preferred. For those with multiple comorbidities or increased burden of hypoglycemia, a higher HbA1c target (e.g., <7.5% or <8.0%) might be preferred (Figure 14). This recommendation applies to patients with T1D or T2D. Key information Balance of benefits and harms. HbA1c targets are central to guide glucose-lowering treatment. In the general diabetes population, higher HbA1c levels have been associated with increased risk of microvascular and macrovascular compli￾cations. Moreover, in clinical trials, targeting lower HbA1c levels has reduced the rates of chronic diabetes complications in patients with T1D190,232–238 or T2D.239–246 The main harm associated with lower HbA1c targets is hypoglycemia. In the"
+    },
+    {
+      "type": "paragraph",
+      "text": "(ACCORD) trial of T2D, mortality was also higher among participants assigned to the lower HbA1c target, perhaps due to hypoglycemia and related cardiovascular events.240 Among patients with diabetes and CKD, a U-shaped as￾sociation of HbA1c with adverse health outcomes has been observed, suggesting risks with both inadequately controlled blood glucose and excessively lowered blood glucose.247 However, the benefits and harms for the proposed HbA1c targets on patients with T2D are derived mostly from studies that used glucose-lowering agents known to increase hypo￾glycemia risk. Patients randomized to lower HbA1c levels had increased rates of severe hypoglycemia in these studies. Notably, however, lower HbA1c targets may not necessarily lead to a significant increase in hypoglycemia rates when attained using medications with a lower risk of hypoglycemia. Data from RCTs support the recommendation of targeting an individualized HbA1c level of <6.5% to <8.0% in patients with diabetes and CKD, compared with higher HbA1c targets. HbA1c targets in this range are associated with better overall survival and cardiovascular outcomes, along with decreased incidence of moderately increased albuminuria and other microvascular outcomes, such as retinopathy. HbA1c levels in this range may also be associated with lower risk of pro￾gression to advanced CKD and kidney failure. However, the benefits of more-stringent glycemic control (i.e., lower HbA1c targets) compared with less-stringent glycemic control (i.e., higher HbA1c targets) manifest over many years of treatment.191,248,249 In addition, more￾stringent glycemic control compared with less-stringent glycemic control increases the risk of hypoglycemia.240 In￾dividual patient factors modify both anticipated benefits and anticipated risks of more-stringent glycemic control (Figure 14). For example, younger patients with few comorbidities, mild-to-moderate CKD, and longer life ex￾pectancy may anticipate substantial cumulative long-term benefits of stringent glycemic control and therefore prefer a lower HbA1c target. Patients who are treated with medi￾cations that do not cause substantial hypoglycemia, who have preserved hypoglycemia awareness and resources to detect and intervene early in the course of hypoglycemia, and who have demonstrated an ability to attain stringent HbA1c targets without hypoglycemia may also prefer a lower HbA1c target. Patients with opposite characteristics may prefer higher HbA1c targets. A flexible approach allows each patient to optimize these tradeoffs, whereas a “one-size-fits￾all” single HbA1c target may offer insufficient long-term organ protection for some patients and place others at un￾due risk of hypoglycemia. Therefore, individualization of HbA1c targets in patients with diabetes and CKD should be an interactive process that includes individual assessment of risk, life expectancy, disease/therapy burden, and patient preferences. Quality of evidence. A systematic review with 3 compari￾sons examining the effects of lower (#7.0%, #6.5%, and #6.0%) versus higher (standard of care) HbA1c targets in patients with diabetes and CKD was undertaken. The updated Cochrane systematic review250 identified 11 studies that compared a target HbA1c <7.0% to higher HbA1c targets (standard glycemic control) (Supplementary"
+    },
+    {
+      "type": "paragraph",
+      "text": "were also identified but were not eligible for inclusion in the meta-analysis.233,236,254 The review found that a target of"
+    },
+    {
+      "type": "paragraph",
+      "text": "Available Resources for hypoglycemia management Scarce Low Propensity of treatment to cause hypoglycemia High Figure 14 | Factors guiding decisions on individual glycated hemoglobin (HbA1c) targets. CKD, chronic kidney disease; G1, estimated glomerular filtration rate (eGFR) $90 ml/min per 1.73 m2 ; G5, eGFR <15 ml/min per 1.73 m2 . chapter 2 www.kidney-international.org"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

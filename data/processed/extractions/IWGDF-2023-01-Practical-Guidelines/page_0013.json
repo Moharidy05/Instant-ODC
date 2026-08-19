@@ -1,0 +1,23 @@
+{
+  "page_number": 13,
+  "title": null,
+  "sections": [
+    "The International Working Group on the Diabetic Foot",
+    "IWGDF Practical Guidelines",
+    "IWGDF",
+    "Guidelines",
+    "Classification and Type"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "For clinically infected wounds obtain a tissue specimen for culture (and Gram-stained smear, if available) by curettage or biopsy, avoid using a swab; consider bone biopsy in case of osteomyelitis. The causative pathogens (and their antibiotic susceptibilities) vary by geographic, demographic and clinical situations, but Staphylococcus aureus (alone, or with other organisms) is the predominant pathogen in most cases of superficial infections. Chronic and more severe infections are often polymicrobial, with aerobic gram-negative rods especially in warmer climates and obligate anaerobes accompanying the gram-positive cocci. • “Area”: Measure ulcer area and express in cm2. • “Depth”: Assess ulcer depth and classify as: confined to skin and subcutaneous tissue; reaching muscle or tendon; or reaching bone. Determining depth can be difficult, especially in the presence of overlying callus or necrotic tissue. To aid assessment, debride any neuropathic or neuro-ischemic ulcer that is surrounded by callus or contains necrotic soft tissue at initial presentation, or as soon as possible. Do not, however, debride a non-infected ulcer that has signs of severe ischaemia. Neuropathic ulcers can usually be debrided without the need for local anaesthesia."
+    },
+    {
+      "type": "paragraph",
+      "text": "By following this standardised assessment, the ulcer can be classified according to the SINBAD system (2). The SINBAD system is simple and quick to use and contains the necessary information to allow for triage by a specialist team. In addition, infection severity should be classified according to the IWGDF/IDSA system and ischaemia as part of the WIfI system (2). It is important to describe the individual variables of each of these systems (2). In addition, the ulcer type can be described as neuropathic (LOPS, but no PAD), neuro-ischaemic (LOPS and PAD), or ischaemic (PAD, but no LOPS). 4.1.2 Determining the cause of the ulcer Always try to determine the precipitating event that led to ulceration, this information is relevant both for treatment plans and for prevention of recurrence. Look for abnormal walking patterns, deformities, bony prominences and other foot abnormaities (supine and standing) that could have contributed to ulceration. Wearing ill-fitting shoes and walking barefoot are practices that frequently lead to foot ulceration, even in patients with exclusively ischaemic ulcers. Therefore, meticulously examine shoes and footwear behaviour in every patient with a foot ulcer as part of cause determination. 4.1.3 Assessment of person-related factors Apart from a systematic evaluation of the ulcer, the foot and the leg, also consider person-related factors that can affect ulcer healing and affect treatment. These factors include kidney function/end-stage renal disease, oedema, malnutrition, poor metabolic control, depression or other psycho-social problems, and frailty."
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

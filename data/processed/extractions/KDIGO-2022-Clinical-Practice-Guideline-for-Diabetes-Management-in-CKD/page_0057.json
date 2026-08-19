@@ -1,0 +1,42 @@
+{
+  "page_number": 57,
+  "title": null,
+  "sections": [
+    "adapted Quality Assessment of Diagnostic Accuracy Studies",
+    "Rationale",
+    "Anemia",
+    "Transfusions",
+    "Blood",
+    "Hemoglobin",
+    "Hemoglobin A1c",
+    "S56 Kidney International (2022) 102 (Suppl 5S), S1–S127"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "aimed to determine whether CGM would be more effective than HbA1c for glycemic monitoring in people with CKD, as it derives from observational studies. The evidence to support the use of alternative biomarkers to HbA1c is of very low quality, as it derives from observational studies with incon￾sistency in findings. These studies were appraised using an"
+    },
+    {
+      "type": "paragraph",
+      "text": "(QUADAS)-2 tool,222 as there is no agreed-upon tool to examine the quality of evidence from these studies. Values and preferences. The Work Group judged that pa￾tients with T1D or T2D and CKD would consider the benefits of detecting clinically relevant hyperglycemia or over￾treatment to low glycemic levels through long-term glycemic monitoring by HbA1c as critically important. The Work Group also judged that the limitations of HbA1c, including underestimation or overestimation of the actual degree of glycemic control compared to directly measured blood glucose levels, would be important to patients. In the judg￾ment of the Work Group, most but not all patients with diabetes and CKD would choose long-term glycemic moni￾toring by HbA1c despite these limitations. The recommen￾dation is strong; however, some patients may choose not to monitor by HbA1c or follow the suggested schedule of testing, especially those with advanced CKD, anemia, or treatment by red blood cell transfusions, erythropoiesis￾stimulating agents, or iron supplements. Resource use and costs. Long-term glycemic monitoring by HbA1c is relatively inexpensive and widely available. To the extent that HbA1c measurement aids in achieving diabetes control in patients with CKD, including those with kidney failure treated by dialysis or kidney transplant, this recommendation is likely cost-effective, but economic analyses have not been per￾formed and would be influenced by testing frequency and consequent resource utilization and clinical outcomes. Considerations for implementation. Patients with T1D or T2D and CKD likely benefit from glycemic monitoring by HbA1c. This recommendation is applicable to adults and children of all race/ethnicity groups, both sexes, and to patients with kidney failure treated by dialysis or kidney transplant."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hyperglycemia produces glycation of proteins and other molecular structures that eventuate in permanently glycated forms termed advanced glycation end-products.223 HbA1c is an advanced glycation end-product of hemoglobin, a princi￾ple protein in red blood cells (Figure 10). As such, HbA1c is a long-term biomarker that reflects glycemia over the lifespan of red blood cells. Notably, CKD is associated with conditions such as inflammation, oxidative stress, and metabolic acidosis that may concurrently promote advanced glycation end￾product formation in addition to hyperglycemia (Figure 10).224 Conversely, HbA1c is lowered by shortened survival or age of erythrocytes from anemia, transfusions, and use of erythropoiesis-stimulating agents or iron-replacement therapies.224,225 These effects are most pronounced among patients with advanced CKD, particularly those treated by dialysis. Therefore, the HbA1c measurement has low reli￾ability due to assay biases and imprecision for reflecting ambient glycemia in advanced CKD. HbA1c measurement is a standard of care for long-term glycemic monitoring in the general population of people with T1D or T2D, but inaccuracy of HbA1c measurement in advanced CKD reduces its reliability. However, in the judg￾ment of the Work Group, HbA1c monitoring is prudent, and most patients would make this choice. This recommendation applies to patients who have T1D or T2D and CKD, with the caveat that reliability of HbA1c level for glycemic monitoring is low at more advanced CKD stages (Figure 11). CKD Bias high Metabolic acidosis Bias low"
+    },
+    {
+      "type": "paragraph",
+      "text": "Erythropoiesis-stimulating agents Iron supplements"
+    },
+    {
+      "type": "paragraph",
+      "text": "glucose"
+    },
+    {
+      "type": "paragraph",
+      "text": "Figure 10 | Effects of chronic kidney disease (CKD)–related factors on glycated hemoglobin (HbA1c). chapter 2 www.kidney-international.org"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

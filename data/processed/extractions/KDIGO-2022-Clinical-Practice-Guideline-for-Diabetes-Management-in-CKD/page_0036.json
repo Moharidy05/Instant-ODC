@@ -1,0 +1,30 @@
+{
+  "page_number": 36,
+  "title": null,
+  "sections": [
+    "Practice Point 1.2.3: Continue ACEi or ARB therapy unless",
+    "Initiate ACEi or ARB",
+    "Normokalemia Hyperkalemia",
+    "Kidney International (2022) 102 (Suppl 5S), S1–S127 S35"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "population, and given that RAS blockade reduces the severity of albuminuria, the Work Group judged that ACEi and ARB treatment may be beneficial in patients with diabetes and albuminuria but without hypertension. Available data suggest that ACEi and ARB treatments are not beneficial for patients with neither albuminuria nor elevated blood pressure. In T1D with neither albuminuria nor elevated blood pressure, neither an ACEi nor an ARB either slowed the progression of histo￾logic features of diabetes and CKD or reduced the incidence of albuminuria over 5 years.39 In T2D with neither albu￾minuria nor elevated blood pressure (normal or well-treated), moderately increased albuminuria was observed less frequently with an ARB, but cardiovascular events were increased.59 A review found 6 studies in normoalbuminuric T2D patients showing benefit on albuminuria progression by RAS blockade, but most patients had hypertension.60 Patients with diabetes and hypertension are at lower risk of CKD progression when urine albumin excretion is normal (<30 mg/g [<3 mg/mmol]), and existing evidence does not demonstrate clear clinical benefit of RAS inhibition for CKD progression in this population. Cardiovascular risk reduction is the most important goal of blood pressure management with normal urine albumin excretion, and multiple classes of antihypertensive agents (including RAS inhibitors, diuretics, and dihydropyridine calcium channel blockers) are appro￾priate in this setting. Practice Point 1.2.2: Monitor for changes in blood pressure, serum creatinine, and serum potassium within 2–4 weeks of initiation or increase in the dose of an ACEi or ARB (Figure 4). ACEi and ARBs are potent antihypertensive agents that counteract the vasoconstrictive effects of angiotensin II. Moreover, blocking the action of angiotensin II causes selectively greater vasodilatation of the efferent arterioles of the glomeruli, resulting in a decline of the intraglomerular pressure, and not unexpectedly, a decrease in the GFR and a rise in serum creatinine. In addition, RAS blockade inhibits the action of aldosterone, leading to a greater propensity for hyperkalemia. An increase in serum creatinine, if it occurs, will typically happen during the first 2 weeks of treatment initiation, and it should stabilize within 2–4 weeks in the setting of normal sodium and fluid intake.61 Therefore, pa￾tients should be monitored for symptomatic hypotension, hyperkalemia, and excessive rise in serum creatinine within 2–4 weeks after initiating or making a change in the dose of the drug, depending on resource availability and patient preferences. Earlier laboratory monitoring (e.g., within 1 week) may be indicated for patients at high risk of hyper￾kalemia due to low eGFR, history of hyperkalemia, or borderline high serum potassium concentration. Conversely, a longer time period for laboratory monitoring (e.g., after initiation but not dose titration) may be considered for pa￾tients at low risk of hyperkalemia (e.g., patients with normal eGFR and serum potassium level)."
+    },
+    {
+      "type": "paragraph",
+      "text": "serum creatinine rises by more than 30% within 4 weeks following initiation of treatment or an increase in dose (Figure 4). The rise in serum creatinine should not be a deterrent in using ACEi or ARB therapy in patients with diabetes and"
+    },
+    {
+      "type": "paragraph",
+      "text": "Increase dose of ACEi or ARB or continue on maximally tolerated dose Monitor serum creatinine and potassium (within 2–4 weeks after starting or changing dose) < 30% increase in creatinine > 30% increase in creatinine"
+    },
+    {
+      "type": "paragraph",
+      "text": "• Review for causes of AKI • Correct volume depletion • Reassess concomitant medications (e.g., diuretics, NSAIDs) • Consider renal artery stenosis • Review concurrent drugs • Moderate potassium intake • Consider: - diuretics - sodium bicarbonate - potassium binders Reduce dose or stop ACEi or ARB Figure 4 | Monitoring of serum creatinine and potassium during angiotensin-converting enzyme inhibitor (ACEi) or angiotensin II receptor blocker (ARB) treatment—dose adjustment and monitoring of side effects. AKI, acute kidney injury; NSAID, nonsteroidal anti-inflammatory drug. www.kidney-international.org chapter 1"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

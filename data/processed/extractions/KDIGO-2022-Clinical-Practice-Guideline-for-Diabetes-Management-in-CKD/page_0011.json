@@ -1,0 +1,39 @@
+{
+  "page_number": 11,
+  "title": null,
+  "sections": [
+    "CONVERSION FACTORS OF CONVENTIONAL UNITS TO SI UNITS",
+    "Conventional unit Conversion factor SI Unit",
+    "ALBUMINURIA CATEGORIES IN CKD",
+    "A2 30–300 3–30 30–300 Moderately increaseda",
+    "A3 >300 >30 >300 Severely increasedb",
+    "HbA1c CONVERSION CHART",
+    "DCCT (%)",
+    "DCCT (%)",
+    "S10 Kidney International (2022) 102 (Suppl 5S), S1–S127"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Creatinine mg/dl 88.4 mmol/l Glucose mg/dl 0.0555 mmol/l Note: conventional unit conversion factor ¼ SI unit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Category AER (mg/24 h) ACR (approximate equivalent) (mg/mmol) (mg/g) Terms A1 <30 <3 <30 Normal to mildly increased"
+    },
+    {
+      "type": "paragraph",
+      "text": "ACR, albumin-creatinine ratio; AER, albumin excretion rate; CKD, chronic kidney disease. a Relative to young-adult level. b Including nephrotic syndrome (AER usually >2200 mg/24 h [ACR >2200 mg/g; >220 mg/mmol])."
+    },
+    {
+      "type": "paragraph",
+      "text": "IFCC (mmol/mol) DCCT (%) IFCC (mmol/mol) DCCT (%) IFCC (mmol/mol) DCCT (%) IFCC (mmol/mol) DCCT (%) IFCC (mmol/mol) 5.0 31 6.0 42 7.0 53 8.0 64 9.0 75 5.1 32 6.1 43 7.1 54 8.1 65 9.1 76 5.2 33 6.2 44 7.2 55 8.2 66 9.2 77 5.3 34 6.3 45 7.3 56 8.3 67 9.3 78 5.4 36 6.4 46 7.4 57 8.4 68 9.4 79 5.5 37 6.5 48 7.5 58 8.5 69 9.5 80 5.6 38 6.6 49 7.6 60 8.6 70 9.6 81 5.7 39 6.7 50 7.7 61 8.7 72 9.7 83 5.8 40 6.8 51 7.8 62 8.8 73 9.8 84 5.9 41 6.9 52 7.9 63 8.9 74 9.9 85"
+    },
+    {
+      "type": "paragraph",
+      "text": "IFCC (mmol/mol) DCCT (%) IFCC (mmol/mol) DCCT (%) IFCC (mmol/mol) DCCT (%) IFCC (mmol/mol) DCCT (%) IFCC (mmol/mol) 10.0 86 11.0 97 12.0 108 13.0 119 14.0 130 10.1 87 11.1 98 12.1 109 13.1 120 14.1 131 10.2 88 11.2 99 12.2 110 13.2 121 14.2 132 10.3 89 11.3 100 12.3 111 13.3 122 14.3 133 10.4 90 11.4 101 12.4 112 13.4 123 14.4 134 10.5 91 11.5 102 12.5 113 13.5 124 14.5 135 10.6 92 11.6 103 12.6 114 13.6 125 14.6 136 10.7 93 11.7 104 12.7 115 13.7 126 14.7 137 10.8 95 11.8 105 12.8 116 13.8 127 14.8 138 10.9 96 11.9 107 12.9 117 13.9 128 14.9 139 IFCC–HbA1c (mmol/mol) ¼ [DCCT–HbA1c (%) – 2.15] 10.929. DCCT, Diabetes Control and Complications Trial; HbA1c, glycated hemoglobin; IFCC, International Federation of Clinical Chemistry and Laboratory Medicine. Source: Diabetes UK, www.diabetes.org.uk. conversion factors www.kidney-international.org"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

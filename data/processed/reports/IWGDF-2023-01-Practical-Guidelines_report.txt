@@ -1,0 +1,56 @@
+======================================================================
+MEDICAL PDF EXTRACTION REPORT
+======================================================================
+PDF: G:\Projects\Instant-ODC\data\raw\IWGDF-2023-01-Practical-Guidelines.pdf
+Pages: 30
+
+Successful: 30
+Review: 0
+Needs re-extraction: 0
+Empty pages (terminal): 0
+Native extraction: 30
+Qwen extraction: 0
+Recovered by retry: 0
+Success rate: 100.00%
+Processing time: 3.57s
+
+RE-EXTRACTION QUEUE
+----------------------------------------------------------------------
+No pages require re-extraction.
+
+REVIEW QUEUE
+----------------------------------------------------------------------
+No pages require review.
+
+PAGE DETAILS
+----------------------------------------------------------------------
+Page 1: success | method=native | attempts=1 | chars=224 | time=0.01s
+Page 2: success | method=native | attempts=1 | chars=1128 | time=0.01s
+Page 3: success | method=native | attempts=1 | chars=1846 | time=0.01s
+Page 4: success | method=native | attempts=1 | chars=3110 | time=0.01s
+Page 5: success | method=native | attempts=1 | chars=3131 | time=0.01s
+Page 6: success | method=native | attempts=1 | chars=2213 | time=0.01s
+Page 7: success | method=native | attempts=1 | chars=2212 | time=0.01s
+Page 8: success | method=native | attempts=1 | chars=838 | time=0.01s
+Page 9: success | method=native | attempts=1 | chars=2084 | time=0.01s
+Page 10: success | method=native | attempts=1 | chars=2142 | time=0.01s
+Page 11: success | method=native | attempts=1 | chars=1305 | time=0.01s
+Page 12: success | method=native | attempts=1 | chars=3325 | time=0.01s
+Page 13: success | method=native | attempts=1 | chars=2979 | time=0.01s
+Page 14: success | method=native | attempts=1 | chars=2662 | time=0.01s
+Page 15: success | method=native | attempts=1 | chars=2903 | time=0.01s
+Page 16: success | method=native | attempts=1 | chars=2622 | time=0.01s
+Page 17: success | method=native | attempts=1 | chars=724 | time=0.00s
+Page 18: success | method=native | attempts=1 | chars=3421 | time=0.01s
+Page 19: success | method=native | attempts=1 | chars=2570 | time=0.01s
+Page 20: success | method=native | attempts=1 | chars=986 | time=0.00s
+Page 21: success | method=native | attempts=1 | chars=1338 | time=0.01s
+Page 22: success | method=native | attempts=1 | chars=4487 | time=0.01s
+Page 23: success | method=native | attempts=1 | chars=1148 | time=0.00s
+Page 24: success | method=native | attempts=1 | chars=2020 | time=0.01s
+Page 25: success | method=native | attempts=1 | chars=504 | time=0.00s
+Page 26: success | method=native | attempts=1 | chars=1622 | time=0.01s
+Page 27: success | method=native | attempts=1 | chars=2449 | time=0.01s
+Page 28: success | method=native | attempts=1 | chars=1492 | time=0.01s
+Page 29: success | method=native | attempts=1 | chars=2334 | time=0.01s
+Page 30: success | method=native | attempts=1 | chars=1825 | time=0.01s

@@ -1,0 +1,61 @@
+{
+  "page_number": 2,
+  "title": null,
+  "sections": [
+    "Preamble",
+    "Methods",
+    "The EASL Governing Board initiated these CPGs in September",
+    "MetALD",
+    "YES NO",
+    "(MASLD)",
+    "(MASH)",
+    "NO YES",
+    "Cryptogenic SLD",
+    "YES NO",
+    "Clinical Practice Guidelines"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "been generated as a joint effort by the European Association for the Study of the Liver (EASL), European Association for the Study of Diabetes (EASD) and European Association for the Study of Obesity (EASO). They update the multi-society NAFLD CPG released in 2016.3 Intensified research efforts in recent years have significantly expanded our understanding of the pathophysiology and nat￾ural course of the disease. This has culminated in improved diagnostic tools and novel therapeutic options, which is re￾flected in the expanded scope of the current CPG. The avail￾ability of improved treatment options underlines the need to identify at-risk individuals with MASLD early, as we now possess the tools to positively influence the course of the disease, which is expected to prevent relevant clinical events. These CPGs are targeted at healthcare providers involved in the care of individuals with (or at risk of) MASLD. They provide a framework for the early identification of affected individuals, risk stratification and therapeutic management including non￾pharmacological and pharmacological treatment. Further￾more, they provide guidance on the management of end-stage MASLD and MASLD in the setting of advanced liver disease and liver transplantation. The purpose of this document is to assist physicians, affected and at-risk individuals, healthcare providers and health￾policymakers from Europe and worldwide in the decision￾making process, by providing evidence-based data, which also takes into consideration the burden of clinical management for the healthcare system. The recommendations are intended to guide clinical practice in circumstances where all possible re￾sources and therapies are available. Thus, users should adapt the recommendations to their local regulations, availability of resources, infrastructure, and cost-benefit strategies."
+    },
+    {
+      "type": "paragraph",
+      "text": "The nomenclature of SLD and definition of MASLD were established in June 2023, following an international, multi￾society guided Delphi process.2 The diagnosis of MASLD re￾quires the presence of at least one cardiometabolic risk factor in an individual with documented steatosis. This has raised concerns as to whether evidence generated under the NAFLD definition would still apply to individuals with MASLD. Several re-examinations from existing cohort studies support that NAFLD-related findings can be fully extrapolated to individuals with MASLD. As an example, analyses of a large tertiary care NAFLD cohort and the population-based Nutrition Examination Survey (NHANESIII) data found a nearly complete overlap be￾tween NAFLD and MASLD populations, with 99.8% accor￾dance in the NAFLD cohort, while only 5.3% of individuals with NAFLD in the NHANESIII database did not fulfil the MASLD criteria.4 In addition, clinical characteristics were almost iden￾tical, and non-invasive tests showed equal accuracy and cut￾offs for both definitions.4 Finally, long-term follow-up showed similar mortality rates, with slightly higher mortality in MASLD compared to NAFLD.4 Therefore, we have transferred the evi￾dence on NAFLD to the MASLD population and use the term MASLD interchangeably. Notably, MetALD represents a distinct entity to which our recommendations and statements generated with the “pure” NAFLD definition may not apply."
+    },
+    {
+      "type": "paragraph",
+      "text": "2021. A multidisciplinary committee of experts was selected by EASL, EASD and EASO, whose members were primarily involved in the management of MASLD. The development of these CPGs followed a standard operating procedure set out by EASL and meets the international standards for CPGs set out by the Guidelines International Network.5 The committee defined the objectives, the key issues and identified the guidelines’ key questions and developed them following the PICO format: P – patient, problem, or population, I – intervention, C – comparison, control or comparator, O – outcome. PICO questions were vetted through a simplified Delphi process by an international 46- Steatotic liver disease Hepatic steatosis identified by imaging or biopsy Presence of any of the cardiometabolic criteria? Presence (history) of alcohol consumption >20 g/day in women and >30 g/day in men?"
+    },
+    {
+      "type": "paragraph",
+      "text": "(20-50 g/day in women and 30-60 g/day in men) Alcohol-related liver disease (ALD) (>50 g/day in women and >60 g/day in men) NO"
+    },
+    {
+      "type": "paragraph",
+      "text": "YES Metabolic dysfunction￾associated steatotic liver disease"
+    },
+    {
+      "type": "paragraph",
+      "text": "Metabolic dysfunction￾associated steatohepatitis"
+    },
+    {
+      "type": "paragraph",
+      "text": "if inflammation and ballooning on histology Alcohol intake >50 g/day in women and >60 g/day in men?"
+    },
+    {
+      "type": "paragraph",
+      "text": "YES • Drug-induced liver disease (DILI) • Monogenic diseases • Miscellaneous"
+    },
+    {
+      "type": "paragraph",
+      "text": "NO Other causes of steatosis?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fig. 1. Flow-chart for SLD and its sub-categories.2 SLD, diagnosed histologically or by imaging, has many potential aetiologies. MASLD is defined as the presence of hepatic steatosis in conjunction with (at least) one cardiometabolic risk factor and no other discernible cause. The quantity of alcohol intake, the drinking pattern, and the type of alcohol consumed should be assessed in all individuals with SLD using detailed medical history, psychometric instruments and/or validated biomarkers. ALD, alcohol-related liver disease; DILI, drug-induced liver disease; MASH, metabolic dysfunction-associated steatohepatitis; MASLD, metabolic dysfunction￾associated steatotic liver disease; MetALD, MASLD with moderate (increased) alcohol consumption; SLD, steatotic liver disease. Journal of Hepatology, September 2024. vol. 81 j 492–542 493"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

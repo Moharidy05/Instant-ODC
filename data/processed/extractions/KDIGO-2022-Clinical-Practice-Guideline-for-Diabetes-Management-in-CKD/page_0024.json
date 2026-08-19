@@ -1,0 +1,26 @@
+{
+  "page_number": 24,
+  "title": null,
+  "sections": [
+    "CKD G1 Severity of CKD",
+    "< 6.5% HbA1c < 8.0%",
+    "CKD G5",
+    "Absent/minor Macrovascular complications Present/severe",
+    "Few Comorbidities Many",
+    "Long Life expectancy Short",
+    "Present Hypoglycemia awareness Impaired",
+    "Kidney International (2022) 102 (Suppl 5S), S1–S127 S23"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Chapter 2: Glycemic monitoring and targets in patients with diabetes and CKD 2.1. Glycemic monitoring Recommendation 2.1.1: We recommend using hemoglobin A1c (HbA1c) to monitor glycemic control in patients with diabetes and CKD (1C). Practice Point 2.1.1: Monitoring long-term glycemic control by HbA1c twice per year is reasonable for patients with diabetes. HbA1c may be measured as often as 4 times per year if the glycemic target is not met or after a change in glucose-lowering therapy. Practice Point 2.1.2: Accuracy and precision of HbA1c measurement declines with advanced CKD (G4–G5), particularly among patients treated by dialysis, in whom HbA1c measurements have low reliability. Practice Point 2.1.3: A glucose management indicator (GMI) derived from continuous glucose monitoring (CGM) data can be used to index glycemia for individuals in whom HbA1c is not concordant with directly measured blood glucose levels or clinical symptoms. Practice Point 2.1.4: Daily glycemic monitoring with CGM or self-monitoring of blood glucose (SMBG) may help prevent hypoglycemia and improve glycemic control when glucose-lowering therapies associated with risk of hypoglycemia are used. Practice Point 2.1.5: For patients with T2D and CKD who choose not to do daily glycemic monitoring by CGM or SMBG, glucose-lowering agents that pose a lower risk of hypoglycemia are preferred and should be administered in doses that are appropriate for the level of eGFR. Practice Point 2.1.6: CGM devices are rapidly evolving with multiple functionalities (e.g., real-time and intermittently scanned CGM). Newer CGM devices may offer advantages for certain patients, depending on their values, goals, and preferences. 2.2. Glycemic targets Recommendation 2.2.1: We recommend an individualized HbA1c target ranging from <6.5% to <8.0% in patients with diabetes and CKD not treated with dialysis (Figure 14) (1C). Practice Point 2.2.1: Safe achievement of lower HbA1c targets (e.g., <6.5% or <7.0%) may be facilitated by CGM or SMBG and by selection of glucose-lowering agents that are not associated with hypoglycemia. Practice Point 2.2.2: CGM metrics, such as time in range and time in hypoglycemia, may be considered as alternatives to HbA1c for defining glycemic targets in some patients."
+    },
+    {
+      "type": "paragraph",
+      "text": "Available Resources for hypoglycemia management Scarce Low Propensity of treatment to cause hypoglycemia High Figure 14 | Factors guiding decisions on individual glycated hemoglobin (HbA1c) targets. CKD, chronic kidney disease; G1, estimated glomerular filtration rate (eGFR) $90 ml/min per 1.73 m2 ; G5, eGFR <15 ml/min per 1.73 m2 . www.kidney-international.org summary of recommendation sta tements and practice points"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

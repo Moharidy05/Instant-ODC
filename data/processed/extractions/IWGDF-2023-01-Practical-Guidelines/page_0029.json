@@ -1,0 +1,31 @@
+{
+  "page_number": 29,
+  "title": null,
+  "sections": [
+    "The International Working Group on the Diabetic Foot",
+    "IWGDF Practical Guidelines",
+    "IWGDF",
+    "Guidelines",
+    "TOE PRESSURE AND TOE-BRACHIAL INDEX (TBI) MEASUREMENT USING",
+    "PHOTOPLETHYSMOGRAPHY (PPG)",
+    "Equipment",
+    "Preparation",
+    "Calculation of TBI"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Several different types of equipment can be used such as mercury strain gauge, laser Doppler, and continuous wave Doppler. PPG is commonly used; with an infra-red probe. Changes in opacity and blood volume are measured in the toe, resulting in a waveform. Here we describe the use of PPG."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sphygmomanometer. Cuff for digital pressure measurements; cuff size approximately 1.5 times the diameter of the digit PPG probe. PPG unit or hand-held Doppler that can be connected to PPG probe. Measurement conditions As in ABI measurements, see above. Toe-pressure measurement Place the digital cuff at the base of the hallux and the PPG probe against distal toe pulp, sufficiently firmly to keep it in place but ensure there is no excess pressure on the digit whilst not inflated. Where the hallux cannot be used, the second digit can be used (if a smaller cuff can be placed around the base of the toe). Fixate the probe with tape ensuring contact of its entire flat surface against the skin (no external light should enter the underside of the probe) and preventing small movements which will disrupt the waveform. Wait until a cyclical signal of the probe appears on the unit’s screen. Once a consistent waveform is seen, inflate the cuff to approximately 30 mmHg higher than the point at which the waveform flatlines. Deflate the cuff slowly deflated at a rate of 2–3mmHg per second. The cuff pressure at the first sign of reappearance of a regular upstroke is equal to the systolic pressure in the artery. Record the result. In case of a suboptimal measurement repeat the measurement after a 3 minute waiting period. Note: when the resting toe pressure is low (indicating reduced peripheral blood flow), the returning waveform is typically smaller and less clearly distinguishable from baseline. Brachial artery systolic pressure Measure the brachial artery systolic pressure in both arms as per ABI (above)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Toe-Brachial Index is calculated for each limb by dividing the toe pressure by the highest of the left and right brachial pressures. A TBI below 0.7 is considered to be abnormal, i.e. indicative for PAD (4, 12)."
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

@@ -1,0 +1,29 @@
+{
+    "page_number": 28,
+    "title": "Cardiovascular Disease and Risk Management",
+    "sections": [
+        {
+            "type": "section",
+            "title": "SGLT Inhibitors"
+        },
+        {
+            "type": "section",
+            "title": "Progression in Diabetic Kidney Disease (FIDELIO-DKD) and the Efficacy and Safety of Finerenone in Subjects With Type 2 Diabetes Mellitus and the Clinical Diagnosis of Diabetic Kidney Disease (FIGARO-DKD) studies"
+        },
+        {
+            "type": "section",
+            "title": "Glucose-Lowering Medications and Heart Failure: Discussion of Heart Failure Outcomes"
+        },
+        {
+            "type": "section",
+            "title": "Treatment of Symptomatic Heart Failure"
+        }
+    ],
+    "blocks": [
+        {
+            "type": "paragraph",
+            "text": "SGLT Inhibitors. As reviewed in detail in the following section, SGLT2 inhibitors constitute a key treatment approach to reduce cardiovascular disease and heart failure outcomes in people with diabetes. People with type 2 diabetes and increased cardiovascular risk or established cardiovascular disease should be treated with an SGLT2 inhibitor to prevent the development of incident heart failure. This includes people with type 2 diabetes and asymptomatic stage B heart failure. In the EMPA-REG OUTCOME trial, only 10% of study participants had a prior history of heart failure, and treatment with empagliflozin reduced the relative risk for hospitalization from heart failure by 35% (11). In the CANVAS Program, hospitalization from heart failure was reduced by 33% in people allocated to canagliflozin, and only 14% of individuals enrolled had a prior history of heart failure (12). In the DAPA-HF study, only 10% of study participants had a prior history of heart failure, and dapagliflozin reduced cardiovascular mortality and hospitalization for heart failure by 17%, which was consistent across multiple study subgroups regardless of a prior history of heart failure (249). Finally, in the Effect of Sotogliflozin on Cardiovascular and Renal Events in Participants With Type 2 Diabetes and Moderate Renal Impairment Who Are at Cardiovascular Risk (SCORED) trial, randomization to the SGLT/2 inhibitor sotogliflozin reduced the primary outcome of death from cardiovascular causes, hospitalizations for heart failure, and urgent visits for heart failure in people with type 2 diabetes, CKD, and risk for cardiovascular disease (281). Therefore, SGLT inhibitor treatment is recommended in asymptomatic people with type 2 diabetes at risk or with established cardiovascular disease to prevent incident heart failure and hospitalization from heart failure."
+
+}
+    ]
+}

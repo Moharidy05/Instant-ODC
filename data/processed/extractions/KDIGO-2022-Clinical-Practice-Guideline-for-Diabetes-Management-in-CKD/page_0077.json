@@ -1,0 +1,82 @@
+{
+  "page_number": 77,
+  "title": null,
+  "sections": [
+    "Drug Trial Kidney-related",
+    "EMPEROR-Preserved",
+    "EMPEROR-Reduced",
+    "DAPA-CKD",
+    "DAPA-HF",
+    "CREDENCE",
+    "Progression of CKD†",
+    "Lixisenatide",
+    "Liraglutide",
+    "Semaglutide§",
+    "Exenatide",
+    "Albiglutide",
+    "Dulaglutide",
+    "ELIXA",
+    "LEADER",
+    "SUSTAIN-6",
+    "PIONEER 6",
+    "EXSCEL",
+    "HARMONY",
+    "REWIND",
+    "Saxagliptin",
+    "Alogliptin",
+    "Sitagliptin",
+    "Linagliptin",
+    "SAVOR-TIMI 53",
+    "EXAMINE",
+    "TECOS",
+    "CARMELINA",
+    "Progression of CKD†",
+    "SOLOIST",
+    "NA NA",
+    "S76 Kidney International (2022) 102 (Suppl 5S), S1–S127"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "eligibility criteria primary outcome albuminuria-containing composite outcome Primary outcome Kidney outcomes GFR loss* SGLT2 inhibitors"
+    },
+    {
+      "type": "paragraph",
+      "text": "eGFR ≥30 ml/min per 1.73 m2 No criteria eGFR >20 ml/min per 1.73 m2 MACE CV death or hospitalization for HF CV death or hospitalization for HF Genital mycotic infections, DKA Genital and urinary tract infections, hypotension Genital tract infections"
+    },
+    {
+      "type": "paragraph",
+      "text": "CrCl ≥60 ml/min eGFR 25–75 ml/min per 1.73 m2 eGFR ≥30 ml/min per 1.73 m2 Dual primary outcomes: MACE and the composite of hospitalization for heart failure or CV death‡ First occurrence of a ≥50% decline in eGFR, the onset of kidney failure, or death from renal or CV causes CV death or worsening HF Genital mycotic infections, DKA Volume depletion None notable"
+    },
+    {
+      "type": "paragraph",
+      "text": "eGFR ≥30 ml/min per 1.73 m2 ACR >300 mg/g [>30 mg/mmol] and eGFR 30–90 ml/min per 1.73 m2 MACE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Genital mycotic infections, DKA, amputation Genital mycotic infections, DKA / GLP-1 receptor agonists"
+    },
+    {
+      "type": "paragraph",
+      "text": "eGFR ≥30 ml/min per 1.73 m2 eGFR ≥15 ml/min per 1.73 m2 Patients treated with dialysis excluded eGFR ≥30 ml/min per 1.73 m2 eGFR ≥30 ml/min per 1.73 m2 eGFR ≥30 ml/min per 1.73 m2 eGFR ≥15 ml/min per 1.73 m2 MACE MACE MACE MACE MACE MACE MACE None notable GI GI GI None notable Injection site reactions GI NA NA NA NA NA NA NA DPP-4 inhibitors"
+    },
+    {
+      "type": "paragraph",
+      "text": "eGFR ≥15 ml/min per 1.73 m2 Patients treated with dialysis excluded eGFR ≥30 ml/min per 1.73 m2 eGFR ≥15 ml/min per 1.73 m2 MACE MACE MACE"
+    },
+    {
+      "type": "paragraph",
+      "text": "HF; any hypoglycemic event (minor and major) also more common None notable None notable None notable NA NA NA NA NA Genital mycotic infection, urinary tract infections"
+    },
+    {
+      "type": "paragraph",
+      "text": "eGFR 25–60 ml/min per 1.73 m2 No criteria Deaths from CV causes, hospitalizations for HF, and urgent visits for HF Deaths from CV causes and hospitalizations and urgent visits for HF NA"
+    },
+    {
+      "type": "paragraph",
+      "text": "DKA, GI, genital mycotic infections, volume depletion Severe hypoglycemia Efpeglenatide AMPLITUDE-O eGFR 25–59.9 ml/min per 1.73 m2 MACE GI Figure 24 | Overview of select large, placebo-controlled clinical outcome trials assessing the benefits and harms of sodium–glucose cotransporter-2 (SGLT2) inhibitors, glucagon￾like peptide-1 (GLP-1) receptor agonists, and dipeptidyl peptidase-4 (DPP-4) inhibitors. ACR, albumin-creatinine ratio; CKD, chronic kidney disease; CrCl, creatinine clearance; CV, cardiovascular; DKA, diabetic ketoacidosis; eGFR, estimated glomerular filtration rate; GFR, glomerular filtration rate; GI, gastrointestinal symptoms (e.g., nausea and vomiting); HF, hospitalization for heart failure; MACE, major adverse cardiovascular events including myocardial infarction, stroke, and cardiovascular death (3-point MACE), with or without the addition of hospitalization for unstable angina (4-point MACE); NA, data not published;. 4, no significant difference. Y, significant reduction in risk, with hazard ratio (HR) estimate >0.7 and 95% confidence interval (CI) not overlapping 1. YY, significant reduction in risk, with HR estimate #0.7 and 95% CI not overlapping 1. *Variable composite outcomes that include loss of eGFR, kidney failure, and related outcomes. †Progression of CKD defined in CREDENCE as doubling of serum creatinine, kidney failure, or death from kidney or cardiovascular causes and in CARMELINA as 40% decline in eGFR, kidney failure, or renal death. ‡DECLARE-TIMI 58 dual primary outcomes: (i) MACE and (ii) the composite of hospitalization for heart failure or CV death. §SUSTAIN-6: injectable semaglutide; PIONEER 6: oral semaglutide. chapter 4 www.kidney-international.org"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

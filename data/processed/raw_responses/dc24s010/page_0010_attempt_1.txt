@@ -1,0 +1,135 @@
+{
+    "page_number": 10,
+    "title": "Table 10.2—High-intensity and moderate-intensity statin therapy",
+    "sections": [
+        {
+            "type": "table",
+            "content": [
+                {
+                    "type": "row",
+                    "content": [
+                        "High-intensity statin therapy",
+                        "(lowers LDL cholesterol by ≥50%)"
+                    ]
+                },
+                {
+                    "type": "row",
+                    "content": [
+                        "Atorvastatin 40–80 mg",
+                        "Rosuvastatin 20–40 mg"
+                    ]
+                },
+                {
+                    "type": "row",
+                    "content": [
+                        "Moderate-intensity statin therapy",
+                        "(lowers LDL cholesterol by 30–49%)"
+                    ]
+                },
+                {
+                    "type": "row",
+                    "content": [
+                        "Atorvastatin 10–20 mg",
+                        "Rosuvastatin 5–10 mg"
+                    ]
+                },
+                {
+                    "type": "row",
+                    "content": [
+                        "Simvastatin 20–40 mg",
+                        "Pravastatin 40–80 mg"
+                    ]
+                },
+                {
+                    "type": "row",
+                    "content": [
+                        "Lovastatin 40 mg",
+                        "Fluvastatin XL 80 mg"
+                    ]
+                },
+                {
+                    "type": "row",
+                    "content": [
+                        "Pitavastatin 1–4 mg",
+                        "Once-daily dosing. XL, extended release."
+                    ]
+                }
+            ]
+        }
+    ],
+    "blocks": [
+        {
+            "type": "paragraph",
+            "text": "As in those without diabetes, absolute reductions in ASCVD outcomes (CHD death and nonfatal MI) are greatest in people with high baseline ASCVD risk (known ASCVD and/or very high LDL cholesterol levels), but the overall benefits of statin therapy in people with diabetes at moderate or even low risk for ASCVD are convincing (103,104). The relative benefit of lipid-lowering therapy has been uniform across most subgroups tested (94,102), including subgroups that varied with respect to age and other risk factors."
+        },
+        {
+            "type": "paragraph",
+            "text": "Primary Prevention (People Without ASCVD) For primary prevention, moderate-dose statin therapy is recommended for those aged ≥40 years (96,103,104), although high-intensity therapy should be considered in the context of additional ASCVD risk factors. The evidence is strong for people with diabetes aged 40–75 years, an age-group well represented in statin trials showing benefit. Since cardiovascular risk is enhanced in people with diabetes, as noted above, individuals who also have multiple other coronary risk factors have increased risk, equivalent to that of those with ASCVD. Therefore, current guidelines recommend that in people with diabetes who are at higher cardiovascular risk, especially those with one or more ASCVD risk factors, high-intensity statin therapy should be prescribed to reduce LDL cholesterol by ≥50% from baseline and to target an LDL cholesterol of <70 mg/dl (<1.8 mmol/l) (105–107). Since, in clinical practice, it is frequently difficult to ascertain the baseline LDL cholesterol level prior to statin therapy initiation, in those individuals, a focus on an LDL cholesterol target level of <70 mg/dl (<1.8 mmol/l) rather than the percent reduction in LDL cholesterol is recommended. In those individuals, it may also be reasonable to add ezetimibe or proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitor therapy to maximum tolerated statin therapy if needed to reduce LDL cholesterol levels by ≥50% and to achieve the recommended LDL cholesterol target of <70 mg/dl (<1.8 mmol/l) (108). While there are no randomized controlled trials specifically assessing cardiovascular outcomes of adding ezetimibe or PCSK9 inhibitors to statin therapy in primary prevention, the Open-Label Study of Long-term Evaluation Against LDL Cholesterol (OSLER) study included ~80% of study participants without established cardiovascular disease. In the treatment group, LDL cholesterol was reduced by 61%, and, although exploratory and not a primary outcome, cardiovascular events were reduced by 18% in the standard-therapy group to 0.95% in the evolocumab group (HR in the evolocumab group 0.47 [95% CI 0.28–0.78]; P = 0.003) (109). Similarly, the Long-term Safety and Tolerability of Alirocumab in High Cardiovascular Risk Patients With Hypercholesterolemia Not Adequately Controlled With Their Lipid-Modifying Therapy (ODYSSEY LONG TERM) included ~30% of study participants without established cardiovascular disease and 33% of people with diabetes. Alirocumab added to statin therapy reduced LDL cholesterol by 62% and major adverse cardiovascular events in a post hoc analysis (1.7% vs. 3.3% compared with placebo; HR 0.52 [95% CI 0.31–0.90]; nominal P = 0.02) (110). In addition, a meta-analysis suggests that there is a cardiovascular benefit of adding ezetimibe or PCSK9 inhibitors to treatment for high-risk people (111). The evidence is lesser for individuals aged >75 years; relatively few older people with diabetes have been enrolled in primary prevention trials. However, heterogeneity by age has not been seen in the relative benefit of lipid-lowering therapy in trials that included older participants (94,101,102), and because older age confers higher risk, the absolute benefits are actually greater (94,112). Moderate-intensity statin therapy is recommended in people with diabetes who are ≥75 years of age. However, the risk-benefit profile should be routinely evaluated in this population, with downward titration of dose performed as needed. See Section 13, \"Older Adults,\" for more details on clinical considerations for this population."
+        },
+        {
+            "type": "paragraph",
+            "text": "Age <40 Years and/or Type 1 Diabetes Very little clinical trial evidence exists for people with type 2 diabetes under the age of 40 years or for people with type 1 diabetes of any age. For pediatric recommendations, see Section 14, \"Children and Adolescents.\" In the Heart Protection Study (lower age limit 40 years), the subgroup of ~600 people with type 1 diabetes had a reduction in risk proportionately similar, although not statistically significant, to that in people with type 2 diabetes (96). Even though the data are not definitive, similar statin treatment approaches should be considered for people with type 1 or type 2 diabetes, particularly in the presence of other cardiovascular risk factors. Individuals <40 years of age have lower risk of developing a cardiovascular event over a 10-year horizon; however, their lifetime risk of developing cardiovascular disease and suffering an MI, stroke, or cardiovascular death is high. For people who are <40 years of age and/or have type 1 diabetes with other ASCVD risk factors, it is recommended that the individual and health care professional discuss the relative benefits and risks and consider the use of moderate-intensity statin therapy. Please refer to \"Type 1 Diabetes Mellitus and Cardiovascular Disease: A Scientific Statement From the American Heart Association and American Diabetes Association\" (113) for additional discussion."
+        },
+        {
+            "type": "paragraph",
+            "text": "Secondary Prevention (People With ASCVD) Because cardiovascular event rates are increased in people with diabetes and established ASCVD, intensive therapy is indicated and has been shown to be of benefit in multiple large meta-analyses and randomized cardiovascular outcomes trials (94,102,112,114,115). High-intensity statin therapy is recommended for all people with diabetes and ASCVD to target an"
+        }
+    ],
+    "tables": [
+        {
+            "type": "table",
+            "content": [
+                {
+                    "type": "row",
+                    "content": [
+                        "High-intensity statin therapy",
+                        "(lowers LDL cholesterol by ≥50%)"
+                    ]
+                },
+                {
+                    "type": "row",
+                    "content": [
+                        "Atorvastatin 40–80 mg",
+                        "Rosuvastatin 20–40 mg"
+                    ]
+                },
+                {
+                    "type": "row",
+                    "content": [
+                        "Moderate-intensity statin therapy",
+                        "(lowers LDL cholesterol by 30–49%)"
+                    ]
+                },
+                {
+                    "type": "row",
+                    "content": [
+                        "Atorvastatin 10–20 mg",
+                        "Rosuvastatin 5–10 mg"
+                    ]
+                },
+                {
+                    "type": "row",
+                    "content": [
+                        "Simvastatin 20–40 mg",
+                        "Pravastatin 40–80 mg"
+                    ]
+                },
+                {
+                    "type": "row",
+                    "content": [
+                        "Lovastatin 40 mg",
+                        "Fluvastatin XL 80 mg"
+                    ]
+                },
+                {
+                    "type": "row",
+                    "content": [
+                        "Pitavastatin 1–4 mg",
+                        "Once-daily dosing. XL, extended release."
+                    ]
+                }
+            ]
+        }
+    ],
+    "figures": []
+}

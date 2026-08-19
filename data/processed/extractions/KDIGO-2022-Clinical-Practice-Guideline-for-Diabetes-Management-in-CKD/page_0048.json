@@ -1,0 +1,41 @@
+{
+  "page_number": 48,
+  "title": null,
+  "sections": [
+    "Patient",
+    "Glycemia",
+    "Volume",
+    "Assessment Intervention Follow-up",
+    "Periprocedural/",
+    "SGLT2",
+    "Kidney International (2022) 102 (Suppl 5S), S1–S127 S47"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Practice Point 1.3.4: If a patient is at risk for hypovolemia, consider decreasing thiazide or loop diuretic dosages before commencement of SGLT2i treatment, advise patients about symptoms of volume depletion and low blood pressure, and follow up on volume status after drug initiation. SGLT2i cause an initial natriuresis with accompanying weight reduction. This may contribute to one of the benefits of these drugs, namely, their consistent reduction in risk for heart failure hospitalizations. However, there is theoretical concern for volume depletion and AKI, particularly among patients treated concurrently with diuretics or who have tenuous volume status. Despite this theoretical concern, clinical trials have shown that the incidence of AKI is decreased with SGLT2i, compared with placebo.97 None￾theless, caution is prudent when initiating an SGLT2i in patients with tenuous volume status and at high risk of AKI. For such patients, reducing the dose of diuretics may be reasonable, and follow-up should be arranged to monitor"
+    },
+    {
+      "type": "paragraph",
+      "text": "selection"
+    },
+    {
+      "type": "paragraph",
+      "text": "Practical provider guide to initiating SGLT2 inhibitors in patients with type 2 diabetes and CKD"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hypoglycemia risk? • Insulin or sulfonylurea • History of severe hypoglycemia • HbA1c at or below goal Volume depletion risk? • Concurrent diuretic use • Tenuous volume status • History of AKI SGLT2 inhibitor with proven benefits: • Canagliflozin 100 mg • Dapagliflozin 10 mg • Empagliflozin 10 mg Education: • Sick day protocol* • Perioperative care† • Foot care • Assess adverse effects • Review knowledge • Anticipate an acute drop in eGFR, which is generally not a reason to stop the SGLT2 inhibitor Eligible patients: • eGFR ≥20 ml/min/1.73 m2 High priority features: • ACR ≥200 mg/g [≥20 mg/mmol] • Heart failure Potential contraindications: • Genital infection risk • Diabetic ketoacidosis • Foot ulcers • Immunosuppression If high If high Education: • Hypoglycemia symptoms • Glycemia monitoring Consider insulin/sulfonylurea dose reduction Education: • Volume depletion symptoms Consider diuretic dose reduction • Ask about hypoglycemia • Reduce sulfonylurea or insulin if needed • Re-assess volume • Reduce concomitant diuretic if needed Figure 6 | Practical approach to initiating sodium-glucose cotransporter-2 inhibitors (SGLT2i) in patients with type 2 diabetes and chronic kidney disease (CKD). *Sick day protocol (for illness or excessive exercise or alcohol intake): temporarily withhold SGLT2i, keep drinking and eating (if possible), check blood glucose and blood ketone levels more often, and seek medical help early. †"
+    },
+    {
+      "type": "paragraph",
+      "text": "perioperative care: inform patients about risk of diabetic ketoacidosis; withhold SGLT2i the day of day-stay procedures and limit fasting to minimum required; withhold SGLT2i at least 2 days in advance and the day of procedures/surgery requiring 1 or more days in hospital and/or bowel preparation (which may require increasing other glucose-lowering drugs during that time), measure both blood glucose and blood ketone levels on hospital admission (proceed with procedure/surgery if the patient is clinically well and ketones are <1.0 mmol/l), and restart SGLT2i after procedure/surgery only when eating and drinking normally. Adapted from Zoungas S, de Boer IH. SGLT2 inhibitors in diabetic kidney disease. Clin J Am Soc Nephrol. 2021;16:631–633.148 Copyright ª 2021 by the American Society of Nephrology. ACR, albumin-creatinine ratio; AKI, acute kidney injury; eGFR, estimated glomerular filtration rate; HbA1c, glycated hemoglobin."
+    },
+    {
+      "type": "paragraph",
+      "text": "inhibitor Dose Kidney function eligible for inclusion in pivotal Dosing approved by the US FDA randomized trials 10 mg daily eGFR ≥25 ml/min per 1.73 m2 10 mg daily (Can increase to 25 mg daily if needed for glucose control) eGFR ≥30 ml/min per 1.73 m2 for T2D and ASCVD for glucose control eGFR ≥20 ml/min per 1.73m2 for HF 100 mg daily (The higher dose of 300 mg is not recommended for CKD) eGFR ≥25 ml/min per 1.73 m2 in DAPA-CKD eGFR ≥30 ml/min per 1.73 m2 in DAPA-HF and DECLARE eGFR ≥30 ml/min per 1.73 m2 in EMPA-REG eGFR ≥20 ml/min per 1.73 m2 in EMPEROR-Reduced and EMPEROR-Preserved eGFR ≥30 ml/min per 1.73 m2 in CREDENCE eGFR ≥30 ml/min per 1.73 m2 Figure 7 | Sodium–glucose cotransporter-2 inhibitors (SGLT2i) with established kidney and cardiovascular benefits and dose adjustments as approved by the US Food and Drug Administration (FDA) (take note of country-to-country variation). ASCVD, atherosclerotic cardiovascular disease; CKD, chronic kidney disease; eGFR, estimated glomerular filtration rate; HF, heart failure; T2D, type 2 diabetes. www.kidney-international.org chapter 1"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

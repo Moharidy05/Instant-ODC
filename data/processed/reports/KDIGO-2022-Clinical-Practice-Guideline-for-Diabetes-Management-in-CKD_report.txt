@@ -1,0 +1,154 @@
+======================================================================
+MEDICAL PDF EXTRACTION REPORT
+======================================================================
+PDF: G:\Projects\Instant-ODC\data\raw\KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD.pdf
+Pages: 128
+
+Successful: 127
+Review: 1
+Needs re-extraction: 0
+Empty pages (terminal): 0
+Native extraction: 127
+Qwen extraction: 1
+Recovered by retry: 0
+Success rate: 99.22%
+Processing time: 72.35s
+
+RE-EXTRACTION QUEUE
+----------------------------------------------------------------------
+No pages require re-extraction.
+
+REVIEW QUEUE
+----------------------------------------------------------------------
+Page 2: low_content_88_characters
+
+PAGE DETAILS
+----------------------------------------------------------------------
+Page 1: success | method=native | attempts=1 | chars=222 | time=0.01s
+Page 2: review | method=qwen | attempts=1 | chars=88 | time=31.43s
+Page 3: success | method=native | attempts=1 | chars=1831 | time=0.01s
+Page 4: success | method=native | attempts=1 | chars=3780 | time=0.01s
+Page 5: success | method=native | attempts=1 | chars=3486 | time=0.01s
+Page 6: success | method=native | attempts=1 | chars=3509 | time=0.01s
+Page 7: success | method=native | attempts=1 | chars=2858 | time=0.01s
+Page 8: success | method=native | attempts=1 | chars=1076 | time=0.01s
+Page 9: success | method=native | attempts=1 | chars=1571 | time=0.01s
+Page 10: success | method=native | attempts=1 | chars=1016 | time=0.01s
+Page 11: success | method=native | attempts=1 | chars=2049 | time=0.01s
+Page 12: success | method=native | attempts=1 | chars=1396 | time=0.01s
+Page 13: success | method=native | attempts=1 | chars=2823 | time=0.01s
+Page 14: success | method=native | attempts=1 | chars=3485 | time=0.01s
+Page 15: success | method=native | attempts=1 | chars=1689 | time=0.01s
+Page 16: success | method=native | attempts=1 | chars=708 | time=0.01s
+Page 17: success | method=native | attempts=1 | chars=2047 | time=0.01s
+Page 18: success | method=native | attempts=1 | chars=6286 | time=0.02s
+Page 19: success | method=native | attempts=1 | chars=2167 | time=0.01s
+Page 20: success | method=native | attempts=1 | chars=2824 | time=0.07s
+Page 21: success | method=native | attempts=1 | chars=3523 | time=0.13s
+Page 22: success | method=native | attempts=1 | chars=3391 | time=0.01s
+Page 23: success | method=native | attempts=1 | chars=4268 | time=0.02s
+Page 24: success | method=native | attempts=1 | chars=2944 | time=0.01s
+Page 25: success | method=native | attempts=1 | chars=3319 | time=0.01s
+Page 26: success | method=native | attempts=1 | chars=2004 | time=0.04s
+Page 27: success | method=native | attempts=1 | chars=2180 | time=0.01s
+Page 28: success | method=native | attempts=1 | chars=2808 | time=0.02s
+Page 29: success | method=native | attempts=1 | chars=1438 | time=0.01s
+Page 30: success | method=native | attempts=1 | chars=5316 | time=0.02s
+Page 31: success | method=native | attempts=1 | chars=4381 | time=0.05s
+Page 32: success | method=native | attempts=1 | chars=4186 | time=0.08s
+Page 33: success | method=native | attempts=1 | chars=6045 | time=0.02s
+Page 34: success | method=native | attempts=1 | chars=6236 | time=0.04s
+Page 35: success | method=native | attempts=1 | chars=3173 | time=0.01s
+Page 36: success | method=native | attempts=1 | chars=4291 | time=0.01s
+Page 37: success | method=native | attempts=1 | chars=6137 | time=0.02s
+Page 38: success | method=native | attempts=1 | chars=5717 | time=0.02s
+Page 39: success | method=native | attempts=1 | chars=5815 | time=0.01s
+Page 40: success | method=native | attempts=1 | chars=3358 | time=0.02s
+Page 41: success | method=native | attempts=1 | chars=3032 | time=0.02s
+Page 42: success | method=native | attempts=1 | chars=6117 | time=0.02s
+Page 43: success | method=native | attempts=1 | chars=6279 | time=0.03s
+Page 44: success | method=native | attempts=1 | chars=6316 | time=0.02s
+Page 45: success | method=native | attempts=1 | chars=6273 | time=0.02s
+Page 46: success | method=native | attempts=1 | chars=6297 | time=0.03s
+Page 47: success | method=native | attempts=1 | chars=5935 | time=0.02s
+Page 48: success | method=native | attempts=1 | chars=4743 | time=0.02s
+Page 49: success | method=native | attempts=1 | chars=5671 | time=0.02s
+Page 50: success | method=native | attempts=1 | chars=3809 | time=0.01s
+Page 51: success | method=native | attempts=1 | chars=6345 | time=0.02s
+Page 52: success | method=native | attempts=1 | chars=6423 | time=0.02s
+Page 53: success | method=native | attempts=1 | chars=5593 | time=0.02s
+Page 54: success | method=native | attempts=1 | chars=5572 | time=0.02s
+Page 55: success | method=native | attempts=1 | chars=4354 | time=0.02s
+Page 56: success | method=native | attempts=1 | chars=4988 | time=0.02s
+Page 57: success | method=native | attempts=1 | chars=4120 | time=0.01s
+Page 58: success | method=native | attempts=1 | chars=5311 | time=0.01s
+Page 59: success | method=native | attempts=1 | chars=3970 | time=0.04s
+Page 60: success | method=native | attempts=1 | chars=4634 | time=0.02s
+Page 61: success | method=native | attempts=1 | chars=5240 | time=0.02s
+Page 62: success | method=native | attempts=1 | chars=6096 | time=0.02s
+Page 63: success | method=native | attempts=1 | chars=2930 | time=0.01s
+Page 64: success | method=native | attempts=1 | chars=5025 | time=0.02s
+Page 65: success | method=native | attempts=1 | chars=3837 | time=0.02s
+Page 66: success | method=native | attempts=1 | chars=5699 | time=0.02s
+Page 67: success | method=native | attempts=1 | chars=4694 | time=0.06s
+Page 68: success | method=native | attempts=1 | chars=4179 | time=0.01s
+Page 69: success | method=native | attempts=1 | chars=4356 | time=0.03s
+Page 70: success | method=native | attempts=1 | chars=6111 | time=0.03s
+Page 71: success | method=native | attempts=1 | chars=5781 | time=0.02s
+Page 72: success | method=native | attempts=1 | chars=5456 | time=0.02s
+Page 73: success | method=native | attempts=1 | chars=4758 | time=0.02s
+Page 74: success | method=native | attempts=1 | chars=4350 | time=0.02s
+Page 75: success | method=native | attempts=1 | chars=1316 | time=0.01s
+Page 76: success | method=native | attempts=1 | chars=3826 | time=0.05s
+Page 77: success | method=native | attempts=1 | chars=3868 | time=0.02s
+Page 78: success | method=native | attempts=1 | chars=5995 | time=0.02s
+Page 79: success | method=native | attempts=1 | chars=3221 | time=0.01s
+Page 80: success | method=native | attempts=1 | chars=5493 | time=0.02s
+Page 81: success | method=native | attempts=1 | chars=5839 | time=0.02s
+Page 82: success | method=native | attempts=1 | chars=3245 | time=0.01s
+Page 83: success | method=native | attempts=1 | chars=6219 | time=0.02s
+Page 84: success | method=native | attempts=1 | chars=4178 | time=0.02s
+Page 85: success | method=native | attempts=1 | chars=6419 | time=0.02s
+Page 86: success | method=native | attempts=1 | chars=6188 | time=0.02s
+Page 87: success | method=native | attempts=1 | chars=6232 | time=0.02s
+Page 88: success | method=native | attempts=1 | chars=4570 | time=0.01s
+Page 89: success | method=native | attempts=1 | chars=3137 | time=0.01s
+Page 90: success | method=native | attempts=1 | chars=3870 | time=0.01s
+Page 91: success | method=native | attempts=1 | chars=6006 | time=0.02s
+Page 92: success | method=native | attempts=1 | chars=5176 | time=0.02s
+Page 93: success | method=native | attempts=1 | chars=3856 | time=0.02s
+Page 94: success | method=native | attempts=1 | chars=5840 | time=0.02s
+Page 95: success | method=native | attempts=1 | chars=4352 | time=0.02s
+Page 96: success | method=native | attempts=1 | chars=4189 | time=0.02s
+Page 97: success | method=native | attempts=1 | chars=3621 | time=0.02s
+Page 98: success | method=native | attempts=1 | chars=4749 | time=0.02s
+Page 99: success | method=native | attempts=1 | chars=4436 | time=0.01s
+Page 100: success | method=native | attempts=1 | chars=3675 | time=0.01s
+Page 101: success | method=native | attempts=1 | chars=4338 | time=0.01s
+Page 102: success | method=native | attempts=1 | chars=5699 | time=0.02s
+Page 103: success | method=native | attempts=1 | chars=3412 | time=0.01s
+Page 104: success | method=native | attempts=1 | chars=4739 | time=0.02s
+Page 105: success | method=native | attempts=1 | chars=4993 | time=0.01s
+Page 106: success | method=native | attempts=1 | chars=1909 | time=0.01s
+Page 107: success | method=native | attempts=1 | chars=4796 | time=0.02s
+Page 108: success | method=native | attempts=1 | chars=5887 | time=0.02s
+Page 109: success | method=native | attempts=1 | chars=5164 | time=0.01s
+Page 110: success | method=native | attempts=1 | chars=5138 | time=0.02s
+Page 111: success | method=native | attempts=1 | chars=5293 | time=0.01s
+Page 112: success | method=native | attempts=1 | chars=5415 | time=0.02s
+Page 113: success | method=native | attempts=1 | chars=5430 | time=0.02s
+Page 114: success | method=native | attempts=1 | chars=4991 | time=0.01s
+Page 115: success | method=native | attempts=1 | chars=1954 | time=0.01s
+Page 116: success | method=native | attempts=1 | chars=5458 | time=0.01s
+Page 117: success | method=native | attempts=1 | chars=512 | time=0.00s
+Page 118: success | method=native | attempts=1 | chars=8478 | time=0.02s
+Page 119: success | method=native | attempts=1 | chars=8881 | time=0.02s
+Page 120: success | method=native | attempts=1 | chars=9431 | time=0.02s
+Page 121: success | method=native | attempts=1 | chars=9110 | time=0.03s
+Page 122: success | method=native | attempts=1 | chars=9123 | time=0.02s
+Page 123: success | method=native | attempts=1 | chars=9188 | time=0.02s
+Page 124: success | method=native | attempts=1 | chars=9190 | time=0.03s
+Page 125: success | method=native | attempts=1 | chars=8834 | time=0.02s
+Page 126: success | method=native | attempts=1 | chars=9274 | time=0.03s
+Page 127: success | method=native | attempts=1 | chars=8937 | time=0.02s
+Page 128: success | method=native | attempts=1 | chars=3324 | time=0.01s

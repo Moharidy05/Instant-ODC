@@ -1,0 +1,537 @@
+{
+    "page_number": 18,
+    "title": "Table 10.3A—Cardiovascular and cardiorenal outcomes trials of available antihyperglycemic medications completed after the issuance of the FDA 2008 guidelines: DPP-4 inhibitors",
+    "sections": [],
+    "blocks": [
+        {
+            "type": "table",
+            "content": [
+                {
+                    "row": [
+                        {
+                            "cell": "SAVOR-TIMI 53 (289) (n = 16,492)"
+                        },
+                        {
+                            "cell": "EXAMINE (311) (n = 5,380)"
+                        },
+                        {
+                            "cell": "TECOS (291) (n = 14,671)"
+                        },
+                        {
+                            "cell": "CARMELINA (292,312) (n = 6,979)"
+                        },
+                        {
+                            "cell": "CAROLINA (246) (n = 6,042)"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": "Intervention"
+                        },
+                        {
+                            "cell": "Saxagliptin/placebo"
+                        },
+                        {
+                            "cell": "Alogliptin/placebo"
+                        },
+                        {
+                            "cell": "Sitagliptin/placebo"
+                        },
+                        {
+                            "cell": "Linagliptin/placebo"
+                        },
+                        {
+                            "cell": "Linagliptin/glimepiride"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": "Main inclusion criteria"
+                        },
+                        {
+                            "cell": "Type 2 diabetes and history of or multiple risk factors for CVD"
+                        },
+                        {
+                            "cell": "Type 2 diabetes and ACS within 15–90 days before randomization"
+                        },
+                        {
+                            "cell": "Type 2 diabetes and preexisting CVD"
+                        },
+                        {
+                            "cell": "Type 2 diabetes and high CV and renal risk"
+                        },
+                        {
+                            "cell": "Type 2 diabetes and high CV risk"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": "A1C inclusion criteria (%)"
+                        },
+                        {
+                            "cell": "≥6.5"
+                        },
+                        {
+                            "cell": "6.5–11.0"
+                        },
+                        {
+                            "cell": "6.5–8.0"
+                        },
+                        {
+                            "cell": "6.5–10.0"
+                        },
+                        {
+                            "cell": "6.5–8.5"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": "Age (years)*"
+                        },
+                        {
+                            "cell": "65.1"
+                        },
+                        {
+                            "cell": "61.0"
+                        },
+                        {
+                            "cell": "65.4"
+                        },
+                        {
+                            "cell": "65.8"
+                        },
+                        {
+                            "cell": "64.0"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": "Race (% White)"
+                        },
+                        {
+                            "cell": "75.2"
+                        },
+                        {
+                            "cell": "72.7"
+                        },
+                        {
+                            "cell": "67.9"
+                        },
+                        {
+                            "cell": "80.2"
+                        },
+                        {
+                            "cell": "73.0"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": "Sex (% male)"
+                        },
+                        {
+                            "cell": "66.9"
+                        },
+                        {
+                            "cell": "67.9"
+                        },
+                        {
+                            "cell": "70.7"
+                        },
+                        {
+                            "cell": "62.9"
+                        },
+                        {
+                            "cell": "60.0"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": "Diabetes duration (years)*"
+                        },
+                        {
+                            "cell": "10.3"
+                        },
+                        {
+                            "cell": "7.1"
+                        },
+                        {
+                            "cell": "11.6"
+                        },
+                        {
+                            "cell": "14.7"
+                        },
+                        {
+                            "cell": "6.2"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": "Median follow-up (years)"
+                        },
+                        {
+                            "cell": "2.1"
+                        },
+                        {
+                            "cell": "1.5"
+                        },
+                        {
+                            "cell": "3.0"
+                        },
+                        {
+                            "cell": "2.2"
+                        },
+                        {
+                            "cell": "6.3"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": "Statin use (%)"
+                        },
+                        {
+                            "cell": "78"
+                        },
+                        {
+                            "cell": "91"
+                        },
+                        {
+                            "cell": "80"
+                        },
+                        {
+                            "cell": "71.8"
+                        },
+                        {
+                            "cell": "64.1"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": "Metformin use (%)"
+                        },
+                        {
+                            "cell": "70"
+                        },
+                        {
+                            "cell": "66"
+                        },
+                        {
+                            "cell": "82"
+                        },
+                        {
+                            "cell": "54.8"
+                        },
+                        {
+                            "cell": "82.5"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": "Prior CVD/CHF (%)"
+                        },
+                        {
+                            "cell": "78/13"
+                        },
+                        {
+                            "cell": "100/28"
+                        },
+                        {
+                            "cell": "74/18"
+                        },
+                        {
+                            "cell": "57/26.8"
+                        },
+                        {
+                            "cell": "34.5/4.5"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": "Mean baseline A1C (%)"
+                        },
+                        {
+                            "cell": "8.0"
+                        },
+                        {
+                            "cell": "8.0"
+                        },
+                        {
+                            "cell": "7.2"
+                        },
+                        {
+                            "cell": "7.9"
+                        },
+                        {
+                            "cell": "7.2"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": "Mean difference in A1C between groups at end of treatment (%)"
+                        },
+                        {
+                            "cell": "−0.3†"
+                        },
+                        {
+                            "cell": "−0.3†"
+                        },
+                        {
+                            "cell": "−0.3†"
+                        },
+                        {
+                            "cell": "−0.36†"
+                        },
+                        {
+                            "cell": "0"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": "Year started/ reported"
+                        },
+                        {
+                            "cell": "2010/2013"
+                        },
+                        {
+                            "cell": "2009/2013"
+                        },
+                        {
+                            "cell": "2008/2015"
+                        },
+                        {
+                            "cell": "2013/2018"
+                        },
+                        {
+                            "cell": "2010/2019"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": "Primary outcome†"
+                        },
+                        {
+                            "cell": "3-point MACE 1.00 (0.89–1.12)"
+                        },
+                        {
+                            "cell": "3-point MACE 0.96 (0.85–1.12)"
+                        },
+                        {
+                            "cell": "4-point MACE 0.98 (0.89–1.08)"
+                        },
+                        {
+                            "cell": "3-point MACE 1.02 (0.89–1.17)"
+                        },
+                        {
+                            "cell": "3-point MACE 0.98 (0.84–1.14)"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": "Key secondary outcome†"
+                        },
+                        {
+                            "cell": "Expanded MACE 1.02 (0.94–1.11)"
+                        },
+                        {
+                            "cell": "4-point MACE 0.95 (0.84–1.14)"
+                        },
+                        {
+                            "cell": "3-point MACE 0.99 (0.89–1.10)"
+                        },
+                        {
+                            "cell": "Kidney composite (ESRD, sustained ≥40% decrease in eGFR, or renal death) 1.04 (0.89–1.22)"
+                        },
+                        {
+                            "cell": "4-point MACE 0.99 (0.86–1.14)"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": "Cardiovascular death†"
+                        },
+                        {
+                            "cell": "1.03 (0.87–1.22)"
+                        },
+                        {
+                            "cell": "0.85 (0.66–1.10)"
+                        },
+                        {
+                            "cell": "1.03 (0.89–1.19)"
+                        },
+                        {
+                            "cell": "0.96 (0.81–1.14)"
+                        },
+                        {
+                            "cell": "1.00 (0.81–1.24)"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": "MI†"
+                        },
+                        {
+                            "cell": "0.95 (0.80–1.12)"
+                        },
+                        {
+                            "cell": "1.08 (0.88–1.33)"
+                        },
+                        {
+                            "cell": "0.95 (0.81–1.11)"
+                        },
+                        {
+                            "cell": "1.12 (0.90–1.40)"
+                        },
+                        {
+                            "cell": "1.03 (0.82–1.29)"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": "Stroke†"
+                        },
+                        {
+                            "cell": "1.11 (0.88–1.39)"
+                        },
+                        {
+                            "cell": "0.91 (0.55–1.50)"
+                        },
+                        {
+                            "cell": "0.97 (0.79–1.19)"
+                        },
+                        {
+                            "cell": "0.91 (0.67–1.23)"
+                        },
+                        {
+                            "cell": "0.86 (0.66–1.12)"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": "HF hospitalization†"
+                        },
+                        {
+                            "cell": "1.27 (1.07–1.51)"
+                        },
+                        {
+                            "cell": "1.19 (0.90–1.58)"
+                        },
+                        {
+                            "cell": "1.00 (0.83–1.20)"
+                        },
+                        {
+                            "cell": "0.90 (0.74–1.08)"
+                        },
+                        {
+                            "cell": "1.21 (0.92–1.59)"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": "Unstable angina hospitalization†"
+                        },
+                        {
+                            "cell": "1.19 (0.89–1.60)"
+                        },
+                        {
+                            "cell": "0.90 (0.60–1.37)"
+                        },
+                        {
+                            "cell": "0.90 (0.70–1.16)"
+                        },
+                        {
+                            "cell": "0.87 (0.57–1.31)"
+                        },
+                        {
+                            "cell": "1.07 (0.74–1.54)"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": "All-cause mortality†"
+                        },
+                        {
+                            "cell": "1.11 (0.96–1.27)"
+                        },
+                        {
+                            "cell": "0.88 (0.71–1.09)"
+                        },
+                        {
+                            "cell": "1.01 (0.90–1.14)"
+                        },
+                        {
+                            "cell": "0.98 (0.84–1.13)"
+                        },
+                        {
+                            "cell": "0.91 (0.78–1.06)"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": "Worsening nephropathy†$"
+                        },
+                        {
+                            "cell": "1.08 (0.88–1.32)"
+                        },
+                        {
+                            "cell": "—"
+                        },
+                        {
+                            "cell": "—"
+                        },
+                        {
+                            "cell": "Kidney composite (see above)"
+                        },
+                        {
+                            "cell": "—"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

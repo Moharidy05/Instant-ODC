@@ -1,0 +1,93 @@
+{
+  "page_number": 99,
+  "title": null,
+  "sections": [
+    "Intervention ACEi and ARB",
+    "Study design RCT",
+    "SoF tables Supplementary Tables S4, S5, S29, S30, and S34",
+    "Study design RCT",
+    "SoF tables Supplementary Table S31",
+    "Intervention SGLT2i",
+    "Study design RCT",
+    "Syst Rev. 2018;9:CD011798.129",
+    "Database Syst Rev. 2017;2:CD009966.459",
+    "SoF tables Supplementary Tables S6, S32, S33",
+    "Study design RCT",
+    "2014;CD007004.168",
+    "SoF tables Supplementary Tables S7–S9, S32–S35",
+    "Intervention Potassium binders",
+    "Study design RCT",
+    "2020;6:CD013165.461",
+    "SoF tables Supplementary Tables S42–S46",
+    "Intervention Antiplatelet therapy",
+    "S98 Kidney International (2022) 102 (Suppl 5S), S1–S127"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Table 2 | Clinical questions and systematic review topics in the PICOM format Guideline chapter 1 Comprehensive care in patients with diabetes and CKD Clinical question Do RAS inhibitors improve clinically relevant outcomes and reduce clinically relevant harms in patients with diabetes and CKD? Population Adults with CKD (G1–G5, G5D) and diabetes (T1D and T2D)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Comparator Standard of care/placebo Outcomes Critical and important outcomes listed in Table 1 Additional outcomes: AKI, hyperkalemia"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cochrane systematic reviews Strippoli et al. Angiotensin converting enzyme inhibitors and angiotensin II receptor antagonists for preventing the progression of diabetic kidney disease. Cochrane Database Syst Rev. 2006;CD006257.15"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clinical question Does dual RAS inhibition compared to mono RAS inhibition improve clinically relevant outcomes and reduce clinically relevant harms in patients with diabetes and CKD? Population Adults with CKD (G1–G5, G5D) and diabetes (T1D and T2D) Intervention Dual RAS inhibition (ACEi and ARB) Comparator Mono RAS inhibition (ACEi or ARB) Outcomes Critical and important outcomes listed in Table 1 Additional outcomes: AKI, hyperkalemia"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cochrane systematic reviews Strippoli et al. Angiotensin converting enzyme inhibitors and angiotensin II receptor antagonists for preventing the progression of diabetic kidney disease. Cochrane Database Syst Rev. 2006;CD006257.15"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clinical question In patients with T2D and CKD, what are the effects of SGLT2i on clinically relevant outcomes and clinically relevant harms? Population Adults with CKD (G1–G5, G5D, G1T–G5T) and diabetes (T2D)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Comparator Standard of care/placebo Outcomes Critical and important outcomes listed in Table 1 Long-term harms: hypoglycemia, lactic acidosis, amputation, bone fractures"
+    },
+    {
+      "type": "paragraph",
+      "text": "Long-term harms: systematic review of observational studies Cochrane systematic reviews Lo et al. Insulin and glucose-lowering agents for treating people with diabetes and chronic kidney disease. Cochrane Database"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lo et al. Glucose-lowering agents for treating pre-existing and new-onset diabetes in kidney transplant recipients. Cochrane"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clinical question Does the addition of medication blocking the action of aldosterone on RAS compared to standard of care or RAS inhibition alone improve clinically important outcomes and reduce clinically relevant harms in patients with diabetes and CKD? Population Adults with CKD (G1–G5, G5D) and diabetes (T1D and T2D) Intervention Mineralocorticoid receptor antagonists or direct renin inhibitors Comparator Standard of care or RAS inhibition Outcomes Critical and important outcomes listed in Table 1 Additional outcomes: AKI, hyperkalemia"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cochrane systematic reviews Andad et al. Direct renin inhibitors for preventing the progression of diabetic kidney disease (protocol). Cochrane Database Syst Rev. 2013:9;CD010724.458 Bolignano et al. Aldosterone antagonists for preventing the progression of chronic kidney disease. Cochrane Database Syst Rev."
+    },
+    {
+      "type": "paragraph",
+      "text": "Clinical question In patients with CKD with chronic hyperkalemia and diabetes, compared to usual care, does the use of potassium binders improve clinically relevant outcomes and reduce clinically relevant harms? Population Adults with CKD (G1–G5, G5D, G1T–G5T) and chronic hyperkalemia and diabetes (T1D and T2D)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Comparator Standard of care Outcomes Critical and important outcomes listed in Table 1 Additional outcomes: hyperkalemia, AKI"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cochrane systematic reviews Natale et al. Potassium binders for chronic hyperkalaemia in people with chronic kidney disease. Cochrane Database Syst Rev."
+    },
+    {
+      "type": "paragraph",
+      "text": "Clinical question Do antiplatelet therapies improve clinically relevant outcomes and reduce clinically relevant harms in patients with diabetes and CKD? Population Adults with CKD (G1–G5, G5D, G1T–G5T) and diabetes (T1D and T2D)"
+    },
+    {
+      "type": "paragraph",
+      "text": "(Continued on following page) methods for guideline development www.kidney-international.org"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

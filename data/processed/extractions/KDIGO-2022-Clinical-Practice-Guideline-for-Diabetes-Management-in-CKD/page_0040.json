@@ -1,0 +1,62 @@
+{
+  "page_number": 40,
+  "title": null,
+  "sections": [
+    "EMPA-REG CANVAS",
+    "CREDENCE",
+    "[HR: 0.61; 95% CI: 0.53–0.70]",
+    "EMPA-KIDNEY",
+    "Expected ≥3",
+    "[HR: 0.53; 95% CI: 0.33–0.84]",
+    "0.61; 95% CI: 0.47–0.80",
+    "DAPA-CKD",
+    "ACR Median",
+    "95% CI: 0.51– 0.72",
+    "KIDNEY TRIALS CARDIOVASCULAR TRIALS",
+    "Kidney International (2022) 102 (Suppl 5S), S1–S127 S39"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Drug"
+    },
+    {
+      "type": "paragraph",
+      "text": "once daily 25 mg once daily 300 mg once daily Total of participants Kidney outcome results Kidney outcome CV outcome results Primary outcome(s) Follow-up (yr) ACR % with eGFR <60 Mean eGFR at enrollment (ml/min per 1.73 m2) eGFR criteria for enrollment (ml/min per 1.73 m2) % with CVD 7020 Incident/worsening nephropathy: 12.7%"
+    },
+    {
+      "type": "paragraph",
+      "text": "Incident albuminuria: NS Incident or worsening nephropathy (progression to severely increased albuminuria, doubling of SCr, initiation of KRT, or renal death) and incident albuminuria MACE: HR: 0.86; 95% CI: 0.74–0.99; hospitalization for HF: HR 0.65; 95% CI: 0.50–0.85 MACE 3.1 No criteria ACR <30 mg/g [<3 mg/mmol] in 60%; 30–300 mg/g [3–30 mg/mmol] in 30%; >300 mg/g [>30 mg/mmol] in 10% 26 74 ≥30 100"
+    },
+    {
+      "type": "paragraph",
+      "text": "6609 [Trial stopped early due to positive results] First occurrence of kidney failure, sustained decline in eGFR to <10 ml/min/ 1.73 m2, sustained decline in eGFR ≥40%, or renal death Not reported First occurrence of a composite of kidney disease progression (kidney failure, sustained decline in eGFR to <10 ml/min/ 1.73 m2, sustained decline in eGFR ≥40%, or renal death) or CV death"
+    },
+    {
+      "type": "paragraph",
+      "text": "eGFR ≥45–<90: ACR ≥200 mg/g [≥20 mg/mmol] (or PCR ≥300 mg/g [≥30 mg/mmol]) No ACR criteria for eGFR ≥40–<45 Median ACR 412 mg/g [41.2 mg/mmol] No information [<45: 5185 (78%); ≥45: 1424 (22%)] 37.5 ≥20–<45 or ≥45–<90 27 10,142 Composite kidney: 1.5 vs. 2.8 per 1000 patient-years in the"
+    },
+    {
+      "type": "paragraph",
+      "text": "Composite doubling in SCr, kidney failure, or death from kidney causes MACE: HR: 0.86; 95% CI: 0.75–0.97; hospitalization for HF: HR 0.67; 95% CI: 0.52–0.87 MACE 2.4 No criteria Median ACR 12.3 mg/g [1.23 mg/mmol] 20 76 ≥30 66 4401 Primary kidney: HR: 0.70; 95% CI: 0.59–0.82 Composite of kidney failure, doubling SCr, or death from kidney or CV causes CV death, MI, stroke: HR: 0.80; 95% CI: 0.67–0.95; hospitalization for HF: HR:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Composite of kidney failure, doubling of SCr, or death from kidney or CV causes 2.6 Criteria: ACR >300–5000 mg/g [>30–500 mg/mmol] Median ACR 927 mg/g [92.7 mg/mmol] 59 56 30–90 50"
+    },
+    {
+      "type": "paragraph",
+      "text": "once daily 4304 37.4 25–75 43 88 ACR 200–5000 mg/g [20–500 mg/mmol]"
+    },
+    {
+      "type": "paragraph",
+      "text": "DAPA: 965 mg/g [96.5 mg/ mmol]; Placebo: 934 mg/g [93.4 mg/mmol] 2.4 First occurrence of a ≥50% decline in eGFR, the onset of kidney failure, or death from kidney or CV causes First occurrence of a ≥50% decline in eGFR, the onset of kidney failure, or death from kidney or CV causes Secondary composite of CV death or hospitalization for HF: HR: 0.71; 95% CI: 0.55-0.92 Primary outcome: HR: 0.61;"
+    },
+    {
+      "type": "paragraph",
+      "text": "Figure 5 | Cardiovascular and kidney outcome trials for sodium–glucose cotransporter-2 inhibitors (SGLT2i). ACR, albumin-creatinine ratio; CI, confidence interval; CrCl, creatinine clearance; CV, cardiovascular; CVD, cardiovascular disease; eGFR, estimated glomerular filtration rate; GFR, glomerular filtration rate; HF, heart failure; HR, hazard ratio; KRT, kidney replacement therapy; MACE, major adverse cardiovascular events; MI, myocardial infarction; N/A, not applicable; NS, not significant; PCR, protein-creatinine ratio; SCr, serum creatinine; T2D, type 2 diabetes. (Continued) www.kidney-international.org chapter 1"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

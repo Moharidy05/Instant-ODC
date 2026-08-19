@@ -1,0 +1,23 @@
+{
+    "page_number": 7,
+    "title": "Recommendations for the Treatment of Confirmed Hypertension in Nonpregnant People With Diabetes",
+    "sections": [
+        {
+            "type": "figure",
+            "content": "Figure 10.2 - Recommendations for the treatment of confirmed hypertension in nonpregnant people with diabetes. *An ACE inhibitor (ACEi) or angiotensin receptor blocker (ARB) is suggested to treat hypertension for people with coronary artery disease (CAD) or urine albumin-to-creatinine ratio 30–299 mg/g creatinine and strongly recommended for individuals with urine albumin-to-creatinine ratio ≥300 mg/g creatinine. +Dihydropyridine calcium channel blocker (CCB). †Thiazide-like diuretic; long-acting agents shown to reduce cardiovascular events, such as chlorothalidone and indapamide, are preferred. BP, blood pressure. Adapted from de Boer et al. (18)."
+  	}
+    ],
+    "blocks": [
+        {
+            "type": "paragraph",
+            "text": "  creatinine A or 30–299 mg/g creatinine. B If one class is not tolerated, the other should be substituted. B 10.12 For adults treated with an ACE inhibitor, ARB, mineralocorticoid receptor antagonist (MRA), or diuretic, serum creatinine/estimated glomerular filtration rate and serum potassium levels should be monitored within 7–14 days after initiation of therapy and at least annually. B  Initial Number of Antihypertensive Medications. Initial treatment for people with diabetes depends on the severity of hypertension (Fig. 10.2). Those with blood pressure between 130/80 mmHg and 150/ 90 mmHg may begin with a single drug. For individuals with blood pressure ≥150/ 90 mmHg, initial pharmacologic treatment with two antihypertensive medications is recommended in order to more effectively achieve adequate blood pressure control (56–58). Single-pill antihypertensive combinations may improve"
+  	}
+    ],
+    "tables": [],
+    "figures": [
+        {
+            "type": "figure",
+            "content": "Figure 10.2 - Recommendations for the treatment of confirmed hypertension in nonpregnant people with diabetes. *An ACE inhibitor (ACEi) or angiotensin receptor blocker (ARB) is suggested to treat hypertension for people with coronary artery disease (CAD) or urine albumin-to-creatinine ratio 30–299 mg/g creatinine and strongly recommended for individuals with urine albumin-to-creatinine ratio ≥300 mg/g creatinine. +Dihydropyridine calcium channel blocker (CCB). †Thiazide-like diuretic; long-acting agents shown to reduce cardiovascular events, such as chlorothalidone and indapamide, are preferred. BP, blood pressure. Adapted from de Boer et al. (18)."
+  	}
+    ]
+}

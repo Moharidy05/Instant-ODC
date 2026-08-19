@@ -1,0 +1,12 @@
+{
+    "page_number": 2,
+    "sections": [],
+    "blocks": [
+        {
+            "type": "paragraph",
+            "text": "KDIGO 2022 CLINICAL PRACTICE GUIDELINE FOR\nDIABETES MANAGEMENT IN CHRONIC KIDNEY DISEASE"
+        }
+    ],
+    "tables": [],
+    "figures": []
+}

@@ -1,0 +1,33 @@
+{
+  "page_number": 8,
+  "title": null,
+  "sections": [
+    "The International Working Group on the Diabetic Foot",
+    "IWGDF Practical Guidelines",
+    "IWGDF",
+    "Guidelines",
+    "Category Ulcer risk Characteristics Frequency*",
+    "1 Low LOPS or PAD Once every",
+    "2 Moderate LOPS + PAD, or"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Table 1: The IWGDF 2023 Risk Stratification System and corresponding foot screening frequency"
+    },
+    {
+      "type": "paragraph",
+      "text": "0 Very low No LOPS and no signs of PAD Once a year"
+    },
+    {
+      "type": "paragraph",
+      "text": "6-12 months"
+    },
+    {
+      "type": "paragraph",
+      "text": "LOPS + foot deformity or PAD + foot deformity Once every 3-6 months 3 High LOPS or PAD, and one or more of the following: - history of a foot ulcer - a lower-extremity amputation (minor or major) - end-stage renal disease Once every 1-3 months Note: LOPS = Loss of Protective Sensation; PAD = Peripheral Artery Disease; * Screening frequency is based on expert opinion, since there is no published evidence to support these intervals Figure 2: Areas of the foot at highest risk for ulceration"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

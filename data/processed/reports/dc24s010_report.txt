@@ -1,0 +1,66 @@
+======================================================================
+MEDICAL PDF EXTRACTION REPORT
+======================================================================
+PDF: G:\Projects\Instant-ODC\data\raw\dc24s010.pdf
+Pages: 40
+
+Successful: 40
+Review: 0
+Needs re-extraction: 0
+Empty pages (terminal): 0
+Native extraction: 7
+Qwen extraction: 0
+Recovered by retry: 10
+Success rate: 100.00%
+Processing time: 56.37s
+
+RE-EXTRACTION QUEUE
+----------------------------------------------------------------------
+No pages require re-extraction.
+
+REVIEW QUEUE
+----------------------------------------------------------------------
+No pages require review.
+
+PAGE DETAILS
+----------------------------------------------------------------------
+Page 1: success | method=unknown | attempts=1 | chars=2330 | time=38.44s
+Page 2: success | method=unknown | attempts=1 | chars=4991 | time=27.71s
+Page 3: success | method=unknown | attempts=1 | chars=4904 | time=25.60s
+Page 4: success | method=unknown | attempts=2 | chars=7159 | time=183.55s
+Page 5: success | method=unknown | attempts=2 | chars=4302 | time=368.95s
+Page 6: success | method=unknown | attempts=1 | chars=5767 | time=33.90s
+Page 7: success | method=unknown | attempts=1 | chars=2368 | time=18.43s
+Page 8: success | method=unknown | attempts=1 | chars=4188 | time=25.16s
+Page 9: success | method=unknown | attempts=4 | chars=2275 | time=396.29s
+Page 10: success | method=unknown | attempts=1 | chars=7247 | time=56.11s
+Page 11: success | method=unknown | attempts=1 | chars=6201 | time=37.58s
+Page 12: success | method=unknown | attempts=3 | chars=1459 | time=110.57s
+Page 13: success | method=unknown | attempts=1 | chars=1780 | time=22.44s
+Page 14: success | method=unknown | attempts=2 | chars=1397 | time=190.69s
+Page 15: success | method=unknown | attempts=1 | chars=5199 | time=35.95s
+Page 16: success | method=unknown | attempts=1 | chars=7539 | time=41.31s
+Page 17: success | method=unknown | attempts=3 | chars=3272 | time=483.37s
+Page 18: success | method=unknown | attempts=1 | chars=4521 | time=66.71s
+Page 19: success | method=unknown | attempts=1 | chars=1651 | time=13.82s
+Page 20: success | method=unknown | attempts=3 | chars=16003 | time=872.42s
+Page 21: success | method=unknown | attempts=3 | chars=4949 | time=128.40s
+Page 22: success | method=native | attempts=1 | chars=2764 | time=0.05s
+Page 23: success | method=unknown | attempts=1 | chars=1042 | time=23.33s
+Page 24: success | method=unknown | attempts=1 | chars=2963 | time=18.75s
+Page 25: success | method=unknown | attempts=1 | chars=6880 | time=43.64s
+Page 26: success | method=unknown | attempts=1 | chars=8838 | time=49.25s
+Page 27: success | method=unknown | attempts=1 | chars=1371 | time=14.05s
+Page 28: success | method=unknown | attempts=1 | chars=2377 | time=17.11s
+Page 29: success | method=native | attempts=1 | chars=7354 | time=0.05s
+Page 30: success | method=unknown | attempts=1 | chars=4864 | time=34.53s
+Page 31: success | method=unknown | attempts=1 | chars=2417 | time=18.86s
+Page 32: success | method=unknown | attempts=1 | chars=2085 | time=14.67s
+Page 33: success | method=unknown | attempts=1 | chars=9026 | time=55.33s
+Page 34: success | method=unknown | attempts=4 | chars=9285 | time=602.52s
+Page 35: success | method=unknown | attempts=3 | chars=8937 | time=294.99s
+Page 36: success | method=native | attempts=1 | chars=9375 | time=0.13s
+Page 37: success | method=native | attempts=1 | chars=9117 | time=0.10s
+Page 38: success | method=native | attempts=1 | chars=9351 | time=0.10s
+Page 39: success | method=native | attempts=1 | chars=9323 | time=0.07s
+Page 40: success | method=native | attempts=1 | chars=1671 | time=0.01s

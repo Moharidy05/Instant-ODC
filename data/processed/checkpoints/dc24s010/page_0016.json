@@ -1,0 +1,24 @@
+{
+  "pdf_name": "dc24s010",
+  "pdf_hash": "3948459d8aa1081ea3dae2f6e8a86b226880c07ea7d15f71d6b6bdba47d160a9",
+  "page_number": 16,
+  "status": "success",
+  "attempts": 1,
+  "successful_attempt": 1,
+  "done_reason": "stop",
+  "time_seconds": 41.31,
+  "model_time_seconds": 41.21,
+  "sections": 3,
+  "blocks": 2,
+  "tables": 0,
+  "figures": 0,
+  "extracted_characters": 7539,
+  "quality_status": "pass",
+  "quality_reasons": [],
+  "extraction_path": "G:\\Projects\\Instant-ODC\\data\\processed\\extractions\\dc24s010\\page_0016.json",
+  "raw_response_paths": [
+    "G:\\Projects\\Instant-ODC\\data\\processed\\raw_responses\\dc24s010\\page_0016_attempt_1.txt"
+  ],
+  "error_type": null,
+  "error": null
+}

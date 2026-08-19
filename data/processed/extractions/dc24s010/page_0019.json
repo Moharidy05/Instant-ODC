@@ -1,0 +1,16 @@
+{
+  "page_number": 19,
+  "title": "Cardiovascular Disease and Risk Management",
+  "sections": [
+    "{\"type\": \"section\", \"title\": \"Screening Asymptomatic Individuals for Atherosclerotic Cardiovascular Disease\"}",
+    "{\"type\": \"section\", \"title\": \"Screening for Asymptomatic Heart Failure in People With Diabetes\"}"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The screening of asymptomatic individuals with high ASCVD risk is not recommended (191), in part because these high-risk people should already be receiving intensive medical therapy—an approach that provides benefits similar to those of invasive revascularization (192,193). There is also some evidence that silent ischemia may reverse over time, adding to the controversy concerning aggressive screening strategies (194). In prospective studies, coronary artery calcium has been established as an independent predictor of future ASCVD events in people with diabetes and is consistently superior to both the UK Prospective Diabetes Study (UKPDS) risk engine and the Framingham Risk Score in predicting risk in this population (195–197). However, a randomized observational trial demonstrated no clinical benefit to routine screening of asymptomatic people with type 2 diabetes and normal ECGs (198). Despite abnormal myocardial perfusion imaging in more than one in five individuals, cardiac outcomes were essentially equal (and very low) in screened versus unscreened individuals. Accordingly, indiscriminate screening is not considered cost-effective. Studies have found that a risk factor-based approach to the initial diagnostic evaluation and subsequent follow-up for coronary artery disease fails to identify which people with type 2 diabetes will have silent ischemia on screening tests (199,200)."
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

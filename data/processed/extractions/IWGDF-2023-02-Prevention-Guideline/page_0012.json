@@ -1,0 +1,33 @@
+{
+  "page_number": 12,
+  "title": null,
+  "sections": [
+    "The International Working Group on the Diabetic Foot",
+    "IWGDF Prevention Guideline",
+    "IWGDF",
+    "Guidelines",
+    "IWGDF Risk Stratification",
+    "Category Ulcer risk Characteristics Frequency*",
+    "2 Moderate LOPS + PAD, or"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "or oedema; poor foot hygiene, e.g., improperly cut toenails, unwashed feet, superficial fungal infection, or unclean socks; physical limitations that may hinder foot self-care (e.g. visual acuity, obesity); and poor foot care knowledge (25-28). Lacking footwear, or having Ill-fitting or inadequate footwear can be a cause of ulceration (26), and poor hygiene may be reflective of an inability to self-care. Appropriate interventions can potentially improve these modifiable risk factors when they are identified. Any foot ulcer identified during screening should be treated according to the principles outlined in the other IWGDF guidelines (10-15)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Based on the findings of the screening, a person with diabetes can be stratified according to their risk for foot ulceration (Table 1). The risk categories defined are based on a meta-analysis and a systematic review of prospective risk factor studies on foot ulceration (7). Table 1: The IWGDF Risk Stratification System and corresponding foot screening and examination frequency"
+    },
+    {
+      "type": "paragraph",
+      "text": "0 Very low No LOPS and No PAD once a year 1 Low LOPS or PAD once every 6-12 months"
+    },
+    {
+      "type": "paragraph",
+      "text": "LOPS + foot deformity or PAD + foot deformity once every 3-6 months 3 High LOPS or PAD, and one or more of the following: • history of a foot ulcer • a lower-extremity amputation (minor or major) • end-stage renal disease once every 1-3 months Note: LOPS = Loss of protective sensation; PAD = peripheral artery disease. *: Screening frequency is based on expert opinion, since no evidence is available to support these intervals. When the screening interval is close to a regular diabetes check-up, consider screening the foot at that check-up. Someone without LOPS and without PAD is classified as IWGDF risk 0 and is at very low risk for ulceration. This person requires only annual screening. All other categories are considered “at-risk,” and require more frequent foot screening, regular inspection and foot examination than in people who are not at-risk. A person with either LOPS or PAD, but no additional risk factors, is stratified as IWGDF risk 1, and is considered at low risk. This person should be screened once every 6-12 months. When a combination of risk factors is present, a person is stratified as IWGDF risk 2 and is considered to be at moderate risk. As their risk is higher, this person should be screened every 3-6 months. All persons with either LOPS or PAD and a history of foot ulcer or lower-extremity amputation are stratified as IWGDF risk 3 and considered to be at high risk of ulceration. These persons should be screened once every 1-3 months. We also regard persons with LOPS or PAD in combination with end-stage renal disease (29-31) as"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

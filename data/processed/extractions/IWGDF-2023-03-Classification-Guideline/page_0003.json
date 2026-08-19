@@ -1,0 +1,23 @@
+{
+  "page_number": 3,
+  "title": null,
+  "sections": [
+    "The International Working Group on the Diabetic Foot",
+    "IWGDF Classification Guideline",
+    "IWGDF",
+    "Guidelines",
+    "ABSTRACT"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "© 2023"
+    },
+    {
+      "type": "paragraph",
+      "text": "This publication represents a scheduled update of the 2019 guidelines of the International Working Group of the Diabetic Foot (IWGDF) addressing the use of systems to classify foot ulcers in people with diabetes in routine clinical practice. The guidelines are based on a systematic review of the available literature that identified 28 classifications addressed in 149 articles and, subsequently, expert opinion using the GRADE methodology. First, we have developed a list of classification systems considered as being potentially adequate for use in a clinical setting, through the summary of judgments for diagnostic tests, focusing on the usability, accuracy and reliability of each system to predict ulcer-related complications as well as use of resources. Second, we have determined, following group debate and consensus, which of them should be used in specific clinical scenarios. In conclusion of this process, in a person with diabetes and a foot ulcer we recommend: 1. for communication among healthcare professionals: to use the SINBAD (Site, Ischaemia, Bacterial infection, Area and Depth) classification (first option) or consider using WIfI (Wound, Ischaemia, foot Infection) system (alternative option, when the required equipment and level of expertise is available and it is considered feasible) and in each case the individual variables that compose the systems should be described rather than a total score; 2. for predicting the outcome of an ulcer in a specific individual: no existing system could be recommended; 3. for characterising a person with an infected ulcer: the use of the IDSA/IWGDF (first option) classification or consider using the WIfI system (alternative option, when the required equipment and level of expertise is available and it is considered as feasible); 4. for characterising a person with peripheral artery disease: consider using the WIfI system as a means to stratify healing likelihood and amputation risk; 5. for the audit of outcome(s) of populations: the use of the SINBAD score. For all recommendations made using GRADE, the certainty of evidence was judged, at best, as being low. Nevertheless, based on rational application of current data this approach allowed the proposal of recommendations, which are likely to have clinical utility."
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

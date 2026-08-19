@@ -1,0 +1,34 @@
+{
+  "page_number": 31,
+  "title": null,
+  "sections": [
+    "European Liver Transplant Registry database, individuals",
+    "Statement",
+    "Recommendations",
+    "Condition Recommendation"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "not only variceal haemorrhage but also other decompensating events.476 NSBBs and endoscopic variceal ligation are both acceptable treatments for primary prophylaxis against the first episode of variceal haemorrhage.473 Therefore, if an individual has CSPH and can tolerate NSBBs, it is reasonable to start NSBBs without first performing upper gastrointestinal endoscopy. In case of contraindications or NSBB intolerance, the Baveno VI criteria can be used to select individuals for upper gastrointestinal endoscopy to screen for varices. Several studies have confirmed a low missed rate of <5% for varices needing treatment when LSM is <20 kPa and platelet count is >−150 × 109 /L.477 This notion has been confirmed in a multi￾centre cohort of individuals with MASH-related cirrhosis.478 Spleen stiffness measurement by VCTE has been shown to correlate with hepatic venous pressure gradient and predict the presence of varices needing treatment.479,480 There are, how￾ever, two caveats. First, data in individuals with MASLD are limited. Second, the existing data largely used the 50 Hz probe, which was not designed for spleen stiffness measurement. The current dedicated probe for spleen stiffness measurement uses ultrasound at a frequency of 100 Hz.481 Because the mea￾surement of shear wave velocity is influenced by the frequency of ultrasound, future studies should define optimal cut-offs for the interpretation of spleen stiffness measurement. In adults with MASLD who are candidates for liver trans￾plantation, should the evaluation of (cardiometabolic) comorbidities in the pre- and post-transplant phase be different from that of individuals with liver disease of other aetiologies? Adult liver transplant candidates with MASLD have different characteristics compared to candidates with other aetiologies of liver disease. In a large analysis of 68,950 adults undergoing first liver transplantation between 2002 and 2016 using the"
+    },
+    {
+      "type": "paragraph",
+      "text": "transplanted for MASH were more likely to have HCC, were older, and had a higher BMI.482 Infections (24%) and cardio/ cerebrovascular complications (5.3%) were the commonest causes of death in individuals with MASH without HCC.482 In￾dependent risk factors for death in individuals transplanted for MASH without HCC were recipient age, model for end-stage liver disease score and obesity.482 Individuals with MASLD and T2D are at particular risk for all-cause mortality and deaths due to cardiac and renal causes following liver trans￾plantation.483 MASLD/MASH is independently associated with cardiovascular diseases, renal and thyroid dysfunction, OSA, and a hypercoagulable state, which can affect perioperative outcomes.484 The risk of major (including fatal) cardiovascular events appears to be particularly high in the first year after transplantation, especially in the perioperative period.485 Despite the overall higher rate of risk factors in adults with MASLD, long-term graft and recipient survival after liver transplantation do not differ in many retrospective and registry analyses,482,486,487 supporting that candidates with MASLD can be safely transplanted, if properly managed.488 Although MASH is considered an independent risk factor for cardiovascular events similar to other traditional risk factors, there is insufficient evidence to support a fundamentally different approach to the pre-transplant cardiovascular risk assessment, as stated in the ILTS consensus statement.489 Therefore, a stepwise and risk-adjusted approach to meticu￾lously assess the presence of cardiovascular diseases in liver transplant candidates with MASLD seems appropriate (Fig. 5). Scores such as the CAR-OLT (cardiovascular risk in orthotopic"
+    },
+    {
+      "type": "paragraph",
+      "text": "Adults with MASLD are at increased risk of major cardio￾vascular events in the pre-, peri- and post-transplant phase (LoE 2, strong consensus)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Adults with MASLD who are candidates for liver trans￾plantation should be evaluated by a multidisciplinary team for cardiovascular and metabolic comorbidities to mitigate the risk of major cardiovascular events in the pre-, peri- and post-transplant phase (LoE 3, strong recommendation, strong consensus). A comprehensive screening for comorbidities in adults with MASLD before liver transplantation (Table 11), including a stepwise and risk-adjusted cardiac work-up algorithm (Fig. 5), may help to optimise management of adults with MASLD before, during and after liver transplantation (LoE 5, weak recommendation, strong consensus). Table 11. Screening and management for comorbidities in individuals with MASLD before liver transplantation. Modified from.488,526"
+    },
+    {
+      "type": "paragraph",
+      "text": "Type 2 diabetes Screen for impaired fasting glucose (IFG) or glucose tolerance (IGT) and/or T2D (OGTT, HbA1c) Achieve good glycaemic control before LT Preferentially use weight-lowering (e.g. SGLT2 in￾hibitors, GLP1RA) or weight-neutral (e.g. metformin) glucose-lowering medication, considering risk of other diabetes complications, if liver and/or renal function allow this Nutrition Assess nutritional status before LT Assess alcohol consumption Healthy diet, physical exercise and lifestyle modification (including weight reduction in individuals with obesity) represent pillars in pre-LT management Cardiovascular Pre-LT cardiovascular risk stratification is mandatory Risk-adapted algorithm of cardiac work-up should be followed (see Fig. 5) LT candidates with cardiovascular risk should be managed with goal-directed medical management (e.g. statins, anti-platelet agents, beta blockers, RAAS blockers), based on the stage of cirrhosis and renal function Kidney Kidney function should be adequately monitored before LT Comedications need to be adjusted (or replaced) dependent on kidney function Malignancies Screening for pre-LT malignancies should follow the same protocols applied to individuals with non-MASLD related cirrhosis (including gastrointestinal and genital cancers) GLP1RA, glucagon-like peptide-1 receptor agonist; HbA1c, glycated haemoglobin; LT, liver transplantation; MASLD, metabolic dysfunction-associated steatotic liver disease; OGTT, oral glucose tolerance test; RAAS, renin-angiotensin-aldosterone system; SGLT2, sodium-glucose cotransporter-2. 522 Journal of Hepatology, September 2024. vol. 81 j 492–542"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

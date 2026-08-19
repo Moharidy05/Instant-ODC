@@ -1,0 +1,66 @@
+{
+  "page_number": 15,
+  "title": null,
+  "sections": [
+    "HbA1c",
+    "C-peptide",
+    "HOMA-IR",
+    "Apolipoprotein B",
+    "Cardiovascular",
+    "Serum NT-ProBNP",
+    "Atherosclerosis Complete blood count; Platelets",
+    "Fibrinogen",
+    "Homocysteine",
+    "Obstructive",
+    "Polisomnography",
+    "Recommendations"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "central role of adipose tissue, the adipose tissue insulin resis￾tance index (Adipo-IR) even predicts the severity of hepatic fibrosis.222 However, the interpretation of HOMA-IR and Adipo￾IR requires standardised measurement of insulin and/or C￾peptide concentrations. Presence, duration and severity of excess weight are associated with an increased risk of disease progression in MASLD.223 EASO advocates for the use of the adiposity-based chronic disease concept for diagnosis, treatment and preven￾tion of comorbidities,224 underscoring a complications-centred approach with total body fat and, in particular, visceral fat distribution determining the majority of the risk.225 Evaluation of the hepato-adipo-cardio-renal axes is particularly important. For instance, MASLD is linked to an increased risk of chronic kidney disease, especially if fibrosis is present. Glomerular hyperfiltration is considered an early marker of both renal and liver disease, with its identification prompting risk factor man￾agement and preventive measures. In a large meta-analysis including 1,222,032 individuals, the risk of incident chronic kidney disease (CKD) stage >−3 was 1.45-fold higher in in￾dividuals with MASLD, independent of demographic and CKD risk factors.226 Still, there is uncertainty as to whether there is a direct causal link between MASLD and CKD as both diseases share common risk factors.227 Cardiovascular disease is consistently and independently associated with circulating non-esterified fatty acid concen￾trations and higher intima media thickness, warranting carotid ultrasound examination in adults with increased non-esterified fatty acids228 and contrast-enhanced ultrasound to assess plaque vulnerability. NT-proBNP (N-terminal pro-brain natri￾uretic peptide) has been shown to be independently associated with cardiovascular mortality in the general population.229 The combined use of NT-proBNP and FIB-4 is helpful in risk￾stratification of adults since they are independently associ￾ated with higher mortality in MASLD. While the clinical rele￾vance of comorbidities in MASLD development is well established, strategies for their thorough assessment have not yet been outlined. Table 7 summarises the main comorbidities to screen for, available laboratory tests and complementary examinations according to clinical evaluation and a priori probability. In adults with non-cirrhotic MASLD or MASH, is surveil￾lance indicated for early detection of hepatocellular carcinoma? Table 7. Diagnostic procedures to identify relevant comorbidities of MASLD. Comorbidity Assessment/parameter Ref. Obesity Body mass index Waist circumference Waist to height ratio Further investigations*: Body composition analysis (if available) TSH and free thyroxine (if suspicion of hypothyroidism) 528,529 Type 2 dia￾betes or insulin resistance Fasting plasma glucose"
+    },
+    {
+      "type": "paragraph",
+      "text": "Oral glucose tolerance test, 2-h post-load glucose Fasting plasma insulin and/or"
+    },
+    {
+      "type": "paragraph",
+      "text": "Further investigations*: Insulin resistance indices from oral glucose tolerance test or mixed meal tests 220,221 Dyslipidaemia Fasting plasma triglycerides Fasting plasma total, LDL and HDL cholesterol Once in a lifetime: measurement of lipoprotein (a) Further investigations*: Non-esterified fatty acids"
+    },
+    {
+      "type": "paragraph",
+      "text": "530 Kidney disease Creatinine in plasma and urine Albumin in serum and urine Estimated glomerular filtration rate (eGFR)"
+    },
+    {
+      "type": "paragraph",
+      "text": "disease Fasting plasma uric acid Serum high-sensitivity C-reactive protein (hsCRP) Serum ferritin Systolic and diastolic blood pressure Further investigations*: 24-h ambulatory blood pressure monitoring Echocardiography for heart failure"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transferrin saturation 25,26"
+    },
+    {
+      "type": "paragraph",
+      "text": "Elevated lipoprotein (a) is an inde￾pendent causal risk factor for atherosclerotic cardiovascular disease Further investigations*:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Von Willebrand factor antigen Carotid artery intima media thickness EchoDoppler plaque instability Coronary artery calcification 25,26"
+    },
+    {
+      "type": "paragraph",
+      "text": "sleep apnoea Neck circumference Epworth score Further investigations*: Sleep studies Overnight pulse oximetry"
+    },
+    {
+      "type": "paragraph",
+      "text": "CPAP trial 64 PCOS Sex hormones: LH, FSH, testosterone, SHBG Ovarian ultrasound 66 CPAP, continuous positive airway pressure; FSH, follicle-stimulating hormone; HDL, high-density lipoprotein; HOMA-IR, homeostatic model assessment of insulin resis￾tance; hsCRP, high-sensitivity CRP; LDL, low-density lipoprotein; LH, luteinising hor￾mone; NT-proBNP, N-terminal pro-brain natriuretic peptide; PCOS, polycystic ovary syndrome; SHBG, sex hormone binding globulin; TSH, thyroid-stimulating hormone. *According to clinical evaluation and a priori probability."
+    },
+    {
+      "type": "paragraph",
+      "text": "In adults with non-cirrhotic MASLD or MASH in the absence of severe fibrosis (i.e. those with fibrosis stage <F3) assessed by non-invasive markers or liver biopsy, surveil￾lance for early detection of hepatocellular carcinoma is currently not recommended (LoE 3, weak recommenda￾tion, consensus). In adults with non-cirrhotic MASLD or MASH in the pres￾ence of severe fibrosis (F3) assessed by non-invasive markers or liver biopsy, surveillance may be considered based on an individual risk assessment (LoE 4, weak recommendation, strong consensus). 506 Journal of Hepatology, September 2024. vol. 81 j 492–542"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

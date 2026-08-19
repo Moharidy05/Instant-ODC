@@ -1,0 +1,34 @@
+{
+  "page_number": 58,
+  "title": null,
+  "sections": [
+    "CKD G4–G5",
+    "CKD G1–G3b",
+    "Population Frequency Reliability GMI",
+    "HbA1c",
+    "Measure",
+    "High Occasionally useful",
+    "Low Likely useful",
+    "Kidney International (2022) 102 (Suppl 5S), S1–S127 S57"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Practice Point 2.1.1: Monitoring long-term glycemic con￾trol by HbA1c twice per year is reasonable for patients with diabetes. HbA1c may be measured as often as 4 times per year if the glycemic target is not met or after a change in glucose-lowering therapy. HbA1c monitoring facilitates control of diabetes to ach￾ieve glycemic targets that prevent diabetic complications. In both T1D or T2D, lower achieved levels of HbA1c <7% (<53 mmol/mol) versus 8%–9% (64–75 mmol/mol) reduce risk of overall microvascular complications, including ne￾phropathy and retinopathy, and macrovascular complications in some RCTs.189–193 The potential harm of monitoring by HbA1c is that it may underestimate (more commonly) or overestimate (less commonly) the actual degree of glycemia control compared to directly measured blood glucose in advanced CKD. No advantages of glycated albumin or fructosamine over HbA1c are known for glycemic moni￾toring in CKD. Frequency of HbA1c testing is recommended as often as 4 times per year to align with a 10–12-week time period for which it reflects ambient glycemia according to normal duration of red blood cell survival. In the judgment of the Work Group, it is reasonable to test HbA1c twice per year in many patients who are stable and achieving glycemic goals. Measuring HbA1c more frequently would be reason￾able in patients with adjustments in glucose-lowering medication, changes in lifestyle factors, or marked changes in measured blood glucose values, or those who are less concerned about the burden or costs of more frequent lab￾oratory testing.226 Practice Point 2.1.2: Accuracy and precision of HbA1c measurement declines with advanced CKD (G4–G5), particularly among patients treated by dialysis, in whom HbA1c measurements have low reliability. Correlations of directly measured blood glucose levels with 3 glycemic biomarkers—HbA1c, glycated albumin, and fructosamine—were progressively weaker with advanced CKD stages (G4–G5), especially kidney failure treated by dialysis.196,197,205,210,227 However, HbA1c remains the glyce￾mic biomarker of choice in advanced CKD because glycated albumin and fructosamine provide no advantages over HbA1c and have clinically relevant assay biases to the low and high levels, respectively, with hypoalbuminemia, a common condition among patients with proteinuria, malnutrition, or treated by peritoneal dialysis.228 Practice Point 2.1.3: A glucose management indicator (GMI) derived from continuous glucose monitoring (CGM) data can be used to index glycemia for individuals in whom HbA1c is not concordant with directly measured blood glucose levels or clinical symptoms. CGM and self-monitoring of blood glucose (SMBG) yield direct measurements of interstitial and blood glucose, respec￾tively, that are not known to be biased by CKD or its treat￾ments, including dialysis or kidney transplant (Figure 12229). Therefore, if it is a clinical concern that HbA1c may be yielding biased estimates of long-term glycemia (e.g., discordant with SMBG, random blood glucose levels, or hypoglycemic or hy￾perglycemic symptoms), it is reasonable to use CGM to generate a glucose management indicator (GMI).228 The GMI can be derived from CGM that is performed with results either blinded to the patients during monitoring (“professional” version) or available to the patient in real time. The GMI is a measure of average blood glucose that is calculated from CGM and expressed in the units of HbA1c (%), facilitating inter￾pretation of the HbA1c values. For example, if HbA1c is lower than a concurrent GMI measure, the HbA1c can be interpreted to underestimate average blood glucose by the difference in measurements, allowing adjustment of HbA1c targets accordingly.230,231 GMI may be useful for patients with advanced CKD, including those treated with dialysis, for whom reliability of HbA1c is low. It should be noted that the assay bias of HbA1c relative to GMI could potentially change over time within a patient, particularly when there are clinical changes that affect red blood cell turnover or protein glycation. In these situations, GMI needs to be re-established regularly. Practice Point 2.1.4: Daily glycemic monitoring with CGM or self-monitoring of blood glucose (SMBG) may help prevent hypoglycemia and improve glycemic control when glucose-lowering therapies associated with risk of hypo￾glycemia are used. In addition to long-term glycemic control, minute-to￾minute glycemic variability and episodes of hypoglycemia are important therapeutic targets for people with diabetes and CKD, especially those with T1D and those treated with"
+    },
+    {
+      "type": "paragraph",
+      "text": "including treatment by dialysis or kidney transplant"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes Yes • Twice per year • Up to 4 times per year if not achieving target or change in therapy • Twice per year • Up to 4 times per year if not achieving target or change in therapy"
+    },
+    {
+      "type": "paragraph",
+      "text": "Figure 11 | Frequency of glycated hemoglobin (HbA1c) measurement and use of glucose management indicator (GMI) in chronic kidney disease (CKD). G1–G3b, estimated glomerular filtration rate (eGFR) $30 ml/min per 1.73 m2 ; G4–G5, eGFR <30 ml/min per 1.73 m2 . www.kidney-international.org chapter 2"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

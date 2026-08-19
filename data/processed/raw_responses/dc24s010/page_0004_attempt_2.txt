@@ -1,0 +1,37 @@
+{
+    "page_number": 4,
+    "title": "Cardiovascular Disease and Risk Management",
+    "sections": [
+        {
+            "type": "section",
+            "heading": "ACCORD BP provides the strongest direct assessment of the benefits and risks of intensive blood pressure control in people with type 2 diabetes (34). In the study, a total of 4,733 individuals with type 2 diabetes were assigned to intensive therapy (targeting a systolic blood pressure <120 mmHg) or standard therapy (targeting a systolic blood pressure <140 mmHg). The mean achieved systolic blood pressures were 119 mmHg and 133 mmHg in the intensive versus standard group, respectively. The primary composite outcome of nonfatal MI, nonfatal stroke, or death from cardiovascular causes was not significantly reduced in the intensive treatment group. The prespecified secondary outcome of stroke was significantly reduced by 41% in the intensive treatment group. Adverse events attributed to blood pressure treatment, including hypotension, syncope, bradycardia, hyperkalemia, and elevations in serum creatinine, occurred more frequently in the intensive treatment arm than in the standard therapy arm (Table 10.1).",
+
+    "type": "paragraph",
+    "text": "Of note, the ACCORD BP and SPRINT trials targeted a similar systolic blood pressure <120 mmHg, but in contrast to SPRINT, the primary composite cardiovascular end point was nonsignificantly reduced in ACCORD BP. The results have been interpreted to be generally consistent between both trials, but ACCORD BP was viewed as underpowered due to the composite primary end point being less sensitive to blood pressure regulation (32)."
+    },
+    {
+        "type": "section",
+        "heading": "The more recent STEP trial assigned 8,511 individuals aged 60–80 years with hypertension to a systolic blood pressure target of 110 to <130 mmHg (intensive treatment) or a target of 130 to <150 mmHg (33). In this trial, the primary composite outcome of stroke, acute coronary syndrome, acute decompensated heart failure, coronary revascularization, atrial fibrillation, or death from cardiovascular causes occurred in 3.5% of individuals in the intensive treatment group versus 4.6% in the standard treatment group (hazard ratio [HR] 0.74 [95% CI 0.60–0.92]; P = 0.007). In this trial, 18.9% of individuals in the intensive treatment arm and 19.4% in the standard treatment arm had a diagnosis of type 2 diabetes. Hypotension occurred more frequently in the intensive treatment group (3.4%) compared with the standard treatment group (2.6%), without significant differences in other adverse events, including dizziness, syncope, or fractures."
+
+    },
+    {
+        "type": "section",
+        "heading": "In ADVANCE, 11,140 people with type 2 diabetes were randomized to receive either treatment with a fixed combination of perindopril/indapamide or matching placebo (35). The primary end point, a composite of cardiovascular death, nonfatal stroke infarction, or worsening renal or diabetic eye disease, was reduced by 9% in the combination treatment. The achieved systolic blood pressure was ~135 mmHg in the treatment group and 140 mmHg in the placebo group. The Hypertension Optimal Treatment (HOT) trial enrolled 18,790 individuals and targeted diastolic blood pressure <90 mmHg, <85 mmHg, or <80 mmHg (36). The cardiovascular event rates, defined as fatal or nonfatal MI, fatal and nonfatal strokes, and all other cardiovascular events, were not significantly different between diastolic blood pressure targets (≤90 mmHg, ≤85 mmHg, and ≤80 mmHg), although the lowest incidence of cardiovascular events occurred with an achieved diastolic blood pressure of 82 mmHg. However, in people with diabetes, there was a significant 51% reduction in the treatment group with a target diastolic blood pressure of <80 mmHg compared with a target diastolic blood pressure of <90 mmHg."
+
+    },
+    {
+        "type": "section",
+        "heading": "Meta-analyses of Trials",
+        "text": "To clarify optimal blood pressure targets in people with diabetes, multiple meta-analyses have been performed. One of the largest meta-analyses included 73,913 people with diabetes. Compared with a less tight blood pressure control, allocation to a tighter blood pressure control significantly reduced the risk of stroke by 31% but did not reduce the risk of MI (37). Another meta-analysis of 19 trials that included 44,989 individuals showed that a mean blood pressure of 133/76 mmHg is associated with a 14% risk reduction for major cardiovascular events compared with a mean blood pressure of 140/81 mmHg (31). This benefit was greatest in people with diabetes. An analysis of trials including people with type 2 diabetes and impaired glucose tolerance with achieved systolic blood pressures of <135 mmHg in the intensive blood pressure treatment group and <140 mmHg in the standard treatment group revealed a 10% reduction in all-cause mortality and a 17% reduction in stroke (29). More intensive reduction to <130 mmHg was associated with a further reduction in stroke but not other cardiovascular events. Several meta-analyses stratified clinical trials by mean baseline blood pressure or mean blood pressure attained in the intervention (or intensive treatment) arm. Based on these analyses, antihypertensive treatment appears to be most beneficial when mean baseline blood pressure is ≥140/90 mmHg (17,25,26,28–30). Among trials with lower baseline or attained blood pressure, antihypertensive treatment reduced the risk of stroke, retinopathy, and albuminuria, but effects on other ASCVD outcomes and heart failure were not evident."
+
+    },
+    {
+        "type": "section",
+        "heading": "Individualization of Treatment Targets",
+        "text": "People with diabetes and clinicians should engage in a shared decision-making process to determine individual blood pressure targets (17). This approach acknowledges that the benefits and risks of intensive blood pressure targets are uncertain and may vary across individuals and is consistent with a person-focused approach to care that values individual priorities and health care professional judgment (38). Secondary analyses of ACCORD BP and SPRINT suggest that clinical factors can help determine individuals more likely to benefit and less likely to be harmed by intensive blood pressure control (39,40). Absolute benefit from blood pressure reduction correlated with absolute baseline cardiovascular risk in SPRINT and in earlier clinical trials conducted at higher baseline blood pressure levels (40,41). Extrapolation of these studies suggests that people with diabetes may also be more likely to benefit from intensive blood pressure control when they have high absolute cardiovascular risk. This approach is consistent with guidelines from the American College of Cardiology and American Heart Association, which also advocate a blood pressure target of <130/80 mmHg for all people, with or without diabetes (18). Potential adverse effects of antihypertensive therapy (e.g., hypotension, syncope, falls, AKI, and electrolyte abnormalities) should also be taken into account (32,34,42,43). Individuals with older age, CKD, and frailty have been shown to be at higher risk of adverse effects of intensive blood pressure control (42). In addition, individuals with orthostatic hypotension, substantial comorbidity, functional limitations,"
+
+    }
+    ],
+    "tables": [],
+    "figures": []
+}

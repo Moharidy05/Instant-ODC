@@ -1,0 +1,28 @@
+{
+  "page_number": 88,
+  "title": null,
+  "sections": [
+    "GLP-1 RA Dose CKD adjustment",
+    "Dulaglutide",
+    "Exenatide",
+    "Liraglutide",
+    "Lixisenatide",
+    "Kidney International (2022) 102 (Suppl 5S), S1–S127 S87"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "currently unavailable, the priority is to use one of the other GLP-1 RA, which have proven cardiovascular and kidney benefit (i.e., liraglutide, semaglutide [injectable], and dula￾glutide). Additionally, cardiovascular benefit has not been demonstrated for oral semaglutide, as the PIONEER 6383 trial was powered for only non-inferiority, although a larger outcome cardiovascular trial for oral semaglutide is ongoing (SOUL, NCT03914326). Patients with T2D and CKD are a heterogeneous group of patients, and treatment of hyperglycemia is complex. Treat￾ment algorithms must be tailored to individuals, taking into consideration patient priorities and preferences, treatment availability, and cost, as part of shared decision-making. Practice Point 4.2.2: To minimize gastrointestinal side ef￾fects, start with a low dose of GLP-1 RA, and titrate up slowly (Figure 29). Practice Point 4.2.3: GLP-1 RA should not be used in com￾bination with dipeptidyl peptidase-4 (DPP-4) inhibitors. DPP-4 inhibitors and GLP-1 RA should not be used together. Given that GLP-1 RA have been shown to have cardiovascular benefit, consideration may be given to stop￾ping the gliptin medication (DPP-4) in order to facilitate treatment with a GLP-1 RA instead. Practice Point 4.2.4: The risk of hypoglycemia is generally low with GLP-1 RA when used alone, but risk is increased when GLP-1 RA is used concomitantly with other medi￾cations such as sulfonylureas or insulin. The doses of sul￾fonylurea and/or insulin may need to be reduced. GLP-1 RA are preferred over classes of glucose-lowering medications with less evidence supporting reduction of car￾diovascular or kidney risks (e.g., DPP-4 inhibitors, thiazolidinediones, sulfonylureas, insulin, and acarbose). GLP-1 RA on their own do not cause hypoglycemia, but they may increase the risk of hypoglycemia caused by sulfonylureas or insulin when used concurrently. Therefore, it is reasonable to stop or reduce the dose of sulfonylurea or insulin when starting a GLP-1 RA if the combination may lead to an un￾acceptable risk of hypoglycemia. Practice Point 4.2.5: GLP-1 RA may be preferentially used in patients with obesity, T2D, and CKD to promote intentional weight loss. Persons with T2D and CKD often are obese even at advanced stages of CKD. Obesity has numerous adverse health effects, including higher risks of CVD and CKD. These risks are mediated by “indirect” effects such as worsened risk factors (e.g., hyperglycemia, hypertension) as well as by “direct” effects of obesity (e.g., pro-inflammatory state, fat compression of organs).400,401 As a class, GLP-1 RA have demonstrated weight￾loss effects. Both semaglutide and liraglutide have been studied and approved for weight loss in nondiabetic obesity.402 In addition, tirzepatide has also been studied for obesity in pa￾tients without diabetes in the A Study of Tirzepatide (LY3298176) in Participants With Obesity or Overweight (SURMONT) trial. In the AWARD-7 trial of patients with T2D and CKD G3a–G4, dulaglutide treatment (1.5 mg weekly) produced a mean weight loss of nearly 4 kg over 1 year, while insulin users gained >1 kg on average.382 Thus, the weight differential between conventional insulin and dulaglutide treatment was about 5 kg after 1 year. This magnitude of weight loss is clinically meaningful from the perspectives of improving cardiovascular and CKD risk factors and for kidney and heart protection. Furthermore, weight loss may be required to qualify people with obesity and advanced stages of CKD for kidney transplant. GLP-1 RA promotes weight loss in these"
+    },
+    {
+      "type": "paragraph",
+      "text": "Exenatide extended-release"
+    },
+    {
+      "type": "paragraph",
+      "text": "Semaglutide (injection) Semaglutide (oral) 0.75 mg and 1.5 mg once weekly 10 μg twice daily 2 mg once weekly 1.2 mg and 1.8 mg once daily 10 μg and 20 μg once daily 0.5 mg and 1 mg once weekly 3 mg, 7 mg, or 14 mg daily No dosage adjustment Use with eGFR >15 ml/min per 1.73 m2 Use with CrCl >30 ml/min Use with eGFR >45 ml/min per 1.73 m2 No dosage adjustment Limited data for severe CKD No dosage adjustment Limited data for severe CKD Not recommended with eGFR <15 ml/min per 1.73 m2 No dosage adjustment Limited data for severe CKD No dosage adjustment Limited data for severe CKD Figure 29 | Dosing for available glucagon-like peptide-1 receptor agonists (GLP-1 RA) and dose modification for chronic kidney disease (CKD). CrCl, creatinine clearance; eGFR, estimated glomerular filtration rate. www.kidney-international.org chapter 4"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

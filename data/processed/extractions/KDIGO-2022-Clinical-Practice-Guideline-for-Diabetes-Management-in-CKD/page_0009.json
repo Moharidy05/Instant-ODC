@@ -1,0 +1,32 @@
+{
+  "page_number": 9,
+  "title": null,
+  "sections": [
+    "NOMENCLATURE AND DESCRIPTION FOR RATING GUIDELINE RECOMMENDATIONS",
+    "Grade",
+    "Implications",
+    "Patients Clinicians Policy",
+    "Grade Quality of evidence Meaning",
+    "S8 Kidney International (2022) 102 (Suppl 5S), S1–S127"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Reference keys"
+    },
+    {
+      "type": "paragraph",
+      "text": "Within each recommendation, the strength of the recommendation is indicated as Level 1 or Level 2, and the quality of the supporting evidence is shown as A, B, C, or D."
+    },
+    {
+      "type": "paragraph",
+      "text": "Level 1, strong “We recommend” Most people in your situation would want the recommended course of action, and only a small proportion would not. Most patients should receive the recommended course of action. The recommendation can be evaluated as a candidate for developing a policy or a performance measure. Level 2, weak “We suggest” The majority of people in your situation would want the recommended course of action, but many would not. Different choices will be appropriate for different patients. Each patient needs help to arrive at a management decision consistent with her or his values and preferences. The recommendation is likely to require substantial debate and involvement of stakeholders before policy can be determined."
+    },
+    {
+      "type": "paragraph",
+      "text": "A High We are confident that the true effect is close to the estimate of the effect. B Moderate The true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different. C Low The true effect may be substantially different from the estimate of the effect. D Very low The estimate of effect is very uncertain, and often it will be far from the true effect. reference keys www.kidney-international.org"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

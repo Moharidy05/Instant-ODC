@@ -1,0 +1,44 @@
+{
+  "page_number": 13,
+  "title": null,
+  "sections": [
+    "MRI – MRI-PDFF163 Lipid content S1: 5%",
+    "S2: 11-18%",
+    "S3: 16-23%",
+    "F3: 1.3",
+    "F2: 2.67",
+    "F3: 2.67",
+    "F3: -1.455 F3: 0.676 ++",
+    "ELF147,259 Collagen metabolism F3: 7.7 F3: 9.8 +++",
+    "F2: MRE <3.3 kPa",
+    "F2: MRE >−3.3 kPa"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "persons with advanced fibrosis included in clinical trials, an LSM cut-off of >−16.6 kPa (HR 3.99, 95% CI 2.6-5.98) and a >−5.5 kPa increase (and >−20%; HR 1.98, 95% CI 1.20-3.26) predicted the development of cirrhosis, whereas LSM >−30.7 kPa pre￾dicted liver-related events (HR 10.13, 4.38-23.41).186 A recent individual participant data meta-analysis including 2,518 par￾ticipants, with a median follow-up of 57 months, showed that time-dependent AUCs at 5 years were 0.72 for histology, 0.76 for LSM-VCTE, 0.74 for FIB-4, and 0.70 for NFS. All these tests were significant predictors of the primary outcome (overall mortality and liver-related outcomes).187 Of note, VCTE measurements are highly variable,188 with a coefficient of variation of up to 60% in those with cirrhosis.189 Furthermore, high VCTE measurements >7.9 kPa may not be reproducible at subsequent measurements in about one-third of individuals.190 In addition, despite a clear correlation be￾tween longitudinal changes of FIB-4 and risk of clinical out￾comes, up to 50% of individuals with liver events may have persistently low FIB-4.191 Furthermore, only a very small pro￾portion of individuals developed liver-related events, despite one third of the population having intermediate or high FIB-4 on >−1 occasion.191 The coefficient of variation of individual NITs can hence be substantial and needs to be considered when proposing them as markers of disease evolution, particularly on an individual basis. Recent retrospective studies also evaluated the clinical meaning of dynamic changes in FIB-4 and LSM (as measured by VCTE) on long-term outcomes. A large population-based Swed￾ish study in individuals with available FIB-4 at two time points within 5 years reported that progression from a low or intermediate to a high-risk group was associated with an increased risk of developing severe liver disease (HR 7.99 and 8.64, respec￾tively).192Along this line, a retrospective analysis of 533 cases with compensated advanced chronic liver disease related to MASLD demonstrated that changes in LSM independently predicted the occurrence of hepatic decompensation, HCC, overall mortality, and liver-related mortality.185 Further prospective studies are needed to optimise the cut-offs for risk stratification and to eval￾uate the impact of changes in non-invasive scores and LSM on long-term outcomes. In adults with MASLD, does genetic testing (alone or in combination) provide an additional advantage over other non-invasive scores and imaging in predicting risk of liver disease development, severity, progression and liver-related outcomes, or response to specific therapeutic approaches? Table 6. Targets of different non-invasive techniques (selection) and suggested thresholds for ruling out/in certain features of MASLD. Non-invasive test Biological processes reflected Rule-out cut-off Rule-in cut-off Prediction of liver￾related outcomes Primary target: Hepatic steatosis US scan – standard Lipid content N/A N/A + VCTE: CAP (Controlled atten￾uation parameter)166 Lipid content S1: 248 dB/m S2: 268 dB/m S3: 280 dB/m ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "+ Primary target: Hepatic fibrosis AST/ALT ratio152,184 Stress to hepatocytes F3: 0.8 F3: 1.0 + FIB-4140,158,184 Stress to hepatocytes, hypersplenism F2: 0.66-0.89"
+    },
+    {
+      "type": "paragraph",
+      "text": "++ APRI158,184 Stress to hepatocytes, hypersplenism F3: 0.5 F3: 1.5 ++ NFS138,184 Stress to hepatocytes, hypersplenism, metabolic burden"
+    },
+    {
+      "type": "paragraph",
+      "text": "ADAPT149 Collagen metabolism, hypersplenism, metabolic burden F3: 4.46 F3: 7.15 ? VCTE: LSM (liver stiffness)156,184,259 Fibrosis, extracellular volume fraction F3: 8 kPa F3: 12 kPa +++ US – 2D-SWE155 Fibrosis, extracellular volume fraction F3: 8 kPa F3: 10.5 kPa +++ MRI – MRE170,358 Fibrosis, extracellular volume fraction F2: 3.14 kPa F3: 3.53 kPa F4: 4.45 kPa +++ MEFIB169,170 Stress to hepatocytes, fibrosis, hypersplenism"
+    },
+    {
+      "type": "paragraph",
+      "text": "and FIB-4 <1.6"
+    },
+    {
+      "type": "paragraph",
+      "text": "and FIB-4 >−1.6 +++ Primary target: “At-risk MASH” FAST168,184 Stress to hepatocytes, fibrosis, lipid content 0.35 0.67 ++ MAST167 Stress to hepatocytes, fibrosis, lipid content 0.165 0.242 ++ Corrected T1160 Extracellular volume fraction, (fibrosis) 825 ms 875 ms ++ NIS2+352 Stress to hepatocytes, fibrosis, extracellular matrix remodelling 0.46 0.68 ? ADAPT, age, presence of diabetes, PRO-C3, and platelet count; ALT, alanine aminotransferase, APRI, AST to platelet ratio index; AST, aspartate aminotransferase; CAP, controlled attenuation parameter; ELF, enhanced liver fibrosis; F1-F4, fibrosis stage (F2: moderate fibrosis, F3: severe fibrosis, F4: cirrhosis); FAST, FibroScan-AST, MAST, MRI-AST; MEFIB, MRE combined with FIB-4, MRE, magnetic resonance elastography; NFS, NAFLD fibrosis score; PDFF, proton density fat fraction; S1-S3, stage of steatosis (S1: mild (<10% hepatocytes), S2: moderate (10% −30% hepatocytes), S3: severe (>30% hepatocytes) steatosis); SWE, shear-wave elastography; VCTE, vibration-controlled transient elastography; US, ultrasound. The predictive value of the test/procedure for liver-related outcomes (e.g. cirrhosis complications, HCC, liver-related death) is qualitatively depicted (+low, ++ moderate, +++ high, ? unknown). Merged cells represent non-invasive techniques with single cut-offs. 504 Journal of Hepatology, September 2024. vol. 81 j 492–542"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

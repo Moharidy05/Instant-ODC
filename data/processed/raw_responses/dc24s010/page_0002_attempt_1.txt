@@ -1,0 +1,48 @@
+{
+    "page_number": 2,
+    "title": "Cardiovascular Disease and Risk Management",
+    "sections": [
+        {
+            "type": "section",
+            "heading": "Diabetes Care",
+            "content": "Volume 47, Supplement 1, January 2024"
+        },
+        {
+            "type": "section",
+            "heading": "that rates of heart failure hospitalization significantly decreased with use of sodium–glucose cotransporter 2 (SGLT2) inhibitors (11–14).",
+            "content": "A recent meta-analysis indicated that SGLT2 inhibitors reduce the risk of heart failure hospitalization, cardiovascular mortality, and all-cause mortality in people with (secondary prevention) cardiovascular disease (15)."
+        },
+        {
+            "type": "section",
+            "heading": "For prevention and management of both ASCVD and heart failure, cardiovascular risk factors should be systematically assessed at least annually in all people with diabetes. These risk factors include duration of diabetes, obesity/overweight, hypertension, dyslipidemia, smoking, a family history of premature coronary disease, chronic kidney disease (CKD), and the presence of albuminuria. Modifiable abnormal risk factors should be treated as described in these guidelines. Notably, the majority of evidence supporting interventions to reduce cardiovascular risk in diabetes comes from trials of people with type 2 diabetes. No randomized trials have been specifically designed to assess the impact of cardiovascular risk reduction strategies in people with type 1 diabetes. Therefore, the recommendations for cardiovascular risk factor modification for people with type 1 diabetes are extrapolated from data obtained in people with type 2 diabetes and are similar to those for people with type 2 diabetes."
+        },
+        {
+            "type": "section",
+            "heading": "As depicted in Fig. 10.1, a comprehensive approach to the reduction in risk of diabetes-related complications is recommended. Therapy that includes multiple, concurrent evidence-based approaches to care will provide complementary reduction in the risks of microvascular outcomes, including kidney, retinopathy, neurologic, and cardiovascular complications. Management of glycemia, blood pressure, and lipids and the incorporation of specific therapies with cardiovascular and kidney outcomes benefit (as individually appropriate) are considered fundamental elements of global risk reduction in diabetes."
+        },
+        {
+            "type": "section",
+            "heading": "The Risk Calculator",
+            "content": "The American College of Cardiology ASCVD risk calculator (Risk Estimator Plus) is generally a useful tool to estimate 10-year risk of a first ASCVD event (available online at tools.acc.org/ASCVD-Risk-Estimator-Plus). The calculator was developed to stratify cardiovascular risk and identify those people who will benefit most from statin therapy and from treatment with antihypertensive medications (16). The calculator includes diabetes as a risk factor, since diabetes itself confers increased risk for ASCVD, although it should be acknowledged that these risk calculators do not account for the duration of diabetes or the presence of diabetes complications, such as albuminuria. In addition, the majority of people with diabetes should be treated with statin therapy, and hypertension should be promptly treated. As we will discuss below, comprehensive management of hypertension, hyperlipidemia, and hyperglycemia using management approaches with established benefit are important strategies to reduce cardiovascular risk."
+        },
+        {
+            "type": "section",
+            "heading": "Hypertension/Blood Pressure Control",
+            "content": "An elevated blood pressure is defined as a systolic blood pressure 120–129 mmHg and a diastolic blood pressure <80 mmHg (17). Hypertension is defined as a systolic blood pressure ≥130 mmHg or a diastolic blood pressure ≥80 mmHg (17). This is in agreement with the definition of hypertension by the American College of Cardiology and American Heart Association (17). Hypertension is common among people with either type 1 or type 2 diabetes. Hypertension is a major risk factor for ASCVD, heart failure, and microvascular complications. Moreover, numerous studies have shown that antihypertensive therapy reduces ASCVD events, heart failure, and microvascular complications. Please refer to the ADA position statement “Diabetes and Hypertension” for a detailed review of the epidemiology, diagnosis, and treatment of hypertension (18) and recent updated hypertension guideline recommendations (17,19,20)."
+   }
+    ],
+    "blocks": [
+        {
+            "type": "paragraph",
+            "text": "Screening and Diagnosis\n\nRecommendations\n\n10.1 Blood pressure should be measured at every routine clinical visit. When possible, individuals found to have elevated blood pressure (systolic blood pressure 120–129 mmHg and diastolic <80 mmHg) should have blood pressure confirmed using multiple readings, including measurements on a separate day, to diagnose hypertension. A Hypertension is defined as a systolic blood pressure ≥130 mmHg or a diastolic blood pressure ≥80 mmHg based"
+        }
+    ],
+    "tables": [],
+    "figures": [
+        {
+            "type": "figure",
+            "caption": "Multifactorial approach to reduction in risk of diabetes complications. *Risk reduction interventions to be applied as individually appropriate.",
+            "content": "Figure 10.1"
+        }
+    ]
+}

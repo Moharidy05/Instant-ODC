@@ -1,0 +1,88 @@
+{
+  "page_number": 100,
+  "title": null,
+  "sections": [
+    "Comparator Usual care",
+    "Study design RCT",
+    "SoF tables Supplementary Tables S47–S49",
+    "Intervention Smoking-cessation interventions",
+    "Comparator Usual care",
+    "Study design RCT",
+    "SoF tables Supplementary Table S9",
+    "Intervention Bariatric surgery",
+    "Comparator Usual care",
+    "Study design RCT",
+    "SoF tables Supplementary Table S57",
+    "Study design RCT",
+    "SoF tables Supplementary Tables S23, S83–S87",
+    "SoF tables Supplementary Table S14",
+    "Intervention Glucose monitoring (CGM, SMBG)",
+    "Comparator HbA1c",
+    "SoF tables Supplementary Tables S15, S50",
+    "Kidney International (2022) 102 (Suppl 5S), S1–S127 S99"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Table 2 | (Continued) Clinical questions and systematic review topics in the PICOM format Guideline chapter 1 Comprehensive care in patients with diabetes and CKD"
+    },
+    {
+      "type": "paragraph",
+      "text": "Outcomes Critical and important outcomes listed in Table 1 Additional outcomes: blood pressure, fatigue, quality of life"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cochrane systematic reviews None relevant"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clinical question Does smoking cessation versus usual care improve clinically relevant outcomes and reduce clinically relevant harms in patients with diabetes and CKD? Population Adults with CKD (G1–G5, G5D, G1T–G5T) and diabetes (T1D and T2D)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Outcomes Critical and important outcomes listed in Table 1 Additional outcomes: blood pressure, body mass index, body weight, fatigue, quality of life"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cochrane systematic reviews None relevant"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clinical question Does bariatric surgery versus usual care improve clinically relevant outcomes and reduce clinically relevant harms in patients with diabetes and CKD? Population Adults with CKD (G1–G5, G5D, G1T–G5T) and diabetes (T1D and T2D)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Outcomes Critical and important outcomes listed in Table 1 Additional outcomes: blood pressure, body mass index, body weight, fatigue, quality of life"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cochrane systematic reviews None relevant"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clinical question In patients with diabetes and CKD, do pharmaceutical weight-loss therapies, compared to placebo, no treatment, or standard of care, improve weight-loss or body-weight outcomes? Population Adults with CKD (G1–G5, G5D, G1T–G5T) and diabetes (T1D and T2D) Intervention Weight-loss therapies (olistat, phentermine, saxenda, liraglutide, lorcaserin, bupropion-naltrexone, topiramate, acarbose, miglitol, pramlintide, exenatide, zonisamide, fluoxetide, semaglutide, dulaglutide) Comparator Placebo/standard of care Outcomes Critical and important outcomes listed in Table 1 Additional outcomes: blood pressure, body mass index, body weight, fatigue, quality of life"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cochrane systematic reviews None relevant"
+    },
+    {
+      "type": "paragraph",
+      "text": "Guideline chapter 2 Glycemic monitoring and targets in patients with diabetes and CKD Clinical question In adults with diabetes and CKD, compared to HbA1c, do alternative biomarkers improve clinically relevant outcomes and decrease clinically relevant harms? Population Adults with CKD (G1–G5, G5D) and diabetes (T1D and T2D) Intervention Alternative biomarkers (glycated albumin, fructosamine, carbamylated albumin) Comparator HbA1c or blood glucose monitoring Outcomes All-cause mortality, kidney failure, CKD progression—doubling of SCr, $40% decline in eGFR, mean blood glucose (HbA1c) Study design RCT, observational studies Cochrane systematic reviews None relevant"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clinical question In adults with diabetes and CKD, compared to HbA1c, does blood glucose monitoring (CGM, SMBG) improve clinically relevant outcomes and decrease clinically relevant harms? Population Adults with CKD (G1–G5, G5D) and diabetes (T1D and T2D)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Outcomes All-cause mortality, kidney failure, CKD progression—doubling of SCr, $40% decline in eGFR, mean blood glucose (HbA1c) Study design RCT, observational studies Cochrane systematic reviews None relevant"
+    },
+    {
+      "type": "paragraph",
+      "text": "(Continued on following page) www.kidney-international.org methods for guideline development"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

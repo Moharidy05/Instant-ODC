@@ -1,0 +1,1305 @@
+{
+    "page_number": 22,
+    "title": "Table 10.3C Cardiovascular and cardiorenal outcomes trials of available antihyperglycemic medications completed after the issuance of the FDA 2008 guidelines: SGLT2 inhibitors",
+    "sections": [],
+    "blocks": [
+        {
+            "type": "table",
+            "content": [
+                {
+                    "row": [
+                        {
+                            "cell": "Intervention"
+                        },
+                        {
+                            "cell": "EMPA-REG"
+                        },
+                        {
+                            "cell": "CANVAS Program (11)"
+                        },
+                        {
+                            "cell": "DECLARE-TIMI 58"
+                        },
+                        {
+                            "cell": "CREDENCE (247)"
+                        },
+                        {
+                            "cell": "DAPA-CKD (759,314)"
+                        },
+                        {
+                            "cell": "VERTIS CV (254,315)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (242,216)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (253)"
+                        },
+                        {
+                            "cell": "DELIVER (252)"
+                        },
+                        {
+                            "cell": "DAPA-HF (14)"
+                        },
+                        {
+                            "cell": "EMPEROR-Reduced (24

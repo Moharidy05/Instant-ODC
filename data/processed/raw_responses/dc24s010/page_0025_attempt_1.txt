@@ -1,0 +1,38 @@
+{
+    "page_number": 25,
+    "title": "Cardiovascular Disease and Risk Management",
+    "sections": [
+        {
+            "type": "section",
+            "title": "SGLT2 Inhibitor Trials"
+        }
+    ],
+    "blocks": [
+        {
+            "type": "paragraph",
+            "text": "The BI 10773 (Empagliflozin) Cardiovascular Outcome Event Trial in Type 2 Diabetes Mellitus Patients (EMPA-REG OUTCOME) was a randomized, double-blind trial that assessed the effect of empagliflozin, an SGLT2 inhibitor, versus placebo on cardiovascular outcomes in 7,020 people with type 2 diabetes and existing cardiovascular disease. Study participants had a mean age of 63 years, 57% had diabetes for over 10 years, and 99% had established cardiovascular disease. EMPA-REG OUTCOME showed that over a median follow-up of 3.1 years, treatment reduced the composite outcome of MI, stroke, and cardiovascular death by 14% (absolute rate 10.5% vs. 12.1% in the placebo group, HR in the empagliflozin group 0.86 [95% CI 0.74–0.99]; P = 0.04 for superiority) and cardiovascular death by 38% (absolute rate 3.7% vs. 5.9%, HR 0.62 [95% CI 0.49–0.77]; P < 0.001) (11)."
+        },
+        {
+            "type": "paragraph",
+            "text": "Two large outcomes trials of the SGLT2 inhibitor canagliflozin have been conducted that separately assessed 1) the cardiovascular effects of treatment in individuals at high risk for major adverse cardiovascular events (12) and 2) the impact of canagliflozin therapy on cardiorenal outcomes in people with diabetes-related CKD (247). First, the CANVAS Program integrated data from two trials. The CANVAS trial that started in 2009 was partially unblinded prior to completion because of the need to file interim cardiovascular outcomes data for regulatory approval of the drug (248). Thereafter, the postapproval CANVAS-Renal (CANVAS-R) trial was started in 2014. Combining both trials, 10,142 participants with type 2 diabetes were randomized to canagliflozin or placebo and were followed for an average of 3.6 years. The mean age of individuals was 63 years, and 66% had a history of cardiovascular disease. The combined analysis of the two trials found that canagliflozin significantly reduced the composite outcome of cardiovascular death, MI, or stroke versus placebo (occurring in 26.9 vs. 31.5 participants per 1,000 patient-years; HR 0.86 [95% CI 0.75–0.97]). The specific estimates for canagliflozin"
+        },
+        {
+            "type": "paragraph",
+            "text": "versus placebo on the primary composite cardiovascular outcome were HR 0.88 (95% CI 0.75–1.03) for the CANVAS trial and 0.82 (0.66–1.01) for CANVAS-R, with no heterogeneity found between trials. Of note, there was an increased risk of lower-limb amputation with canagliflozin (6.3 vs. 3.4 participants per 1,000 patient-years; HR 1.97 [95% CI 1.41–2.75]) (12). Second, the Canagliflozin and Renal Events in Diabetes with Established Nephropathy Clinical Evaluation (CREDENCE) trial randomized 4,401 people with type 2 diabetes and chronic diabetes-related kidney disease (UACR >300 mg/g and eGFR 30 to <90 mL/min/1.73 m²) to canagliflozin 100 mg daily or placebo (247). The primary outcome was a composite of end-stage kidney disease, doubling of serum creatinine, or death from renal or cardiovascular causes. The trial was stopped early due to conclusive evidence of efficacy identified during a prespecified interim analysis with no unexpected safety signals. The risk of the primary composite outcome was 30% lower with canagliflozin treatment than with placebo (HR 0.70 [95% CI 0.59–0.82]). Moreover, it reduced the prespecified end point of end-stage kidney disease alone by 32% (HR 0.68 [95% CI 0.54–0.86]). Canagliflozin was additionally found to have a lower risk of the composite of cardiovascular death, MI, or stroke (HR 0.80 [95% CI 0.67–0.95]) as well as lower risk of hospitalizations for heart failure (HR 0.61 [95% CI 0.47–0.80]) and of the composite of cardiovascular death or hospitalization for heart failure (HR 0.69 [95% CI 0.57–0.83]). In terms of safety, no significant increase in lower-limb amputations, fractures, AKI, or hyperkalemia was noted for canagliflozin relative to placebo in CREDENCE. An increased risk for diabetic ketoacidosis was noted, however, with 2.2 and 0.2 events per 1,000 patient-years noted in the canagliflozin and placebo groups, respectively (HR 10.80 [95% CI 1.39–83.65]) (247)."
+        },
+        {
+            "type": "paragraph",
+            "text": "The Dapagliflozin Effect on Cardiovascular Events-Thrombosis in Myocardial Infarction 58 (DECLARE-TIMI 58) trial was another randomized, double-blind trial that assessed the effects of dapagliflozin versus placebo on cardiovascular and renal outcomes in 17,160 people with type 2 diabetes and established ASCVD or multiple risk factors for ASCVD (249). Study participants had a mean age of 64 years, with ~40% of study participants having established ASCVD at baseline—a characteristic of this trial that differs from other large cardiovascular trials where a majority of participants had established cardiovascular disease. DECLARE-TIMI 58 met the prespecified criteria for noninferiority to placebo with respect to major adverse cardiovascular events but did not show a lower rate of major adverse cardiovascular events when compared with placebo (8.8% in the dapagliflozin group and 9.4% in the placebo group; HR 0.93 [95% CI 0.84–1.03]; P = 0.17). A lower rate of cardiovascular death or hospitalization for heart failure was noted (4.9% vs. 5.8%; HR 0.83 [95% CI 0.73–0.95]; P = 0.005), which reflected a lower rate of hospitalization for heart failure (HR 0.73 [95% CI 0.61–0.88]). No difference was seen in cardiovascular death between groups."
+        },
+        {
+            "type": "paragraph",
+            "text": "In the Dapagliflozin and Prevention of Adverse Outcomes in Chronic Kidney Disease (DAPA-CKD) trial (250), 4,304 individuals with CKD (UACR 200–5,000 mg/g and eGFR 25–75 mL/min/1.73 m²), with or without diabetes, were randomized to dapagliflozin 10 mg daily or placebo. The primary outcome was a composite of sustained decline in eGFR of at least 50%, end-stage kidney disease, or death from renal or cardiovascular causes. Over a median follow-up period of 2.4 years, a primary outcome event occurred in 9.2% of participants in the dapagliflozin group and 14.5% of those in the placebo group. The risk of the primary composite outcome was significantly lower with dapagliflozin therapy compared with placebo (HR 0.61 [95% CI 0.51–0.72]), as were the risks for a renal composite outcome of sustained decline in eGFR of at least 50%, end-stage kidney disease, or death from renal causes (HR 0.56 [95% CI 0.45–0.68]), and a composite of cardiovascular death or hospitalization for heart failure (HR 0.71 [95% CI 0.55–0.92]). The effects of dapagliflozin therapy were similar in individuals with and without type 2 diabetes."
+        },
+        {
+            "type": "paragraph",
+            "text": "Results of the Dapagliflozin and Prevention of Adverse Outcomes in Heart Failure (DAPA-HF) trial, the Empagliflozin Outcome Trial in Patients With Chronic Heart Failure and a Reduced Ejection Fraction (EMPEROR-Reduced), Empagliflozin Outcome Trial in Patients With Chronic Heart Failure With Preserved Ejection Fraction (EMPEROR-Preserved), Effects of Dapagliflozin on Biomarkers, Symptoms and Functional Status in"
+        }
+    ],
+    "tables": [],
+    "figures": []
+}

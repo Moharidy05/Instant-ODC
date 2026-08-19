@@ -1,0 +1,34 @@
+{
+  "page_number": 19,
+  "title": null,
+  "sections": [
+    "The International Working Group on the Diabetic Foot",
+    "IWGDF Classification Guideline",
+    "IWGDF",
+    "Guidelines",
+    "Table 4: IDSA/IWGDF system",
+    "Mild 2",
+    "Moderate 3",
+    "Severe 4"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Clinical manifestations Infection severity PEDIS grade Wound lacking purulence or any manifestations of inflammation Uninfected 1 Presence of ≥ 2 manifestations of inflammation (purulence, or erythema, tenderness, warmth, or induration), but any cellulitis/erythema extends ≤ 2cm around the ulcer, and infection is limited to the skin or superficial subcutaneous tissues; no other local complications or systemic illness"
+    },
+    {
+      "type": "paragraph",
+      "text": "Infection (as above) in a patient who is systemically well and metabolically stable but which has ≥ 1 of the following characteristics: cellulitis extending >2cm, lymphangitic streaking, spread beneath the superficial fascia, deep-tissue abscess, gangrene, and involvement of muscle, tendon, joint or bone"
+    },
+    {
+      "type": "paragraph",
+      "text": "Infection in a patient with systemic toxicity or metabolic instability (e.g. fever, chills, tachycardia, hypotension, confusion, vomiting, leucocytosis, acidosis, severe hyperglycaemia, or azotaemia)"
+    },
+    {
+      "type": "paragraph",
+      "text": "In our systematic review, we found eight studies validating this system and, although most were at high risk of bias, they showed that an increase in the severity of the infection was associated with a lower incidence of ulcer healing, higher incidence of amputation, hospital admission(s) and having longer length of in-hospital stays (24). In 2019, this classification underwent a modification during the process of developing the IWGDF guidelines (25). However, this updated version was derived from a study classified as being at high risk of bias (26) and so, at present, we cannot recommend its use. Of note, whilst the IDSA/IWGDF is incorporated into WIfI (see Table 3), in situations where only infection is being assessed and equipment is not available to use WIfI, the IDSA/IWGDF infection classification can stand alone. On the other hand, in a case of suspected or confirmed infected ulcer complicated by ischaemia, meaning when in the presence of previously diagnosed peripheral artery disease or in a setting in which surgeons with vascular surgery expertise are available, the use of the WIfI classification could be considered. The studies conducted to validate the UTWCS system have clearly shown that the concomitant presence of infection and peripheral artery disease in a person with diabetes and an ulcer has an incremental effect on the risk of poor clinical outcomes (such as non-healing, delay in healing, or amputation) as well as in costs (19, 27-36). For example, it is well known that oral antibiotic therapy is less effective in people with limited vascular supply. So, the group considered that, when resources and clinical expertise are available, vascular status should be ascertained. As discussed for the first clinical scenario (communication between healthcare professionals), when comparing the WIfI with the UTWCS system we considered that the certainty of evidence is similar (low for both) (4), but the level of detail of the WIfI system and the direct link to clinical management"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}

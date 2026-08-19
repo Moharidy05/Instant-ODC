@@ -1,0 +1,13 @@
+{
+    "page_number": 27,
+    "title": "Cardiovascular Disease and Risk Management",
+    "sections": [
+        {
+            "type": "paragraph",
+            "text": "(P < 0.001) but did not show superiority (P = 0.81). The Exenatide Study of Cardiovascular Event Lowering (EXSCEL) trial also reported results with the once-weekly GLP-1 receptor agonist extended-release exenatide and found that major adverse cardiovascular events were numerically lower with use of extended-release exenatide compared with placebo, although this difference was not statistically significant (261). A total of 14,752 people with type 2 diabetes (of whom 10,782 [73.1%] had previous cardiovascular disease) were randomized to receive extended-release exenatide 2 mg or placebo and followed for a median of 3.2 years. The primary end point of cardiovascular death, MI, or stroke occurred in 839 individuals (11.4%; 3.7 events per 100 person-years) in the exenatide group and in 905 individuals (12.2%; 4.0 events per 100 person-years) in the placebo group (HR 0.91 [95% CI 0.83–1.00]; P < 0.001 for non-inferiority), but exenatide was not superior to placebo with respect to the primary end point (P = 0.06 for superiority). However, all-cause mortality was lower in the exenatide group (HR 0.86 [95% CI 0.77–0.97]). The incidence of acute pancreatitis, pancreatic cancer, medullary thyroid carcinoma, and serious adverse events did not differ significantly between the two groups."
+
+    	}
+    ],
+    "tables": [],
+    "figures": []
+}

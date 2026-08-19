@@ -1,0 +1,23 @@
+{
+    "page_number": 31,
+    "title": "Cardiovascular Disease and Risk Management",
+    "sections": [
+        {
+            "type": "figure",
+            "content": "Figure 10.3 - Approach to risk reduction with sodium-glucose cotransporter 2 inhibitor or glucagon-like peptide 1 receptor agonist therapy in conjunction with other traditional, guideline-based preventive medical therapies for blood pressure, lipids, and glycemia and antiplatelet therapy. Reprinted with permission from Das et al. (309)."
+        }
+    ],
+    "blocks": [
+        {
+            "type": "paragraph",
+            "text": "Finerenone in People with Type 2 Diabetes and Chronic Kidney Disease\nAs discussed in detail in Section 11, \"Chronic Kidney Disease and Risk Management,\" people with diabetes are at an increased risk for CKD, which increases cardiovascular risk (308). Finerenone, a selective nonsteroidal MRA, has been shown in the FIDELIO-DKD trial to improve CKD outcomes in people with type 2 diabetes with stage 3 or 4 CKD and severe albuminuria (281). In the FIGARO-DKD trial, 7,437 individuals with UACR 30–300 mg/g and eGFR 25–90 mL/\nmin/1.73 m² or UACR 300–5,000 and eGFR ≥60 mL/min/1.73 m² on maximum dose of renin-angiotensin system blockade were randomized to receive finerenone or placebo (240). The HR of the primary outcome of cardiovascular death, nonfatal MI, nonfatal stroke, or hospitalization from heart failure was reduced by 13% in individuals treated with finerenone. A pre-specified subgroup analysis from FIGARO-DKD further revealed that in individuals without symptomatic HFREF, finerenone reduces the risk for new-onset heart failure and improves heart failure outcomes in people with type 2 diabetes and CKD (239). Finally, in the pooled analysis of 13,026 people with type 2 diabetes and CKD from both FIDELIO-DKD and FIGARO-DKD, the HR for the composite of cardiovascular death, nonfatal MI, nonfatal stroke, or hospitalization for heart failure as well as a composite of kidney failure, a sustained ≥57% decrease in eGFR from baseline over ≥4 weeks, or renal death were 0.86 and 0.77, respectively (241). These collective studies indicate that finerenone improves cardiovascular and renal outcomes in people with type 2"
+   	}
+    ],
+    "tables": [],
+    "figures": [
+        {
+            "type": "figure",
+ "content": "Figure 10.3 - Approach to risk reduction with sodium-glucose cotransporter 2 inhibitor or glucagon-like peptide 1 receptor agonist therapy in conjunction with other traditional, guideline-based preventive medical therapies for blood pressure, lipids, and glycemia and antiplatelet therapy. Reprinted with permission from Das et al. (309).s"
+  	}
+    ]
+}

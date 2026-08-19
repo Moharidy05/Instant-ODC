@@ -1,0 +1,40 @@
+{
+  "page_number": 35,
+  "title": null,
+  "sections": [
+    "Benazepril",
+    "Captopril",
+    "Enalapril",
+    "Fosinopril",
+    "Lisinopril",
+    "Perindopril",
+    "Quinapril",
+    "Ramipril",
+    "Trandolapril",
+    "Angiotensin",
+    "Azilsartan",
+    "Candesartan",
+    "Irbesartan",
+    "Losartan",
+    "Olmesartan",
+    "Telmisartan",
+    "Valsartan",
+    "S34 Kidney International (2022) 102 (Suppl 5S), S1–S127"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Drug Starting dose Maximum daily dose Kidney impairment ACE inhibitors"
+    },
+    {
+      "type": "paragraph",
+      "text": "receptor blockers"
+    },
+    {
+      "type": "paragraph",
+      "text": "10 mg once daily 12.5 mg to 25 mg 2 to 3 times daily 5 mg once daily 10 mg once daily 10 mg once daily 2 mg once daily 10 mg once daily 2.5 mg once daily 1 mg once daily 80 mg Usually 50 mg 3 times daily (may go up to 450 mg/day) 40 mg 80 mg 40 mg 8 mg 80 mg 20 mg 4 mg CrCl ≥30 ml/min: No dosage adjustment needed. CrCl <30 ml/min: Reduce initial dose to 5 mg PO once daily for adults. Parent compound not removed by hemodialysis Half-life is increased in patients with kidney impairment CrCl 10–50 ml/min: administer 75% of normal dose every 12–18 hours. CrCl <10 ml/min: administer 50% of normal dose every 24 hours. Hemodialysis: administer after dialysis. About 40% of drug is removed by hemodialysis CrCl ≤30 ml/min: In adult patients, reduce initial dose to 2.5 mg PO once daily. 2.5 mg PO after hemodialysis on dialysis days; dosage on non-dialysis days should be adjusted based on clinical response No dosage adjustment necessary Poorly removed by hemodialysis CrCl 10–30 ml/min: Reduce initial recommended dose by 50% for adults. Max: 40 mg/day CrCl <10 ml/min: Reduce initial dosage to 2.5 mg PO once daily. Max: 40 mg/day Use is not recommended when CrCl <30 ml/min Perindopril and its metabolites are removed by hemodialysis CrCl 61–89 ml/min: start at 10 mg once daily. CrCl 30–60 ml/min: start at 5 mg once daily. CrCl 10–29 ml/min: start Administer 25% of normal dose when CrCl <40 ml/min Minimally removed by hemodialysis CrCl <30 ml/min: reduce initial dose to 0.5 mg/day 20–80 mg once daily 16 mg once daily 150 mg once daily 50 mg once daily 20 mg once daily 40 mg once daily 80 mg once daily 80 mg 32 mg 300 mg 100 mg 40 mg 80 mg 320 mg Dose adjustment is not required in patients with mild-to-severe kidney impairment or kidney failure In patients with CrCl <30 ml/min, AUC and Cmax were approximately doubled with repeated dosing. Not removed by hemodialysis No dosage adjustment necessary. Not removed by hemodialysis No dosage adjustment necessary. Not removed by hemodialysis AUC is increased 3-fold in patients with CrCl <20 ml/min. No initial dosage adjustment is recommended for patients with moderate to marked kidney impairment (CrCl <40 ml/min). Has not been studied in dialysis patients No dosage adjustment necessary. Not removed by hemodialysis hemodialysis Figure 3 | Different formulations of angiotensin-converting enzyme inhibitors (ACEi) and angiotensin II receptor blockers (ARBs). Dosage recommendations are obtained from the Physician Desk Reference and/or the US Food and Drug Administration, which are based on information from package inserts registered in the US. Dosage recommendations may differ across countries and regulatory authorities. AUC, area under the curve; Cmax, maximum or peak concentration; CrCl, creatinine clearance; GFR, glomerular filtration rate; PO, oral. chapter 1 www.kidney-international.org"
+    }
+  ],
+  "tables": [],
+  "figures": []
+}
