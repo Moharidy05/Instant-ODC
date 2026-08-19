@@ -87,7 +87,7 @@ SUPABASE_ANON_KEY = os.getenv("SUPABASE_ANON_KEY", "")
 SUPABASE_SERVICE_ROLE_KEY = os.getenv("SUPABASE_SERVICE_ROLE_KEY", "")
 
 LLM_PROVIDER = os.getenv("LLM_PROVIDER", "gemini").strip().lower()
-EMBEDDING_PROVIDER = os.getenv("EMBEDDING_PROVIDER", "gemini").strip().lower()
+EMBEDDING_PROVIDER = os.getenv("EMBEDDING_PROVIDER", "embeddinggemma_api").strip().lower()
 
 # Explicit pools used by the fallback router.
 GEMINI_EMBEDDING_API_KEYS = get_gemini_embedding_keys()
@@ -107,10 +107,19 @@ LOCAL_EMBEDDING_FALLBACK_MODEL = os.getenv(
     "LOCAL_EMBEDDING_FALLBACK_MODEL", "sentence-transformers/all-MiniLM-L6-v2"
 )
 
-EMBEDDING_DIM = _int("EMBEDDING_DIM", 1536 if EMBEDDING_PROVIDER == "gemini" else 384)
+EMBEDDING_DIM = _int("EMBEDDING_DIM", 768)
 EMBEDDING_BATCH_SIZE = _int("EMBEDDING_BATCH_SIZE", 10 if EMBEDDING_PROVIDER == "gemini" else 32)
 EMBEDDING_SLEEP_SECONDS = _float("EMBEDDING_SLEEP_SECONDS", 2.0 if EMBEDDING_PROVIDER == "gemini" else 0.5)
 GEMINI_MAX_RETRIES_PER_KEY = _int("GEMINI_MAX_RETRIES_PER_KEY", 1)
+
+EMBEDDING_API_URL = os.getenv("EMBEDDING_API_URL", "http://localhost:11341/api/embed").strip()
+EMBEDDING_API_KEY = os.getenv("EMBEDDING_API_KEY", "").strip()
+EMBEDDING_API_TIMEOUT_SECONDS = _int("EMBEDDING_API_TIMEOUT_SECONDS", 60)
+EMBEDDING_API_STYLE = os.getenv("EMBEDDING_API_STYLE", "ollama").strip().lower()
+EMBEDDING_API_MODEL = os.getenv("EMBEDDING_API_MODEL", "embeddinggemma").strip()
+
+CHUNKS_TABLE = os.getenv("CHUNKS_TABLE", "guideline_chunks").strip()
+MATCH_FUNCTION = os.getenv("MATCH_FUNCTION", "match_guideline_chunks").strip()
 
 PDF_PATH = os.getenv("PDF_PATH", "data/raw/dc26s005.pdf")
 PROJECT_TOPIC = os.getenv("PROJECT_TOPIC", "diabetes_food_safety")

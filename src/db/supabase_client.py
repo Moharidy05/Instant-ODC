@@ -35,3 +35,27 @@ def supabase_configured(*, admin: bool = False) -> bool:
     if admin:
         return bool(SUPABASE_URL and SUPABASE_SERVICE_ROLE_KEY)
     return bool(SUPABASE_URL and SUPABASE_ANON_KEY)
+
+
+from src.core.config import MATCH_FUNCTION
+
+
+def match_chunks(
+    query_embedding: list[float],
+    clinical_topic: str,
+    disease_layer: str,
+    top_k: int = 5,
+) -> list[dict]:
+    client = get_client()
+
+    response = client.rpc(
+        MATCH_FUNCTION,
+        {
+            "query_embedding": query_embedding,
+            "match_count": top_k,
+            "filter_clinical_topic": clinical_topic,
+            "filter_disease_layer": disease_layer,
+        },
+    ).execute()
+
+    return response.data or []
