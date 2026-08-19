@@ -54,10 +54,13 @@ def main() -> None:
 
     with ask_tab:
         examples = [
+            "Can a person with diabetes drink orange juice?",
             "Are legumes encouraged for diabetes?",
-            "Is ketogenic diet safe for diabetes?",
-            "How much insulin should I take after rice?",
+            "Is water better than soda for diabetes?",
+            "Are processed foods recommended for people with diabetes?",
+            "How much insulin should I take after eating rice?",
             "I have diabetes and kidney disease. Can I eat bananas daily?",
+            "Who won the world cup?",
         ]
         selected_example = st.selectbox("Safety demo examples", [""] + examples)
         query = st.text_input("Question", value=selected_example, placeholder="Can I eat this as a person with diabetes?")
@@ -68,16 +71,24 @@ def main() -> None:
         top_k = st.slider("Top-k evidence chunks", min_value=3, max_value=10, value=RETRIEVAL_TOP_K)
 
         if st.button("Retrieve evidence and answer", type="primary") and query.strip():
-            result = full_pipeline(query, PROJECT_TOPIC, selected_layer, top_k)
+            result = full_pipeline(
+                query=query,
+                clinical_topic=PROJECT_TOPIC,
+                disease_layer=selected_layer,
+                top_k=top_k,
+            )
             safety = result["safety_result"]
             confidence = result["confidence"]
             st.subheader("Safety classification")
             st.write(safety)
+            st.subheader("Disease layer routing")
+            st.write(result["layer"])
             st.subheader("Retrieval confidence")
             st.write(
                 {
                     "status": confidence["status"],
                     "top_similarity": round(confidence["top_similarity"], 3),
+                    "top_lexical_overlap": confidence.get("top_lexical_overlap"),
                     "threshold": MIN_RETRIEVAL_CONFIDENCE,
                 }
             )
@@ -90,6 +101,8 @@ def main() -> None:
                 st.info("No chunks retrieved or retrieval skipped due to safety/layer refusal.")
 
             st.subheader("Final answer")
+            if safety.get("safety_label") == "refuse":
+                st.error(safety.get("reason", "Request refused."))
             st.markdown(result["answer"])
 
             if result["substitutions"]:
@@ -98,6 +111,13 @@ def main() -> None:
 
             with st.expander("Citation validation"):
                 st.write(result["citation_validation"])
+
+            with st.expander("Unsupported claims"):
+                unsupported = result.get("unsupported_claims", [])
+                if unsupported:
+                    st.write(unsupported)
+                else:
+                    st.success("No unsupported claims flagged.")
 
         st.warning(SAFETY_NOTE)
 

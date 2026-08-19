@@ -6,6 +6,7 @@ from pydantic import BaseModel, Field
 class EvidenceSearchRequest(BaseModel):
     query: str = Field(min_length=1)
     disease_layer: str = "diabetes"
+    clinical_topic: str = "diabetes_food_safety"
     top_k: int = Field(default=10, ge=1, le=25)
 
 

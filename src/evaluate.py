@@ -103,7 +103,9 @@ def write_day3(results: list[dict]) -> None:
     for item in results:
         row = item["row"]
         answer = item["result"]["answer"]
-        has_citations = "Citations:" in answer and ("chunk ID" in answer or "chunk_id" in answer or item["citation"]["cited_chunk_ids"])
+        has_citations = "Citations:" in answer and bool(
+            "chunk ID" in answer or "chunk_id" in answer or item["citation"].get("cited_chunk_ids")
+        )
         refusal_ok = _expected_refusal(row) == _actual_refusal(item["result"]) or not _expected_refusal(row)
         faithful = len(item["unsupported"]) == 0 or item["result"]["safety_result"].get("safety_label") == "refuse"
         lines.append(

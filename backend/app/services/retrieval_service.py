@@ -12,7 +12,7 @@ def retrieve_evidence(
     clinical_topic: str = PROJECT_TOPIC,
 ) -> dict:
     chunks = retrieve_chunks(query, clinical_topic=clinical_topic, disease_layer=disease_layer, top_k=top_k)
-    confidence = retrieval_confidence(chunks)
+    confidence = retrieval_confidence(chunks, query=query)
     return {
         "confidence": confidence["status"],
         "top_score": float(confidence["top_similarity"]),

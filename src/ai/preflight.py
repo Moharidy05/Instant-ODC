@@ -20,10 +20,9 @@ def main() -> None:
         EMBEDDING_DIM,
         EMBEDDING_PROVIDER,
         GEMINI_EMBEDDING_API_KEYS,
-        GEMINI_EMBEDDING_MODELS,
         GEMINI_GENERATION_API_KEYS,
-        GEMINI_GENERATION_MODELS,
     )
+    from src.ai.fallback_router import GeminiFallbackRouter
 
     print(f"Embedding provider: {EMBEDDING_PROVIDER}")
     print(f"Embedding dimension: {EMBEDDING_DIM}")
@@ -32,16 +31,6 @@ def main() -> None:
     if EMBEDDING_PROVIDER != "gemini":
         print("Preflight is configured for non-Gemini embeddings. This script is optimized for Gemini pools.")
 
-    try:
-        from google import genai
-        from google.genai import types
-    except Exception as exc:
-        print(f"google-genai import FAILED: {exc}")
-        sys.exit(1)
-
-    embedding_model = GEMINI_EMBEDDING_MODELS[0] if GEMINI_EMBEDDING_MODELS else "gemini-embedding-001"
-    generation_model = GEMINI_GENERATION_MODELS[0] if GEMINI_GENERATION_MODELS else "gemini-2.0-flash"
-
     print("\nEmbedding keys:")
     embedding_ok = 0
     if not GEMINI_EMBEDDING_API_KEYS:
@@ -49,14 +38,10 @@ def main() -> None:
         errors += 1
     for idx, key in enumerate(GEMINI_EMBEDDING_API_KEYS):
         try:
-            client = genai.Client(api_key=key)
+            router = GeminiFallbackRouter()
+            router.embedding_keys = [key]
             start = time.perf_counter()
-            response = client.models.embed_content(
-                model=embedding_model,
-                contents="preflight diabetes food safety test",
-                config=types.EmbedContentConfig(task_type="RETRIEVAL_QUERY", output_dimensionality=EMBEDDING_DIM),
-            )
-            vec = list(response.embeddings[0].values) if response.embeddings else []
+            vec = router.embed_text("preflight diabetes food safety test", kind="query")
             if len(vec) != EMBEDDING_DIM:
                 print(f"embedding_key[{idx}]: FAILED dimension_mismatch got={len(vec)}")
                 errors += 1
@@ -73,18 +58,15 @@ def main() -> None:
         errors += 1
     for idx, key in enumerate(GEMINI_GENERATION_API_KEYS):
         try:
-            client = genai.Client(api_key=key)
+            router = GeminiFallbackRouter()
+            router.generation_keys = [key]
             start = time.perf_counter()
-            response = client.models.generate_content(
-                model=generation_model,
-                contents="Say OK",
-                config=types.GenerateContentConfig(
-                    system_instruction="You are a test assistant. Respond only with OK.",
-                    max_output_tokens=10,
-                    temperature=0,
-                ),
+            text = router.generate(
+                "Say OK",
+                system_instruction="You are a test assistant. Respond only with OK.",
+                max_output_tokens=10,
+                temperature=0,
             )
-            text = (response.text or "").strip()
             if not text:
                 print(f"generation_key[{idx}]: FAILED empty_response")
                 errors += 1

@@ -11,7 +11,12 @@ router = APIRouter(prefix="/evidence", tags=["evidence"])
 
 @router.post("/search", response_model=EvidenceSearchResponse)
 def search_evidence(payload: EvidenceSearchRequest) -> EvidenceSearchResponse:
-    result = retrieve_evidence(payload.query, disease_layer=payload.disease_layer, top_k=payload.top_k)
+    result = retrieve_evidence(
+        payload.query,
+        disease_layer=payload.disease_layer,
+        clinical_topic=payload.clinical_topic,
+        top_k=payload.top_k,
+    )
     return EvidenceSearchResponse(
         query=payload.query,
         disease_layer=payload.disease_layer,

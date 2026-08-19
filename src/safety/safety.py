@@ -29,6 +29,42 @@ CAUTION_PATTERNS = [
     (r"(my condition|my diagnosis|i have)", "Query mentions personal health context."),
 ]
 
+SCOPE_PATTERNS = [
+    r"diabet",
+    r"\bfood(s)?\b",
+    r"\bdrink(s)?\b",
+    r"\bbeverage(s)?\b",
+    r"\bnutrition(al)?\b",
+    r"\bdiet(ary)?\b",
+    r"\beat(ing)?\b",
+    r"\bcarb(ohydrate)?s?\b",
+    r"\bfiber\b",
+    r"\bprotein\b",
+    r"\bfat(s)?\b",
+    r"\bsodium\b",
+    r"\bsalt\b",
+    r"\bfruit(s)?\b",
+    r"\bvegetable(s)?\b",
+    r"\blegume(s)?\b",
+    r"\bbeans?\b",
+    r"\blentils?\b",
+    r"\bwhole grains?\b",
+    r"\bsugar(y)?\b",
+    r"\bjuice(s)?\b",
+    r"\bsoda\b",
+    r"\bsoft drink(s)?\b",
+    r"\bwater\b",
+    r"\bprocessed foods?\b",
+    r"\bultra-processed\b",
+    r"\brefined grains?\b",
+    r"\bsweets?\b",
+    r"\beating patterns?\b",
+]
+
+
+def _in_scope(query_lower: str) -> bool:
+    return any(re.search(pattern, query_lower) for pattern in SCOPE_PATTERNS)
+
 
 def classify_query(query: str, active_layer: str = "diabetes") -> dict:
     query_lower = (query or "").lower()
@@ -48,6 +84,13 @@ def classify_query(query: str, active_layer: str = "diabetes") -> dict:
     for pattern, reason in CAUTION_PATTERNS:
         if re.search(pattern, query_lower):
             return {"safety_label": "needs_caution", "reason": reason, "recommended_action": "answer_with_caution"}
+
+    if not _in_scope(query_lower):
+        return {
+            "safety_label": "refuse",
+            "reason": "Query is outside the diabetes food safety navigator scope.",
+            "recommended_action": "refuse_and_explain",
+        }
 
     return {
         "safety_label": "allowed",

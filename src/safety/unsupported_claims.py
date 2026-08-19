@@ -6,6 +6,15 @@ from src.retrieval.scoring import keyword_overlap_score
 
 
 SECTION_LABEL_RE = re.compile(r"^(Food Safety Classification|Short Answer|Why|Better Alternative|Evidence Excerpt|Citations|Safety Note):", re.I)
+SAFETY_DISCLAIMER_PHRASES = (
+    "not a personalized diet plan",
+    "medical prescription",
+    "consult a qualified clinician",
+    "registered dietitian",
+    "safety note",
+    "individualized nutrition therapy",
+    "personalized medical advice",
+)
 
 
 def split_sentences(text: str) -> list[str]:
@@ -20,7 +29,8 @@ def find_unsupported_claims(answer: str, chunks: list[dict], min_overlap: float 
     for sentence in split_sentences(answer):
         if SECTION_LABEL_RE.match(sentence) or len(sentence) < 25:
             continue
-        if "not a personalized diet plan" in sentence.lower():
+        sentence_lower = sentence.lower()
+        if any(phrase in sentence_lower for phrase in SAFETY_DISCLAIMER_PHRASES):
             continue
         overlap = keyword_overlap_score(sentence, evidence)
         if overlap < min_overlap:

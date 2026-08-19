@@ -12,6 +12,30 @@ from src.retrieval.rerank import rerank_chunks
 from src.retrieval.scoring import lexical_similarity
 
 
+def expand_retrieval_query(query: str) -> str:
+    q = (query or "").lower()
+    expansions: list[str] = []
+    if any(term in q for term in ("orange juice", "juice", "fruit juice")):
+        expansions.append(
+            "sugar-sweetened beverages juice drinks nutritive sweeteners water replace beverages whole fruit fruit no added sugar"
+        )
+    if any(term in q for term in ("soda", "soft drink", "sugary drink")):
+        expansions.append(
+            "sugar-sweetened beverages regular soda pop water nonnutritive sweeteners added sugar beverages"
+        )
+    if "water" in q:
+        expansions.append("water beverage sugar-sweetened beverages no-calorie beverage")
+    if any(term in q for term in ("legumes", "legume", "beans", "bean", "lentils", "lentil")):
+        expansions.append("legumes dried beans peas lentils plant protein fiber eating pattern")
+    if "processed foods" in q or "processed food" in q:
+        expansions.append("processed foods ultra-processed foods refined grains added sugar sodium minimally processed foods")
+    if "whole grains" in q or "whole grain" in q:
+        expansions.append("whole grains fiber high-quality carbohydrates minimally processed nutrient-dense")
+    if "fruit" in q:
+        expansions.append("fruits whole fruits fresh frozen canned no added sugar fiber")
+    return query if not expansions else query + "\n" + " ".join(expansions)
+
+
 def retrieve_chunks(
     query: str,
     clinical_topic: str = PROJECT_TOPIC,
@@ -28,12 +52,13 @@ def retrieve_chunks(
     query = (query or "").strip()
     if not query:
         return []
+    expanded_query = expand_retrieval_query(query)
 
     if not supabase_configured(admin=False):
-        return local_retrieve_chunks(query, clinical_topic, disease_layer, top_k)
+        return local_retrieve_chunks(query, clinical_topic, disease_layer, top_k, expanded_query=expanded_query)
 
     try:
-        query_embedding = embed_text(query, kind="query")
+        query_embedding = embed_text(expanded_query, kind="query")
         client = get_client()
         response = client.rpc(
             "match_guideline_chunks",
@@ -45,7 +70,7 @@ def retrieve_chunks(
             },
         ).execute()
         candidates = response.data or []
-        results = rerank_chunks(query, candidates, top_k)
+        results = rerank_chunks(query, candidates, top_k, expanded_query=expanded_query)
         if log:
             log_retrieval_results(query, disease_layer, results)
         return results
@@ -59,6 +84,7 @@ def local_retrieve_chunks(
     disease_layer: str = "diabetes",
     top_k: int = RETRIEVAL_TOP_K,
     chunks_path: str | Path | None = None,
+    expanded_query: str | None = None,
 ) -> list[dict]:
     path = Path(chunks_path) if chunks_path else project_path("data", "chunks", "chunks.jsonl")
     if not path.exists():
@@ -73,17 +99,18 @@ def local_retrieve_chunks(
                 continue
             if chunk.get("disease_layer") != disease_layer:
                 continue
-            score = lexical_similarity(
-                query,
-                " ".join(
-                    str(chunk.get(field, ""))
-                    for field in ("section_title", "chunk_type", "content", "citation_label")
-                ),
+            text = " ".join(
+                str(chunk.get(field, ""))
+                for field in ("section_title", "chunk_type", "content", "citation_label")
+            )
+            score = max(
+                lexical_similarity(query, text),
+                lexical_similarity(expanded_query or query, text),
             )
             item = dict(chunk)
             item["similarity"] = round(score, 4)
             rows.append(item)
-    return sorted(rows, key=lambda x: x.get("similarity", 0), reverse=True)[:top_k]
+    return rerank_chunks(query, rows, top_k, expanded_query=expanded_query or query)
 
 
 def log_retrieval_results(query: str, layer: str, chunks: list[dict]) -> None:

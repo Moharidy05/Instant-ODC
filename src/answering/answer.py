@@ -50,7 +50,7 @@ def generate_answer(
     if safety_result.get("safety_label") == "refuse":
         return REFUSE_TEMPLATE.format(reason=safety_result.get("reason", "Request is outside scope."), safety_note=SAFETY_NOTE)
 
-    confidence = retrieval_confidence(chunks, min_confidence)
+    confidence = retrieval_confidence(chunks, min_confidence, query=query)
     if not confidence["can_answer"]:
         return INSUFFICIENT_EVIDENCE_TEMPLATE.format(
             top_similarity=confidence["top_similarity"],
@@ -132,13 +132,15 @@ def full_pipeline(
         chunks = retrieve_chunks(query, filters.get("clinical_topic", clinical_topic), filters.get("disease_layer", disease_layer), top_k)
     answer = generate_answer(query, chunks, safety)
     citation_check = validate_citations(answer, chunks) if chunks else {"valid": safety["safety_label"] == "refuse", "failures": []}
+    unsupported_claims = find_unsupported_claims(answer, chunks) if chunks else []
     return {
         "query": query,
         "layer": layer,
         "safety_result": safety,
         "chunks": chunks,
-        "confidence": retrieval_confidence(chunks),
+        "confidence": retrieval_confidence(chunks, query=query),
         "answer": answer,
         "citation_validation": citation_check,
         "substitutions": suggest_substitutions(query, chunks),
+        "unsupported_claims": unsupported_claims,
     }

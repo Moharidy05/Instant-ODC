@@ -37,7 +37,9 @@ def ask(
     chunks = pipeline.get("chunks", [])
     confidence = pipeline.get("confidence", {})
     answer = pipeline.get("answer", "")
-    unsupported_claims = find_unsupported_claims(answer, chunks) if chunks and isinstance(answer, str) else []
+    unsupported_claims = pipeline.get("unsupported_claims")
+    if unsupported_claims is None:
+        unsupported_claims = find_unsupported_claims(answer, chunks) if chunks and isinstance(answer, str) else []
 
     visible_chunks = _chunk_models(chunks) if show_chunks else []
     return AskResponse(

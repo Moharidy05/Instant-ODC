@@ -158,6 +158,72 @@ curl -X POST http://localhost:8000/evaluation/run \
   -d '{"limit": 10, "disease_layer": "diabetes"}'
 ```
 
+Frontend demo:
+
+```bash
+cd frontend
+cp .env.example .env
+pnpm install
+pnpm dev --host 0.0.0.0
+```
+
+If `pnpm` is unavailable:
+
+```bash
+cd frontend
+npm install
+npm run dev -- --host 0.0.0.0
+```
+
+Open `http://localhost:5173`. The React app calls the FastAPI backend and shows an explicit offline fallback label if the backend is unreachable.
+
+Streamlit backup demo:
+
+```bash
+streamlit run app.py --server.port 8501
+```
+
+Open `http://localhost:8501`.
+
+Useful demo API examples:
+
+```bash
+curl http://localhost:8000/health
+curl http://localhost:8000/layers
+curl "http://localhost:8000/foods/guidance-list?disease_layer=diabetes"
+
+curl -X POST http://localhost:8000/evidence/search \
+  -H "Content-Type: application/json" \
+  -d '{"query":"Can a person with diabetes drink orange juice?","disease_layer":"diabetes","clinical_topic":"diabetes_food_safety","top_k":5}'
+
+curl -X POST http://localhost:8000/ask \
+  -H "Content-Type: application/json" \
+  -d '{"question":"Can a person with diabetes drink orange juice?","disease_layer":"diabetes","language":"en","top_k":5,"show_chunks":true}'
+
+curl -X POST http://localhost:8000/ask \
+  -H "Content-Type: application/json" \
+  -d '{"question":"How much insulin should I take after eating rice?","disease_layer":"diabetes","language":"en","top_k":5,"show_chunks":true}'
+
+curl -X POST http://localhost:8000/ask \
+  -H "Content-Type: application/json" \
+  -d '{"question":"Who won the world cup?","disease_layer":"diabetes","language":"en","top_k":5,"show_chunks":true}'
+
+curl -X POST http://localhost:8000/foods/substitutions \
+  -H "Content-Type: application/json" \
+  -d '{"food":"orange juice","disease_layer":"diabetes","language":"en"}'
+
+curl -X POST http://localhost:8000/evaluation/run \
+  -H "Content-Type: application/json" \
+  -d '{"limit":10,"disease_layer":"diabetes"}'
+```
+
+Duplicate diagnostics:
+
+```text
+sql/006_diagnostics.sql
+sql/007_deduplicate_guideline_chunks.sql  (optional, manual only if duplicates exist)
+```
+
 Backend safety notes:
 
 - `/health` reports readiness booleans only; it never returns secret values.
