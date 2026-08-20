@@ -19,6 +19,22 @@ def search_evidence(payload: EvidenceSearchRequest) -> EvidenceSearchResponse:
     )
     return EvidenceSearchResponse(
         query=payload.query,
-        disease_layer=payload.disease_layer,
-        chunks=[EvidenceChunk(**chunk) for chunk in result["chunks"]],
+        layer=result.get("layer"),
+        disease_layer=result.get("layer", {}).get("effective_layer") or payload.disease_layer,
+        chunks=[
+            EvidenceChunk(
+                chunk_id=str(chunk.get("chunk_id", "")),
+                document_id=chunk.get("document_id"),
+                document_title=chunk.get("document_title"),
+                section_title=chunk.get("section_title"),
+                page_start=chunk.get("page_start"),
+                page_end=chunk.get("page_end"),
+                citation_label=chunk.get("citation_label"),
+                chunk_type=chunk.get("chunk_type"),
+                disease_layer=chunk.get("disease_layer"),
+                similarity=float(chunk.get("similarity", 0.0) or 0.0),
+                content=chunk.get("content", ""),
+            )
+            for chunk in result.get("chunks", [])
+        ],
     )

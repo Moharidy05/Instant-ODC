@@ -13,7 +13,7 @@ router = APIRouter(tags=["ask"])
 def ask_question(payload: AskRequest) -> AskResponse:
     return ask(
         question=payload.question,
-        disease_layer=payload.disease_layer,
+        disease_layer=payload.disease_layer or "auto",
         language=payload.language,
         top_k=payload.top_k,
         show_chunks=payload.show_chunks,

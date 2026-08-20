@@ -62,6 +62,7 @@ def retrieve_chunks(
     top_k: int = RETRIEVAL_TOP_K,
     candidate_k: int = RETRIEVAL_CANDIDATE_K,
     log: bool = True,
+    allowed_document_ids: list[str] | None = None,
 ) -> list[dict]:
     query = (query or "").strip()
     if not query:
@@ -78,6 +79,14 @@ def retrieve_chunks(
             disease_layer=disease_layer,
             top_k=max(candidate_k, top_k),
         )
+
+        if allowed_document_ids:
+            allowed = set(allowed_document_ids)
+            candidates = [
+                chunk
+                for chunk in candidates
+                if chunk.get("document_id") in allowed
+            ]
 
         results = rerank_chunks(
             query,
@@ -102,6 +111,7 @@ def local_retrieve_chunks(
     top_k: int = RETRIEVAL_TOP_K,
     chunks_path: str | Path | None = None,
     expanded_query: str | None = None,
+    allowed_document_ids: list[str] | None = None,
 ) -> list[dict]:
     path = Path(chunks_path) if chunks_path else project_path("data", "chunks", "chunks.jsonl")
     if not path.exists():
@@ -120,6 +130,9 @@ def local_retrieve_chunks(
                 continue
 
             if chunk.get("disease_layer") != disease_layer:
+                continue
+
+            if allowed_document_ids and chunk.get("document_id") not in set(allowed_document_ids):
                 continue
 
             text = " ".join(
@@ -166,3 +179,4 @@ def log_retrieval_results(query: str, layer: str, chunks: list[dict]) -> None:
 
     except Exception:
         return
+

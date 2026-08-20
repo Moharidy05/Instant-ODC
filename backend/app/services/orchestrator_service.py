@@ -3,6 +3,7 @@ from __future__ import annotations
 from backend.app.schemas.ask import AskResponse, RetrievalPayload
 from backend.app.schemas.evidence import EvidenceChunk
 from backend.app.services.answer_service import run_full_pipeline
+from backend.app.services.response_visibility import apply_response_visibility
 from src.safety.unsupported_claims import find_unsupported_claims
 
 
@@ -27,14 +28,17 @@ def _chunk_models(chunks: list[dict]) -> list[EvidenceChunk]:
 def ask(
     *,
     question: str,
-    disease_layer: str = "diabetes",
+    disease_layer: str = "auto",
     language: str = "en",
     top_k: int = 5,
-    show_chunks: bool = True,
+    show_chunks: bool = False,
 ) -> AskResponse:
     del language
-    pipeline = run_full_pipeline(question=question, disease_layer=disease_layer, top_k=top_k)
-    chunks = pipeline.get("chunks", [])
+    raw_result = run_full_pipeline(question=question, disease_layer=disease_layer or "auto", top_k=top_k)
+    pipeline = apply_response_visibility(pipeline_result=raw_result, show_chunks=show_chunks)
+
+    retrieval_data = pipeline.get("retrieval", {})
+    chunks = retrieval_data.get("chunks", []) if isinstance(retrieval_data, dict) else []
     confidence = pipeline.get("confidence", {})
     answer = pipeline.get("answer", "")
     unsupported_claims = pipeline.get("unsupported_claims")
@@ -45,11 +49,11 @@ def ask(
     return AskResponse(
         question=question,
         layer=pipeline.get("layer", {}),
-        safety=pipeline.get("safety_result", {}),
-        confidence=confidence,
+        safety=pipeline.get("safety", pipeline.get("safety_result", {})),
+        confidence=confidence if isinstance(confidence, dict) else {},
         retrieval=RetrievalPayload(
-            confidence=confidence.get("status", "insufficient"),
-            top_score=float(confidence.get("top_similarity", 0.0) or 0.0),
+            confidence=str(confidence.get("status", "insufficient") if isinstance(confidence, dict) else "insufficient"),
+            top_score=float(confidence.get("top_similarity", 0.0) or 0.0) if isinstance(confidence, dict) else 0.0,
             chunks=visible_chunks,
         ),
         answer=answer,

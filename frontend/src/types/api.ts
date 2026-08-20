@@ -19,8 +19,11 @@ export type HealthResponse = {
 
 export type LayerRow = {
   layer: string
+  label?: string
   active: boolean
+  clinical_topic?: string
   required_documents: string[]
+  available_documents?: string[]
   description?: string
 }
 
@@ -28,8 +31,9 @@ export type LayersResponse = {
   layers: LayerRow[]
 }
 
-export type EvidenceChunk = {
+export interface EvidenceChunk {
   chunk_id: string
+  document_id?: string
   document_title?: string | null
   section_title?: string | null
   page_start?: number | null
@@ -37,14 +41,34 @@ export type EvidenceChunk = {
   citation_label?: string | null
   chunk_type?: string | null
   disease_layer?: string | null
-  similarity: number
-  content: string
+  similarity?: number
+  content?: string
   rerank_score?: number
   lexical_overlap?: number
   expanded_lexical_overlap?: number
 }
 
-export type AskRequest = {
+export interface LayerRoute {
+  effective_layer?: string | null
+  clinical_topic?: string | null
+  allowed_document_ids?: string[]
+  can_answer?: boolean
+  route_status?: string
+  reason?: string
+}
+
+export interface RetrievalConfidence {
+  top_similarity?: number
+  top_lexical_overlap?: number
+  layer_match?: number
+  evidence_count?: number
+  composite_score?: number
+  threshold?: number
+  status?: string
+  can_answer?: boolean
+}
+
+export interface AskRequest {
   question: string
   disease_layer?: string
   language?: string
@@ -52,23 +76,24 @@ export type AskRequest = {
   show_chunks?: boolean
 }
 
-export type AskResponse = {
+export interface AskResponse {
   question: string
-  layer: Record<string, unknown>
-  safety: Record<string, unknown>
-  confidence: Record<string, unknown>
-  retrieval: {
-    confidence: string
-    top_score: number
-    chunks: EvidenceChunk[]
+  layer?: LayerRoute
+  safety?: {
+    safety_label?: string
+    reason?: string
+    recommended_action?: string
   }
-  answer: string | Record<string, unknown>
-  substitutions: SubstitutionItem[]
-  citation_validation: Record<string, unknown>
-  unsupported_claims: Array<{
-    sentence: string
-    overlap: number
-  }>
+  confidence?: RetrievalConfidence
+  retrieval?: {
+    confidence?: string
+    top_score?: number
+    chunks?: EvidenceChunk[]
+  }
+  answer?: any
+  substitutions?: any[]
+  citation_validation?: any
+  unsupported_claims?: any[]
 }
 
 export type EvidenceSearchRequest = {
@@ -80,6 +105,7 @@ export type EvidenceSearchRequest = {
 
 export type EvidenceSearchResponse = {
   query: string
+  layer?: LayerRoute
   disease_layer: string
   chunks: EvidenceChunk[]
 }
@@ -133,3 +159,4 @@ export type EvaluationRunResponse = {
   }
   results: Array<Record<string, unknown>>
 }
+

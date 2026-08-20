@@ -39,6 +39,7 @@ import {
   runEvaluation,
   searchEvidence,
 } from './lib/api'
+import { EvidenceDetails } from './components/EvidenceDetails'
 import { evidenceChunkToCard, guidanceItemToFoodCard, parseAnswer } from './lib/mappers'
 import type {
   AskResponse,
@@ -63,27 +64,31 @@ const EXAMPLES = [
 ]
 
 const FALLBACK_LAYERS: LayerRow[] = [
-  { layer: 'diabetes', active: true, required_documents: ['ada_standards_2026_section_5'], description: 'Grounded in ADA Standards of Care 2026 nutrition guidance.' },
-  { layer: 'diabetes_ckd', active: false, required_documents: [], description: 'Inactive until CKD guideline evidence is indexed.' },
-  { layer: 'diabetes_cvd', active: false, required_documents: [], description: 'Inactive until cardiovascular guideline evidence is indexed.' },
-  { layer: 'diabetes_pregnancy', active: false, required_documents: [], description: 'Inactive until pregnancy guideline evidence is indexed.' },
-  { layer: 'diabetes_hypertension', active: false, required_documents: [], description: 'Inactive until hypertension guideline evidence is indexed.' },
+  { layer: 'diabetes', label: 'General Diabetes / Nutrition', active: true, required_documents: ['ada_standards_2026_section_5'], description: 'General diabetes food, beverage and nutrition questions.' },
+  { layer: 'diabetes_ckd', label: 'Diabetes + CKD', active: true, required_documents: ['kdigo_2022_diabetes_ckd'], description: 'Questions specifically involving diabetes with chronic kidney disease.' },
+  { layer: 'diabetes_cvd', label: 'Diabetes + Cardiovascular Disease', active: true, required_documents: ['ada_2024_section_10_cvd'], description: 'Questions specifically involving diabetes with cardiovascular disease.' },
+  { layer: 'diabetes_foot', label: 'Diabetes-related Foot Disease', active: true, required_documents: ['iwgdf_2023_practical_diabetes_foot', 'iwgdf_2023_prevention_diabetes_foot', 'iwgdf_2023_classification_diabetes_foot'], description: 'Questions specifically involving diabetes-related foot disease.' },
+  { layer: 'diabetes_masld', label: 'Diabetes + MASLD', active: true, required_documents: ['masld_metabolic_disease_guideline'], description: 'Questions specifically involving diabetes with fatty liver / MASLD.' },
+  { layer: 'inactive_misc', label: 'Inactive Miscellaneous Evidence', active: false, required_documents: ['additional_diabetes_guideline_dci260082'], description: 'Inactive miscellaneous evidence. Never use automatically.' },
 ]
 
 const LAYER_LABELS: Record<string, string> = {
-  diabetes: 'Diabetes',
-  diabetes_ckd: 'Diabetes + Kidney Disease',
+  auto: 'Auto (Recommended)',
+  diabetes: 'General Diabetes / Nutrition',
+  diabetes_ckd: 'Diabetes + CKD',
   diabetes_cvd: 'Diabetes + Cardiovascular Disease',
-  diabetes_pregnancy: 'Diabetes + Pregnancy',
-  diabetes_hypertension: 'Diabetes + Hypertension',
+  diabetes_foot: 'Diabetes-related Foot Disease',
+  diabetes_masld: 'Diabetes + MASLD',
+  inactive_misc: 'Inactive Miscellaneous Evidence',
 }
 
 const LAYER_ICON = {
   diabetes: Shield,
   diabetes_ckd: Kidney,
   diabetes_cvd: Heart,
-  diabetes_pregnancy: Baby,
-  diabetes_hypertension: Heart,
+  diabetes_foot: Document,
+  diabetes_masld: LeafPlate,
+  inactive_misc: Shield,
 } as const
 
 const FOOD_ICON = {
@@ -144,7 +149,8 @@ const t = {
 export default function App() {
   const [lang, setLang] = useState<'en' | 'ar'>('en')
   const [menuOpen, setMenuOpen] = useState(false)
-  const [activeLayer, setActiveLayer] = useState('diabetes')
+  const [activeLayer, setActiveLayer] = useState('auto')
+  const [showChunks, setShowChunks] = useState(false)
   const [query, setQuery] = useState(EXAMPLES[0])
   const [topK, setTopK] = useState(5)
   const [foodTab, setFoodTab] = useState<'encouraged' | 'caution' | 'limit'>('encouraged')
@@ -183,12 +189,12 @@ export default function App() {
   }, [])
 
   const parsedAnswer = useMemo(
-    () => (askResult ? parseAnswer(askResult.answer, askResult.safety.safety_label) : null),
+    () => (askResult ? parseAnswer(askResult.answer, askResult.safety?.safety_label) : null),
     [askResult],
   )
 
   const resultClassification = parsedAnswer?.classification ?? 'limit'
-  const resultEvidenceCards = (askResult?.retrieval.chunks ?? []).map(evidenceChunkToCard)
+  const resultEvidenceCards = (askResult?.retrieval?.chunks ?? []).map(evidenceChunkToCard)
 
   const foods = useMemo<FoodItem[]>(() => {
     if (!guidance || offline) {
@@ -223,7 +229,7 @@ export default function App() {
         disease_layer: activeLayer,
         language: lang,
         top_k: topK,
-        show_chunks: true,
+        show_chunks: showChunks,
       })
       setAskResult(response)
       setOffline(false)
@@ -411,10 +417,36 @@ export default function App() {
             <Panel title={L.patientContext}>
               <p className="mb-3 text-[12px] font-semibold uppercase tracking-wide text-slate-400">{L.diseaseLayer}</p>
               <div className="flex flex-col gap-2">
+                <button
+                  onClick={() => setActiveLayer('auto')}
+                  className={`flex items-center justify-between rounded-xl border px-3.5 py-3 text-left transition-all ${
+                    activeLayer === 'auto'
+                      ? 'border-teal bg-cyan-soft'
+                      : 'border-slate-200 hover:border-teal/60'
+                  }`}
+                >
+                  <span className="text-[13px] font-semibold text-navy">
+                    Auto (Recommended)
+                  </span>
+                  <DiseaseLayerBadge label="Smart Route" active />
+                </button>
                 {layers.map((layer) => (
-                  <button key={layer.layer} onClick={() => setActiveLayer(layer.layer)} className={`flex items-center justify-between rounded-xl border px-3.5 py-3 text-left transition-all ${activeLayer === layer.layer ? 'border-teal bg-cyan-soft' : 'border-slate-200 hover:border-teal/60'}`}>
-                    <span className="text-[13px] font-semibold text-navy">{LAYER_LABELS[layer.layer] ?? layer.layer}</span>
-                    <DiseaseLayerBadge label={layer.active ? 'Active' : 'Inactive'} active={layer.active} />
+                  <button
+                    key={layer.layer}
+                    onClick={() => setActiveLayer(layer.layer)}
+                    className={`flex items-center justify-between rounded-xl border px-3.5 py-3 text-left transition-all ${
+                      activeLayer === layer.layer
+                        ? 'border-teal bg-cyan-soft'
+                        : 'border-slate-200 hover:border-teal/60'
+                    }`}
+                  >
+                    <span className="text-[13px] font-semibold text-navy">
+                      {layer.label || LAYER_LABELS[layer.layer] || layer.layer}
+                    </span>
+                    <DiseaseLayerBadge
+                      label={layer.active ? 'Active' : 'Inactive'}
+                      active={layer.active}
+                    />
                   </button>
                 ))}
               </div>
@@ -441,23 +473,52 @@ export default function App() {
                   </button>
                 ))}
               </div>
-              <button onClick={() => void runCheck(query)} disabled={askLoading} className="mt-5 inline-flex w-full items-center justify-center gap-2 rounded-xl bg-navy px-6 py-3.5 text-[15px] font-semibold text-white transition-transform hover:-translate-y-0.5 disabled:cursor-wait disabled:opacity-70 sm:w-auto">
-                <Shield width={18} height={18} />
-                {askLoading ? 'Checking...' : L.checkCta}
-              </button>
+              <div className="mt-5 flex flex-wrap items-center justify-between gap-4">
+                <button onClick={() => void runCheck(query)} disabled={askLoading} className="inline-flex w-full items-center justify-center gap-2 rounded-xl bg-navy px-6 py-3.5 text-[15px] font-semibold text-white transition-transform hover:-translate-y-0.5 disabled:cursor-wait disabled:opacity-70 sm:w-auto">
+                  <Shield width={18} height={18} />
+                  {askLoading ? 'Checking...' : L.checkCta}
+                </button>
+                <label className="flex cursor-pointer select-none items-center gap-2 text-sm text-slate-600">
+                  <input
+                    type="checkbox"
+                    checked={showChunks}
+                    onChange={(event) => setShowChunks(event.target.checked)}
+                    className="h-4 w-4 rounded accent-teal"
+                  />
+                  Show evidence details
+                </label>
+              </div>
               {askError && <p className="mt-3 rounded-lg bg-amber/10 px-3 py-2 text-[13px] font-medium text-amber">Backend offline - showing mock demo data. {askError}</p>}
             </Panel>
 
             <div className="rounded-2xl border border-slate-200 bg-white p-6 shadow-[0_20px_50px_-40px_rgba(7,30,61,0.5)]">
               <div className="flex flex-wrap items-center justify-between gap-3 border-b border-slate-100 pb-4">
-                <p className="text-[13px] font-semibold uppercase tracking-wide text-slate-400">{L.result}</p>
+                <div className="flex flex-wrap items-center gap-2">
+                  <p className="text-[13px] font-semibold uppercase tracking-wide text-slate-400">{L.result}</p>
+                  {askResult?.layer?.effective_layer && (
+                    <span className="inline-flex items-center rounded-full bg-slate-100 px-3 py-1 text-xs font-medium text-slate-700">
+                      Guideline layer: {LAYER_LABELS[askResult.layer.effective_layer] ?? askResult.layer.effective_layer}
+                    </span>
+                  )}
+                  {askResult?.confidence?.status && (
+                    <span className="inline-flex items-center rounded-full border border-slate-200 px-3 py-1 text-xs font-medium text-slate-700">
+                      Evidence:{' '}
+                      {askResult.confidence.status === 'sufficient'
+                        ? 'Supported'
+                        : 'Limited'}
+                    </span>
+                  )}
+                </div>
                 <ClassificationBadge kind={resultClassification} arabic={lang === 'ar'} />
               </div>
 
               {askResult ? (
                 <>
-                  <ResultBlock label="Safety label" strong>{String(askResult.safety.safety_label ?? 'unknown')} - {String(askResult.safety.reason ?? '')}</ResultBlock>
-                  <ResultBlock label="Confidence">{askResult.retrieval.confidence} · top score {askResult.retrieval.top_score.toFixed(3)}</ResultBlock>
+                  {askResult.safety?.safety_label && askResult.safety.safety_label !== 'allowed' && (
+                    <ResultBlock label="Safety status" strong>
+                      {String(askResult.safety.safety_label)} — {String(askResult.safety.reason ?? '')}
+                    </ResultBlock>
+                  )}
                   <ResultBlock label={L.shortAnswer} strong>{parsedAnswer?.shortAnswer}</ResultBlock>
                   {parsedAnswer?.why && <ResultBlock label={L.why}>{parsedAnswer.why}</ResultBlock>}
                   {parsedAnswer?.betterAlternative && (
@@ -469,21 +530,39 @@ export default function App() {
                       </div>
                     </div>
                   )}
-                  {parsedAnswer?.evidenceExcerpt && <ResultBlock label="Evidence excerpt">{parsedAnswer.evidenceExcerpt}</ResultBlock>}
                   {parsedAnswer?.citations && <ResultBlock label="Citations">{parsedAnswer.citations}</ResultBlock>}
-                  {askResult.substitutions.length > 0 && <ResultBlock label="Substitutions">{askResult.substitutions.map((item) => item.alternative).join('; ')}</ResultBlock>}
-                  {askResult.unsupported_claims.length > 0 && <ResultBlock label="Unsupported claims">{askResult.unsupported_claims.map((claim) => claim.sentence).join(' | ')}</ResultBlock>}
-                  <ResultBlock label="Citation validation">{JSON.stringify(askResult.citation_validation)}</ResultBlock>
+                  {parsedAnswer?.evidenceExcerpt && <ResultBlock label="Evidence excerpt">{parsedAnswer.evidenceExcerpt}</ResultBlock>}
+                  {askResult.substitutions && askResult.substitutions.length > 0 && (
+                    <ResultBlock label="Substitutions">
+                      {askResult.substitutions.map((item) => (typeof item === 'string' ? item : item.alternative)).join('; ')}
+                    </ResultBlock>
+                  )}
+                  {askResult.unsupported_claims && askResult.unsupported_claims.length > 0 && (
+                    <ResultBlock label="Unsupported claims">
+                      {askResult.unsupported_claims.map((claim) => claim.sentence).join(' | ')}
+                    </ResultBlock>
+                  )}
                   <div className="mt-4">
                     <SafetyAlert tone={resultClassification === 'refused' ? 'refusal' : 'note'} title={L.safetyNote}>
                       {parsedAnswer?.safetyNote || 'Consult a qualified clinician or registered dietitian for personalized care.'}
                     </SafetyAlert>
                   </div>
+
+                  {showChunks &&
+                    askResult?.retrieval?.chunks &&
+                    askResult.retrieval.chunks.length > 0 && (
+                      <div className="mt-6 border-t border-slate-100 pt-5">
+                        <p className="mb-3 text-[12px] font-semibold uppercase tracking-wide text-slate-400">
+                          Evidence details ({askResult.retrieval.chunks.length} chunks)
+                        </p>
+                        <EvidenceDetails chunks={askResult.retrieval.chunks} />
+                      </div>
+                    )}
                 </>
               ) : (
                 <>
-                  <ResultBlock label={L.shortAnswer} strong>Better to limit orange juice.</ResultBlock>
-                  <ResultBlock label={L.why}>Backend offline - showing mock demo data until the API responds.</ResultBlock>
+                  <ResultBlock label={L.shortAnswer} strong>Ask a food safety question above.</ResultBlock>
+                  <ResultBlock label={L.why}>Answers will be retrieved only from official clinical guidelines.</ResultBlock>
                   <div className="mt-4">
                     <SafetyAlert title={L.safetyNote}>This is not a personalized diet plan or medical prescription.</SafetyAlert>
                   </div>
@@ -495,11 +574,24 @@ export default function App() {
           <aside>
             <div className="mb-3 flex items-center justify-between">
               <p className="text-[13px] font-semibold uppercase tracking-wide text-slate-400">{L.retrieved}</p>
-              <span className="rounded-md bg-slate-100 px-2 py-0.5 font-mono text-[11px] text-slate-500">{resultEvidenceCards.length || mockEvidence.length} chunks</span>
+              <span className="rounded-md bg-slate-100 px-2 py-0.5 font-mono text-[11px] text-slate-500">
+                {showChunks && resultEvidenceCards.length ? `${resultEvidenceCards.length} chunks` : 'Hidden'}
+              </span>
             </div>
-            <div className="flex flex-col gap-3">
-              {(resultEvidenceCards.length > 0 ? resultEvidenceCards : mockEvidence).map((item) => <EvidenceCard key={item.chunk} e={item} />)}
-            </div>
+            {showChunks && resultEvidenceCards.length > 0 ? (
+              <div className="flex flex-col gap-3">
+                {resultEvidenceCards.map((item) => (
+                  <EvidenceCard key={item.chunk} e={item} />
+                ))}
+              </div>
+            ) : (
+              <div className="rounded-2xl border border-slate-200 bg-white p-5 text-[13px] text-slate-500">
+                <p className="font-semibold text-navy">Evidence details hidden</p>
+                <p className="mt-1 leading-relaxed">
+                  Citations are shown inline with the answer. Check “Show evidence details” to inspect the raw chunk text and similarity scores.
+                </p>
+              </div>
+            )}
           </aside>
         </div>
       </section>

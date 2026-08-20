@@ -13,9 +13,9 @@ from src.core.config import MIN_RETRIEVAL_CONFIDENCE, PROJECT_TOPIC, RETRIEVAL_T
 from src.core.errors import ConfigurationError, ModelFallbackExhausted
 from src.food.food_classifier import classify_food_guidance
 from src.food.substitutions import suggest_substitutions
-from src.layers.disease_layer_orchestrator import orchestrate_disease_layer
+from src.layers.disease_layer_orchestrator import resolve_disease_layer
+from src.retrieval.confidence import evaluate_retrieval_confidence
 from src.retrieval.retrieve import retrieve_chunks
-from src.safety.confidence import retrieval_confidence
 from src.safety.safety import SAFETY_NOTE, classify_query
 from src.safety.unsupported_claims import find_unsupported_claims
 
@@ -48,13 +48,8 @@ def generate_answer(
     min_confidence: float = MIN_RETRIEVAL_CONFIDENCE,
 ) -> str:
     if safety_result.get("safety_label") == "refuse":
-        return REFUSE_TEMPLATE.format(reason=safety_result.get("reason", "Request is outside scope."), safety_note=SAFETY_NOTE)
-
-    confidence = retrieval_confidence(chunks, min_confidence, query=query)
-    if not confidence["can_answer"]:
-        return INSUFFICIENT_EVIDENCE_TEMPLATE.format(
-            top_similarity=confidence["top_similarity"],
-            threshold=confidence["threshold"],
+        return REFUSE_TEMPLATE.format(
+            reason=safety_result.get("reason", "Request is outside scope."),
             safety_note=SAFETY_NOTE,
         )
 
@@ -88,15 +83,19 @@ def deterministic_answer(query: str, chunks: list[dict], safety_result: dict) ->
         else "No citation available."
     )
     alternatives = suggest_substitutions(query, chunks)
-    alt_text = "; ".join(a["alternative"] for a in alternatives) if alternatives else "No evidence-tied alternative identified from the retrieved chunks."
+    alt_text = (
+        "; ".join(a["alternative"] for a in alternatives)
+        if alternatives
+        else "No evidence-tied alternative identified from the retrieved chunks."
+    )
     return f"""Food Safety Classification:
 {classification}
 
 Short Answer:
-The answer should be interpreted only within the retrieved ADA diabetes nutrition evidence.
+The answer should be interpreted only within the retrieved guideline evidence.
 
 Why:
-The retrieved evidence discusses this topic in the context of diabetes nutrition recommendations. Avoid treating this as personalized medical advice.
+The retrieved evidence discusses this topic in the context of clinical guideline recommendations. Avoid treating this as personalized medical advice.
 
 Better Alternative:
 {alt_text}
@@ -114,33 +113,186 @@ Safety Note:
 
 def full_pipeline(
     query: str,
-    clinical_topic: str = PROJECT_TOPIC,
-    disease_layer: str = "diabetes",
+    clinical_topic: str | None = None,
+    disease_layer: str = "auto",
     top_k: int = RETRIEVAL_TOP_K,
 ) -> dict:
-    layer = orchestrate_disease_layer(query, disease_layer)
-    safety = classify_query(query, active_layer=layer["effective_layer"] if layer["can_answer"] else "diabetes")
-    if not layer["can_answer"] and safety.get("safety_label") != "refuse":
-        safety = {
-            "safety_label": "refuse",
-            "reason": layer["reason"],
-            "recommended_action": "refuse_and_explain",
+    query = (query or "").strip()
+
+    safety = classify_query(query)
+
+    if safety["safety_label"] == "refuse":
+        return {
+            "question": query,
+            "query": query,
+            "layer": {
+                "effective_layer": None,
+                "active": False,
+                "can_answer": False,
+                "reason": safety["reason"],
+            },
+            "safety": safety,
+            "safety_result": safety,
+            "confidence": {
+                "status": "not_evaluated",
+                "can_answer": False,
+            },
+            "retrieval": {
+                "confidence": "not_evaluated",
+                "top_score": 0.0,
+                "chunks": [],
+            },
+            "chunks": [],
+            "answer": {
+                "classification": "refused",
+                "short_answer": safety["reason"],
+                "reason": safety["reason"],
+                "safer_alternative": None,
+                "citations": [],
+            },
+            "substitutions": [],
+            "citation_validation": {
+                "valid": True,
+                "reason": "No citation required for safety refusal.",
+                "cited_chunk_ids": [],
+            },
+            "unsupported_claims": [],
         }
-    chunks: list[dict] = []
-    if safety["safety_label"] != "refuse":
-        filters = layer["retrieval_filters"]
-        chunks = retrieve_chunks(query, filters.get("clinical_topic", clinical_topic), filters.get("disease_layer", disease_layer), top_k)
+
+    route = resolve_disease_layer(
+        query=query,
+        requested_layer=disease_layer or "auto",
+    )
+
+    if not route["can_answer"]:
+        return {
+            "question": query,
+            "query": query,
+            "layer": {
+                **route,
+                "active": False,
+            },
+            "safety": safety,
+            "safety_result": safety,
+            "confidence": {
+                "status": "not_evaluated",
+                "can_answer": False,
+            },
+            "retrieval": {
+                "confidence": "not_evaluated",
+                "top_score": 0.0,
+                "chunks": [],
+            },
+            "chunks": [],
+            "answer": {
+                "classification": "not_supported_by_retrieved_evidence",
+                "short_answer": route["reason"],
+                "reason": route["reason"],
+                "safer_alternative": None,
+                "citations": [],
+            },
+            "substitutions": [],
+            "citation_validation": {
+                "valid": True,
+                "reason": "No citation required because no guideline layer was selected.",
+                "cited_chunk_ids": [],
+            },
+            "unsupported_claims": [],
+        }
+
+    effective_layer = route["effective_layer"]
+    effective_topic = clinical_topic or route["clinical_topic"]
+    allowed_document_ids = route["allowed_document_ids"]
+
+    chunks = retrieve_chunks(
+        query=query,
+        clinical_topic=effective_topic,
+        disease_layer=effective_layer,
+        top_k=top_k,
+        allowed_document_ids=allowed_document_ids,
+    )
+
+    confidence = evaluate_retrieval_confidence(
+        query=query,
+        chunks=chunks,
+        expected_layer=effective_layer,
+    )
+
+    if not confidence["can_answer"]:
+        return {
+            "question": query,
+            "query": query,
+            "layer": {
+                "effective_layer": effective_layer,
+                "active": True,
+                "clinical_topic": effective_topic,
+                "allowed_document_ids": allowed_document_ids,
+                "can_answer": True,
+                "route_status": route["route_status"],
+                "reason": route["reason"],
+            },
+            "safety": safety,
+            "safety_result": safety,
+            "confidence": confidence,
+            "retrieval": {
+                "confidence": confidence["status"],
+                "top_score": confidence["top_similarity"],
+                "chunks": chunks,
+            },
+            "chunks": chunks,
+            "answer": {
+                "classification": "not_supported_by_retrieved_evidence",
+                "short_answer": "The retrieved evidence is insufficient to answer this question.",
+                "reason": f"Top similarity was {confidence['top_similarity']:.3f} and composite score was {confidence['composite_score']:.3f}.",
+                "safer_alternative": None,
+                "citations": [],
+            },
+            "substitutions": [],
+            "citation_validation": {
+                "valid": True,
+                "reason": "No citations generated for insufficient evidence.",
+                "cited_chunk_ids": [],
+            },
+            "unsupported_claims": [],
+        }
+
     answer = generate_answer(query, chunks, safety)
-    citation_check = validate_citations(answer, chunks) if chunks else {"valid": safety["safety_label"] == "refuse", "failures": []}
-    unsupported_claims = find_unsupported_claims(answer, chunks) if chunks else []
+    citation_check = (
+        validate_citations(answer, chunks)
+        if chunks
+        else {"valid": True, "failures": []}
+    )
+    unsupported_claims = (
+        find_unsupported_claims(answer, chunks)
+        if chunks
+        else []
+    )
+    substitutions = suggest_substitutions(query, chunks)
+
     return {
+        "question": query,
         "query": query,
-        "layer": layer,
+        "layer": {
+            "effective_layer": effective_layer,
+            "active": True,
+            "clinical_topic": effective_topic,
+            "allowed_document_ids": allowed_document_ids,
+            "can_answer": True,
+            "route_status": route["route_status"],
+            "reason": route["reason"],
+        },
+        "safety": safety,
         "safety_result": safety,
+        "confidence": confidence,
+        "retrieval": {
+            "confidence": confidence["status"],
+            "top_score": confidence["top_similarity"],
+            "chunks": chunks,
+        },
         "chunks": chunks,
-        "confidence": retrieval_confidence(chunks, query=query),
         "answer": answer,
+        "substitutions": substitutions,
         "citation_validation": citation_check,
-        "substitutions": suggest_substitutions(query, chunks),
         "unsupported_claims": unsupported_claims,
     }
+

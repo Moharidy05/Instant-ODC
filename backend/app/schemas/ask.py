@@ -10,10 +10,10 @@ from backend.app.schemas.food import SubstitutionItem
 
 class AskRequest(BaseModel):
     question: str = Field(min_length=1)
-    disease_layer: str = "diabetes"
+    disease_layer: str = "auto"
     language: str = "en"
     top_k: int = Field(default=5, ge=1, le=10)
-    show_chunks: bool = True
+    show_chunks: bool = False
 
 
 class RetrievalPayload(BaseModel):

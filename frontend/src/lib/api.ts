@@ -60,14 +60,25 @@ export function getLayers() {
 export function askFoodSafety(payload: AskRequest) {
   return requestJson<AskResponse>('/ask', {
     method: 'POST',
-    body: JSON.stringify(payload),
+    body: JSON.stringify({
+      question: payload.question,
+      disease_layer: payload.disease_layer ?? 'auto',
+      language: payload.language ?? 'en',
+      top_k: payload.top_k ?? 5,
+      show_chunks: payload.show_chunks ?? false,
+    }),
   })
 }
 
 export function searchEvidence(payload: EvidenceSearchRequest) {
   return requestJson<EvidenceSearchResponse>('/evidence/search', {
     method: 'POST',
-    body: JSON.stringify(payload),
+    body: JSON.stringify({
+      query: payload.query,
+      disease_layer: payload.disease_layer ?? 'auto',
+      clinical_topic: payload.clinical_topic,
+      top_k: payload.top_k ?? 5,
+    }),
   })
 }
 
